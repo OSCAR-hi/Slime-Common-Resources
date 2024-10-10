@@ -1,0 +1,6 @@
+[submodule "Assets/In Game Content"]
+	path = Assets/In Game Content
+	url = https://github.com/OSCAR-hi/Slime-In-Game-Content.git
+[submodule "Assets/Level Editor Content"]
+	path = Assets/Level Editor Content
+	url = https://github.com/OSCAR-hi/Slime-Level-Editor-Content.git
