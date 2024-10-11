@@ -4,3 +4,6 @@
 [submodule "Assets/Level Editor Content"]
 	path = Assets/Level Editor Content
 	url = https://github.com/OSCAR-hi/Slime-Level-Editor-Content.git
+[submodule "Assets/UI Content"]
+	path = Assets/UI Content
+	url = https://github.com/OSCAR-hi/Slime-UI-Content.git
