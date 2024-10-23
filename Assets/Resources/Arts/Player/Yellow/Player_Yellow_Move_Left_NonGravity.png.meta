@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 168bc5527e97782439a39600eefd5ca8
+guid: 6022a7cba514a06429c5c2c69f182b43
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,127 +105,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_4
+      name: Player_Yellow_Move_Left_NonGravity_4
       rect:
         serializedVersion: 2
-        x: 408
+        x: 376
         y: 47
         width: 62
         height: 39
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5473be84462563478b5118e0788121d
-      internalID: -98301514
+      spriteID: a811918647c211645ab01389c10fb56b
+      internalID: -1056794877
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_5
+      name: Player_Yellow_Move_Left_NonGravity_5
       rect:
         serializedVersion: 2
-        x: 502
+        x: 470
         y: 47
         width: 62
         height: 39
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 992edd5a088e6c344a09f9e9c8ec3070
-      internalID: -1265007635
+      spriteID: eb3ecf19bb1917345b46893d127c5563
+      internalID: 1746233085
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_6
+      name: Player_Yellow_Move_Left_NonGravity_6
       rect:
         serializedVersion: 2
-        x: 594
+        x: 566
         y: 47
         width: 62
         height: 39
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0bec79bdd26b894d9986446866b2007
-      internalID: 140066936
+      spriteID: 80d1149c3e86b7647ba8cfee9367d917
+      internalID: 368824033
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_7
+      name: Player_Yellow_Move_Left_NonGravity_7
       rect:
         serializedVersion: 2
-        x: 690
-        y: 48
+        x: 658
+        y: 47
         width: 62
         height: 39
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 740444833d017634384eeb5b14ca943b
-      internalID: -131773074
+      spriteID: d0613311cee62eb40bde83b8ab63ce29
+      internalID: -997946041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_8
+      name: Player_Yellow_Move_Left_NonGravity_8
       rect:
         serializedVersion: 2
-        x: 32
+        x: 0
         y: 0
         width: 62
         height: 39
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b900ca840767bb489d791ecfaeb0f82
-      internalID: 1405866992
+      spriteID: 19dd1c63ab465d04e90ba07685a1b018
+      internalID: -210109639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_9
+      name: Player_Yellow_Move_Left_NonGravity_9
       rect:
         serializedVersion: 2
-        x: 126
+        x: 94
         y: 0
         width: 62
         height: 39
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dde2e36ccb4530047bfcf5087454c3c6
-      internalID: -1603894343
+      spriteID: 50f64329ca135e347b60c9d2bc733f8e
+      internalID: 252406637
       vertices: []
       indices: 
       edges: []
@@ -241,21 +241,21 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Player_Blue_Move_NonGravity_0: -208206647
-      Player_Blue_Move_NonGravity_1: 376084452
-      Player_Blue_Move_NonGravity_10: -2107168660
-      Player_Blue_Move_NonGravity_11: 396006844
-      Player_Blue_Move_NonGravity_12: -566151887
-      Player_Blue_Move_NonGravity_13: 667734080
-      Player_Blue_Move_NonGravity_14: 1243473808
-      Player_Blue_Move_NonGravity_2: -1398509231
-      Player_Blue_Move_NonGravity_3: -32996160
-      Player_Blue_Move_NonGravity_4: -98301514
-      Player_Blue_Move_NonGravity_5: -1265007635
-      Player_Blue_Move_NonGravity_6: 140066936
-      Player_Blue_Move_NonGravity_7: -131773074
-      Player_Blue_Move_NonGravity_8: 1405866992
-      Player_Blue_Move_NonGravity_9: -1603894343
+      Player_Yellow_Move_Left_NonGravity_0: 1676772004
+      Player_Yellow_Move_Left_NonGravity_1: -1082751897
+      Player_Yellow_Move_Left_NonGravity_10: 1427861582
+      Player_Yellow_Move_Left_NonGravity_11: 88107094
+      Player_Yellow_Move_Left_NonGravity_12: -1797903035
+      Player_Yellow_Move_Left_NonGravity_13: -971150600
+      Player_Yellow_Move_Left_NonGravity_14: -1879688476
+      Player_Yellow_Move_Left_NonGravity_2: -2134166045
+      Player_Yellow_Move_Left_NonGravity_3: -405265466
+      Player_Yellow_Move_Left_NonGravity_4: -1056794877
+      Player_Yellow_Move_Left_NonGravity_5: 1746233085
+      Player_Yellow_Move_Left_NonGravity_6: 368824033
+      Player_Yellow_Move_Left_NonGravity_7: -997946041
+      Player_Yellow_Move_Left_NonGravity_8: -210109639
+      Player_Yellow_Move_Left_NonGravity_9: 252406637
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

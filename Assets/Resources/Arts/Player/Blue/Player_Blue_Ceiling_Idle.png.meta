@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3e2c5dd11e8194f4fb2d1dbabcbb4ecd
+guid: d0d4346ba977cfc48a5e571c867d1383
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,175 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ColourSprite_Blue_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 48e485caf2339a14aaadac220fa09469
-      internalID: 382143489
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_1
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6af6d477a83956747bba8f1e5f155520
-      internalID: -440876878
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_2
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cf775951da4bc1e41840f6369d0f90d9
-      internalID: -1259457499
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_3
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37125d598edfb68429b450dd0ba37673
-      internalID: -861457379
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_4
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9168e85946856e548b66003280e709ee
-      internalID: 1520511385
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_5
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 62107aef593d7a04cb5ebe7a3abc9597
-      internalID: 768914436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_6
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5da2ff67359fefe4bafb55705e7522ca
-      internalID: -374139240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_7
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3cc1f3c321efef44a845b0e138f3e8f8
-      internalID: -2099920452
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_8
+      name: Player_Blue_Ceiling_Idle_0
       rect:
         serializedVersion: 2
         x: 0
@@ -287,14 +119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbfd57774286dd544b7f676fb3d44ec6
-      internalID: 246936616
+      spriteID: cf0274bfc22ef8740a340000f9a47e80
+      internalID: 1906216799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_9
+      name: Player_Blue_Ceiling_Idle_1
       rect:
         serializedVersion: 2
         x: 48
@@ -308,14 +140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f963aecd5a928a46b4db730661d2278
-      internalID: 994783160
+      spriteID: ecf7b26ee0199c54682b004547c37a63
+      internalID: 1986146418
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_10
+      name: Player_Blue_Ceiling_Idle_2
       rect:
         serializedVersion: 2
         x: 96
@@ -329,14 +161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f697f93bc2f090a439eb78586930173b
-      internalID: 857983494
+      spriteID: 778ccff4e526fa445bf347cfce2af57c
+      internalID: -632315272
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_11
+      name: Player_Blue_Ceiling_Idle_3
       rect:
         serializedVersion: 2
         x: 144
@@ -350,14 +182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05ce4fe3531f10347817928b3da993c8
-      internalID: -466834051
+      spriteID: e4f75acee55b31f41a376bc0c0a16925
+      internalID: 1853013657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_12
+      name: Player_Blue_Ceiling_Idle_4
       rect:
         serializedVersion: 2
         x: 192
@@ -371,14 +203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ba364c1573e48b4ab70f79aed875b57
-      internalID: 456839858
+      spriteID: 5a31cc22d7598044fb3e73a43e5fc450
+      internalID: -1368413612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_13
+      name: Player_Blue_Ceiling_Idle_5
       rect:
         serializedVersion: 2
         x: 240
@@ -392,14 +224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7326bc1e3514a22459a67fee061fb554
-      internalID: 1708357673
+      spriteID: 35d1b0d902e42bd47b13d22b807bf904
+      internalID: 975934180
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_14
+      name: Player_Blue_Ceiling_Idle_6
       rect:
         serializedVersion: 2
         x: 288
@@ -413,14 +245,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e7b025527b9eef45968d59e0e46a5c7
-      internalID: -1886496338
+      spriteID: 6839bef01e2ba1748a635eb7bf1e4296
+      internalID: -2065684556
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_15
+      name: Player_Blue_Ceiling_Idle_7
       rect:
         serializedVersion: 2
         x: 336
@@ -434,14 +266,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53f2071df4f72c043b9abdf0e377c04d
-      internalID: -1109986961
+      spriteID: 455f5be6f0559ad42a055f28345e22ff
+      internalID: -595452726
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_16
+      name: Player_Blue_Ceiling_Idle_8
       rect:
         serializedVersion: 2
         x: 0
@@ -455,14 +287,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a13be641aa0287546882e683003e60a5
-      internalID: 355356294
+      spriteID: 0330aeaeaa3bf0d46b5818b31a3b2686
+      internalID: 800792821
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_17
+      name: Player_Blue_Ceiling_Idle_9
       rect:
         serializedVersion: 2
         x: 48
@@ -476,14 +308,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59f19db803b07b54fb7e3ae31973e276
-      internalID: 1800321787
+      spriteID: 7eb7cb0e4809f1a459be2cdb782e8a87
+      internalID: -1500485143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_18
+      name: Player_Blue_Ceiling_Idle_10
       rect:
         serializedVersion: 2
         x: 96
@@ -497,14 +329,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e6bd9500fe9b7544b6154e8ab5e055e
-      internalID: -1166087226
+      spriteID: 00759bccffbb9e040a8a8d21b3c11558
+      internalID: -452836852
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_19
+      name: Player_Blue_Ceiling_Idle_11
       rect:
         serializedVersion: 2
         x: 144
@@ -518,14 +350,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7928f81268eb3d94883302dba9bce1d9
-      internalID: 52551639
+      spriteID: 5943d22964faf094d8663a5a33102d66
+      internalID: 1651354397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_20
+      name: Player_Blue_Ceiling_Idle_12
       rect:
         serializedVersion: 2
         x: 192
@@ -539,14 +371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9cad6dafc3858204fa9611b1e5474d19
-      internalID: 1100136012
+      spriteID: 3db984ce59dfc4345b161ed0fc0f77d8
+      internalID: -1919783924
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_21
+      name: Player_Blue_Ceiling_Idle_13
       rect:
         serializedVersion: 2
         x: 240
@@ -560,14 +392,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22c5df75018bf664ebc2f1b3af34d015
-      internalID: 253469078
+      spriteID: 1a4bf52d4878b4746a4c3f39353b8f7a
+      internalID: -1838279868
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_22
+      name: Player_Blue_Ceiling_Idle_14
       rect:
         serializedVersion: 2
         x: 288
@@ -581,14 +413,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67ff8400bee68d34784a93edcaaf6a11
-      internalID: 2114670514
+      spriteID: b91dc5c76fc862e4c96abf245c943153
+      internalID: 235916464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_23
+      name: Player_Blue_Ceiling_Idle_15
       rect:
         serializedVersion: 2
         x: 336
@@ -602,14 +434,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1314dd904b607f74ba772ac8bf1122d8
-      internalID: 450258173
+      spriteID: 584bdc8cd53bf634387d1faac0e48f42
+      internalID: -38790225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_24
+      name: Player_Blue_Ceiling_Idle_16
       rect:
         serializedVersion: 2
         x: 0
@@ -623,14 +455,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82a4825bd1ebe4e448a3ddcf8abe574c
-      internalID: 1744635705
+      spriteID: e31cd894cf802bf45a89d4d3f4db531c
+      internalID: 1563555716
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_25
+      name: Player_Blue_Ceiling_Idle_17
       rect:
         serializedVersion: 2
         x: 48
@@ -644,14 +476,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dedc849c93a83014da4014fd4d4b5a86
-      internalID: 1847821037
+      spriteID: a948aa59cc6936343a63f1d0f66c36ab
+      internalID: 895159054
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_26
+      name: Player_Blue_Ceiling_Idle_18
       rect:
         serializedVersion: 2
         x: 96
@@ -665,14 +497,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b32d9bfd0c2d7fa479f69d98422d9121
-      internalID: 441915504
+      spriteID: 1d91990d0a9e06440aa279d9477757a9
+      internalID: -846203247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_27
+      name: Player_Blue_Ceiling_Idle_19
       rect:
         serializedVersion: 2
         x: 144
@@ -686,92 +518,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf99a834c70a2ad47bc9728dc92455bc
-      internalID: -1041123449
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_28
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 420d7a75ff785cb45936f40e258767c8
-      internalID: 821509792
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_29
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 0
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3e6db5267da79cc4bb92791df6db1637
-      internalID: -1002215232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_30
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 0
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 599b3a377498be340915076dce7fb8f6
-      internalID: 1483300250
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_31
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 0
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 43e5a65453c428c4f895fa92e3952e83
-      internalID: -1572440300
+      spriteID: 1b10e569b97d1074cad3775e9d521a9a
+      internalID: -1220008509
       vertices: []
       indices: 
       edges: []
@@ -787,38 +535,26 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      ColourSprite_Blue_0: 382143489
-      ColourSprite_Blue_1: -440876878
-      ColourSprite_Blue_10: 857983494
-      ColourSprite_Blue_11: -466834051
-      ColourSprite_Blue_12: 456839858
-      ColourSprite_Blue_13: 1708357673
-      ColourSprite_Blue_14: -1886496338
-      ColourSprite_Blue_15: -1109986961
-      ColourSprite_Blue_16: 355356294
-      ColourSprite_Blue_17: 1800321787
-      ColourSprite_Blue_18: -1166087226
-      ColourSprite_Blue_19: 52551639
-      ColourSprite_Blue_2: -1259457499
-      ColourSprite_Blue_20: 1100136012
-      ColourSprite_Blue_21: 253469078
-      ColourSprite_Blue_22: 2114670514
-      ColourSprite_Blue_23: 450258173
-      ColourSprite_Blue_24: 1744635705
-      ColourSprite_Blue_25: 1847821037
-      ColourSprite_Blue_26: 441915504
-      ColourSprite_Blue_27: -1041123449
-      ColourSprite_Blue_28: 821509792
-      ColourSprite_Blue_29: -1002215232
-      ColourSprite_Blue_3: -861457379
-      ColourSprite_Blue_30: 1483300250
-      ColourSprite_Blue_31: -1572440300
-      ColourSprite_Blue_4: 1520511385
-      ColourSprite_Blue_5: 768914436
-      ColourSprite_Blue_6: -374139240
-      ColourSprite_Blue_7: -2099920452
-      ColourSprite_Blue_8: 246936616
-      ColourSprite_Blue_9: 994783160
+      Player_Blue_Ceiling_Idle_0: 1906216799
+      Player_Blue_Ceiling_Idle_1: 1986146418
+      Player_Blue_Ceiling_Idle_10: -452836852
+      Player_Blue_Ceiling_Idle_11: 1651354397
+      Player_Blue_Ceiling_Idle_12: -1919783924
+      Player_Blue_Ceiling_Idle_13: -1838279868
+      Player_Blue_Ceiling_Idle_14: 235916464
+      Player_Blue_Ceiling_Idle_15: -38790225
+      Player_Blue_Ceiling_Idle_16: 1563555716
+      Player_Blue_Ceiling_Idle_17: 895159054
+      Player_Blue_Ceiling_Idle_18: -846203247
+      Player_Blue_Ceiling_Idle_19: -1220008509
+      Player_Blue_Ceiling_Idle_2: -632315272
+      Player_Blue_Ceiling_Idle_3: 1853013657
+      Player_Blue_Ceiling_Idle_4: -1368413612
+      Player_Blue_Ceiling_Idle_5: 975934180
+      Player_Blue_Ceiling_Idle_6: -2065684556
+      Player_Blue_Ceiling_Idle_7: -595452726
+      Player_Blue_Ceiling_Idle_8: 800792821
+      Player_Blue_Ceiling_Idle_9: -1500485143
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

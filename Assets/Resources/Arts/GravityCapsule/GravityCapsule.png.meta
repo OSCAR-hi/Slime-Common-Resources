@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 168bc5527e97782439a39600eefd5ca8
+guid: 4bfdc7768a24c3e4eb069dd90c36fd5f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,127 +105,211 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_4
+      name: GravityCapsule_0
       rect:
         serializedVersion: 2
-        x: 408
-        y: 47
-        width: 62
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d5473be84462563478b5118e0788121d
-      internalID: -98301514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_5
-      rect:
-        serializedVersion: 2
-        x: 502
-        y: 47
-        width: 62
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 992edd5a088e6c344a09f9e9c8ec3070
-      internalID: -1265007635
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_6
-      rect:
-        serializedVersion: 2
-        x: 594
-        y: 47
-        width: 62
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c0bec79bdd26b894d9986446866b2007
-      internalID: 140066936
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_7
-      rect:
-        serializedVersion: 2
-        x: 690
+        x: 0
         y: 48
-        width: 62
-        height: 39
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 740444833d017634384eeb5b14ca943b
-      internalID: -131773074
+      spriteID: a2513e78aa058224489796fddf93fade
+      internalID: -124124799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_8
+      name: GravityCapsule_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 62
-        height: 39
+        x: 48
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b900ca840767bb489d791ecfaeb0f82
-      internalID: 1405866992
+      spriteID: d4e1cacee92522848a0fc111c06c1171
+      internalID: 1424040139
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_9
+      name: GravityCapsule_2
       rect:
         serializedVersion: 2
-        x: 126
-        y: 0
-        width: 62
-        height: 39
+        x: 96
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dde2e36ccb4530047bfcf5087454c3c6
-      internalID: -1603894343
+      spriteID: 613bb4317e4658541827fda0d6c6ddca
+      internalID: 949575481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GravityCapsule_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d8e1544242ad4419a03055f72800b8
+      internalID: 127429910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GravityCapsule_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed37015fbe0a11e4eb026137587cebc5
+      internalID: 462382478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GravityCapsule_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08eef7a445157784995fa7dd0bef0b21
+      internalID: -138528119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GravityCapsule_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7203a34ca53d4c34592e0e24aa913a96
+      internalID: -2014770958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GravityCapsule_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356e3cb44c8487a47a526b7d908ee84b
+      internalID: -2053628615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GravityCapsule_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377b0ee5e5bb566468abb63e3e17b469
+      internalID: 1253715636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GravityCapsule_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6e3a9132d16094dbcd15afefe4a4cc
+      internalID: -961303858
       vertices: []
       indices: 
       edges: []
@@ -241,21 +325,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Player_Blue_Move_NonGravity_0: -208206647
-      Player_Blue_Move_NonGravity_1: 376084452
-      Player_Blue_Move_NonGravity_10: -2107168660
-      Player_Blue_Move_NonGravity_11: 396006844
-      Player_Blue_Move_NonGravity_12: -566151887
-      Player_Blue_Move_NonGravity_13: 667734080
-      Player_Blue_Move_NonGravity_14: 1243473808
-      Player_Blue_Move_NonGravity_2: -1398509231
-      Player_Blue_Move_NonGravity_3: -32996160
-      Player_Blue_Move_NonGravity_4: -98301514
-      Player_Blue_Move_NonGravity_5: -1265007635
-      Player_Blue_Move_NonGravity_6: 140066936
-      Player_Blue_Move_NonGravity_7: -131773074
-      Player_Blue_Move_NonGravity_8: 1405866992
-      Player_Blue_Move_NonGravity_9: -1603894343
+      GravityCapsule_0: -124124799
+      GravityCapsule_1: 1424040139
+      GravityCapsule_2: 949575481
+      GravityCapsule_3: 127429910
+      GravityCapsule_4: 462382478
+      GravityCapsule_5: -138528119
+      GravityCapsule_6: -2014770958
+      GravityCapsule_7: -2053628615
+      GravityCapsule_8: 1253715636
+      GravityCapsule_9: -961303858
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

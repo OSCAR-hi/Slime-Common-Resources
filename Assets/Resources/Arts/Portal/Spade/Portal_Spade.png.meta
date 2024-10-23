@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 168bc5527e97782439a39600eefd5ca8
+guid: 428241eb7dbffa5458653d0f192fe8f0
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,127 +105,211 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_4
+      name: Portal_Spade_0
       rect:
         serializedVersion: 2
-        x: 408
-        y: 47
-        width: 62
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d5473be84462563478b5118e0788121d
-      internalID: -98301514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_5
-      rect:
-        serializedVersion: 2
-        x: 502
-        y: 47
-        width: 62
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 992edd5a088e6c344a09f9e9c8ec3070
-      internalID: -1265007635
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_6
-      rect:
-        serializedVersion: 2
-        x: 594
-        y: 47
-        width: 62
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c0bec79bdd26b894d9986446866b2007
-      internalID: 140066936
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_7
-      rect:
-        serializedVersion: 2
-        x: 690
+        x: 0
         y: 48
-        width: 62
-        height: 39
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 740444833d017634384eeb5b14ca943b
-      internalID: -131773074
+      spriteID: f4da02807bf7acc4685c948c57b5645f
+      internalID: 588817103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_8
+      name: Portal_Spade_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 62
-        height: 39
+        x: 48
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b900ca840767bb489d791ecfaeb0f82
-      internalID: 1405866992
+      spriteID: 9f6217a42ecf0e649b310ac9208ac5bc
+      internalID: -1027099720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_9
+      name: Portal_Spade_2
       rect:
         serializedVersion: 2
-        x: 126
-        y: 0
-        width: 62
-        height: 39
+        x: 96
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dde2e36ccb4530047bfcf5087454c3c6
-      internalID: -1603894343
+      spriteID: 701b7e40890880244a0c54b8a4ec875d
+      internalID: -444084307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_Spade_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9070d377a81e6ba49bab8bb44b35ba5e
+      internalID: 489376374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_Spade_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68da58e446e8fa42800395e13eeeac7
+      internalID: -1341797063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_Spade_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a2da49bf3a2fc47818305167b8c4ec
+      internalID: -842259624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_Spade_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e294e6c52e5ad14da20339a561415bf
+      internalID: 720210724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_Spade_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca849b72ad567b9439748ecf9fd08214
+      internalID: -718137632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_Spade_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274eaf40ce68cf34e929bf664acc0730
+      internalID: 1643558676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_Spade_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d4f3be1c3b8a14eb771c58e38247ce
+      internalID: 242338767
       vertices: []
       indices: 
       edges: []
@@ -241,21 +325,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Player_Blue_Move_NonGravity_0: -208206647
-      Player_Blue_Move_NonGravity_1: 376084452
-      Player_Blue_Move_NonGravity_10: -2107168660
-      Player_Blue_Move_NonGravity_11: 396006844
-      Player_Blue_Move_NonGravity_12: -566151887
-      Player_Blue_Move_NonGravity_13: 667734080
-      Player_Blue_Move_NonGravity_14: 1243473808
-      Player_Blue_Move_NonGravity_2: -1398509231
-      Player_Blue_Move_NonGravity_3: -32996160
-      Player_Blue_Move_NonGravity_4: -98301514
-      Player_Blue_Move_NonGravity_5: -1265007635
-      Player_Blue_Move_NonGravity_6: 140066936
-      Player_Blue_Move_NonGravity_7: -131773074
-      Player_Blue_Move_NonGravity_8: 1405866992
-      Player_Blue_Move_NonGravity_9: -1603894343
+      Portal_Spade_0: 588817103
+      Portal_Spade_1: -1027099720
+      Portal_Spade_2: -444084307
+      Portal_Spade_3: 489376374
+      Portal_Spade_4: -1341797063
+      Portal_Spade_5: -842259624
+      Portal_Spade_6: 720210724
+      Portal_Spade_7: -718137632
+      Portal_Spade_8: 1643558676
+      Portal_Spade_9: 242338767
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

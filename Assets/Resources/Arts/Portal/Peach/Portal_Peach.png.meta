@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 168bc5527e97782439a39600eefd5ca8
+guid: b2725c387f2b89c4a8f9443022677ad9
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,127 +105,211 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_4
+      name: Portal_Peach_0
       rect:
         serializedVersion: 2
-        x: 408
-        y: 47
-        width: 62
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d5473be84462563478b5118e0788121d
-      internalID: -98301514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_5
-      rect:
-        serializedVersion: 2
-        x: 502
-        y: 47
-        width: 62
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 992edd5a088e6c344a09f9e9c8ec3070
-      internalID: -1265007635
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_6
-      rect:
-        serializedVersion: 2
-        x: 594
-        y: 47
-        width: 62
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c0bec79bdd26b894d9986446866b2007
-      internalID: 140066936
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_7
-      rect:
-        serializedVersion: 2
-        x: 690
+        x: 0
         y: 48
-        width: 62
-        height: 39
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 740444833d017634384eeb5b14ca943b
-      internalID: -131773074
+      spriteID: 53a8369757b57544e88cd1d9064cddaf
+      internalID: 2123191250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_8
+      name: Portal_Peach_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 62
-        height: 39
+        x: 48
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b900ca840767bb489d791ecfaeb0f82
-      internalID: 1405866992
+      spriteID: 60393ed1e338841438d4e6a6afbea1f7
+      internalID: -1516011539
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_9
+      name: Portal_Peach_2
       rect:
         serializedVersion: 2
-        x: 126
-        y: 0
-        width: 62
-        height: 39
+        x: 96
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dde2e36ccb4530047bfcf5087454c3c6
-      internalID: -1603894343
+      spriteID: f60f5fa57ba0a3047bcee013dc7294b6
+      internalID: -1536223782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_Peach_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bbe49cf7a1bed4c8bbf93df5d96098
+      internalID: 1902604164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_Peach_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b271856ff20b5d94082b04440f0e983e
+      internalID: 1745652208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_Peach_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76f31f0a28022541b0a796b53cc0a30
+      internalID: -1660950724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_Peach_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1954cbfcf6871544cb757010a3dae993
+      internalID: -542409468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_Peach_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d18ed858745b64f975cc2b9dc01fde
+      internalID: -2037658795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_Peach_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791b43a19690f214fa83c151d3805db5
+      internalID: 1078093772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Portal_Peach_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae27b7d2564ebf4c90e9a1222a51e92
+      internalID: -815794156
       vertices: []
       indices: 
       edges: []
@@ -241,21 +325,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Player_Blue_Move_NonGravity_0: -208206647
-      Player_Blue_Move_NonGravity_1: 376084452
-      Player_Blue_Move_NonGravity_10: -2107168660
-      Player_Blue_Move_NonGravity_11: 396006844
-      Player_Blue_Move_NonGravity_12: -566151887
-      Player_Blue_Move_NonGravity_13: 667734080
-      Player_Blue_Move_NonGravity_14: 1243473808
-      Player_Blue_Move_NonGravity_2: -1398509231
-      Player_Blue_Move_NonGravity_3: -32996160
-      Player_Blue_Move_NonGravity_4: -98301514
-      Player_Blue_Move_NonGravity_5: -1265007635
-      Player_Blue_Move_NonGravity_6: 140066936
-      Player_Blue_Move_NonGravity_7: -131773074
-      Player_Blue_Move_NonGravity_8: 1405866992
-      Player_Blue_Move_NonGravity_9: -1603894343
+      Portal_Peach_0: 2123191250
+      Portal_Peach_1: -1516011539
+      Portal_Peach_2: -1536223782
+      Portal_Peach_3: 1902604164
+      Portal_Peach_4: 1745652208
+      Portal_Peach_5: -1660950724
+      Portal_Peach_6: -542409468
+      Portal_Peach_7: -2037658795
+      Portal_Peach_8: 1078093772
+      Portal_Peach_9: -815794156
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
