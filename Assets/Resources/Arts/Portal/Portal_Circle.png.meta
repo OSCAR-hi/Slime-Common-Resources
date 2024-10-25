@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 200b7b949cb04a34d83786e80c81e7dd
+guid: fd11ea035b9e3dc47b12804e5b7cc8e3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -101,11 +101,47 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Portal_Club_0
+      name: Portal_Circle_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +155,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1e7c01e3b66ffe4fb8fbfb2dbcd75fa
-      internalID: 814635566
+      spriteID: a99925ad4e2877a4f9aac460379dfdff
+      internalID: 2092809310
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Club_1
+      name: Portal_Circle_1
       rect:
         serializedVersion: 2
         x: 48
@@ -140,14 +176,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e920cd73475ac7e458aa688bd2723e6f
-      internalID: -879217234
+      spriteID: ffb53ec7480b9e6478bf26973a1eae1a
+      internalID: 1661344447
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Club_2
+      name: Portal_Circle_2
       rect:
         serializedVersion: 2
         x: 96
@@ -161,14 +197,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16a3aac193ab5e3439b5d83efec2a8e0
-      internalID: -687598460
+      spriteID: 374e8451d2f94d848b015e710f016d41
+      internalID: 1503400178
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Club_3
+      name: Portal_Circle_3
       rect:
         serializedVersion: 2
         x: 144
@@ -182,14 +218,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d704e478fdc71c9459f08bfa894d2973
-      internalID: 1505363975
+      spriteID: 2373da5d96697df419faf13cc460b1c7
+      internalID: 1171114962
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Club_4
+      name: Portal_Circle_4
       rect:
         serializedVersion: 2
         x: 192
@@ -203,14 +239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3cb7292929745634c97ebef3a0f9700b
-      internalID: 1044235267
+      spriteID: 13ae71d963fb36144a6a977a6c3097f8
+      internalID: 347454505
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Club_5
+      name: Portal_Circle_5
       rect:
         serializedVersion: 2
         x: 240
@@ -224,14 +260,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e7efd37a94f460438417de048ba4c29
-      internalID: 1422463212
+      spriteID: 1d09cd63cae5b5f49b58ceb0c8456cdf
+      internalID: 154933368
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Club_6
+      name: Portal_Circle_6
       rect:
         serializedVersion: 2
         x: 288
@@ -245,14 +281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2858b74735afc04dbe571204ba478af
-      internalID: 1224788516
+      spriteID: 6e67b463a2787a8479a6e9996b219f06
+      internalID: 976454641
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Club_7
+      name: Portal_Circle_7
       rect:
         serializedVersion: 2
         x: 336
@@ -266,14 +302,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a200115abb07d5843badcc1926f8324b
-      internalID: -1595383268
+      spriteID: d3218a82de6ddb24296936dca1b61be6
+      internalID: -1904217372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Club_8
+      name: Portal_Circle_8
       rect:
         serializedVersion: 2
         x: 0
@@ -287,14 +323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bb2d4f7a8b8bce45b94dc9f8ca16718
-      internalID: -1304537521
+      spriteID: db3d17b11da564347ac3d45646b4e18e
+      internalID: -382435673
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Club_9
+      name: Portal_Circle_9
       rect:
         serializedVersion: 2
         x: 48
@@ -308,8 +344,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04097ff2a8d239440a8ee45bb4a208a1
-      internalID: 1142940465
+      spriteID: fb2eadccc9974cc4b939461d02b38067
+      internalID: -1329257800
       vertices: []
       indices: 
       edges: []
@@ -325,16 +361,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Portal_Club_0: 814635566
-      Portal_Club_1: -879217234
-      Portal_Club_2: -687598460
-      Portal_Club_3: 1505363975
-      Portal_Club_4: 1044235267
-      Portal_Club_5: 1422463212
-      Portal_Club_6: 1224788516
-      Portal_Club_7: -1595383268
-      Portal_Club_8: -1304537521
-      Portal_Club_9: 1142940465
+      Portal_Circle_0: 2092809310
+      Portal_Circle_1: 1661344447
+      Portal_Circle_2: 1503400178
+      Portal_Circle_3: 1171114962
+      Portal_Circle_4: 347454505
+      Portal_Circle_5: 154933368
+      Portal_Circle_6: 976454641
+      Portal_Circle_7: -1904217372
+      Portal_Circle_8: -382435673
+      Portal_Circle_9: -1329257800
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

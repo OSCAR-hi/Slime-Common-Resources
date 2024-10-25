@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0bc66dc91fbd8f043b05b809b587d435
+guid: 279790ec51e22744c96d65c96b0a433e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -101,11 +101,47 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Portal_Square_0
+      name: Portal_Diamond_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +155,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5fb1504c60f158740bc183e3a645f1a0
-      internalID: 327637397
+      spriteID: aa36aac77297be1478864a8512b4695b
+      internalID: 1621097263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Square_1
+      name: Portal_Diamond_1
       rect:
         serializedVersion: 2
         x: 48
@@ -140,14 +176,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e723f9c9c9991d84ab3b9bf7fa7403e5
-      internalID: 772880327
+      spriteID: 02a4d12ebf50da04dbf78fc715f1a74b
+      internalID: -1612529557
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Square_2
+      name: Portal_Diamond_2
       rect:
         serializedVersion: 2
         x: 96
@@ -161,14 +197,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf478d7567cb3964caf7bb4a84c62b2d
-      internalID: -3405554
+      spriteID: 3fcd7ef0c87b8fe4e9aca7560a1f990c
+      internalID: 1278005165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Square_3
+      name: Portal_Diamond_3
       rect:
         serializedVersion: 2
         x: 144
@@ -182,14 +218,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42e0aadb629337e47804e45771f74a7e
-      internalID: 1607173118
+      spriteID: 403ca629f07b12f4a80a0b4d32a6f767
+      internalID: 1464667858
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Square_4
+      name: Portal_Diamond_4
       rect:
         serializedVersion: 2
         x: 192
@@ -203,14 +239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d69909bfd03dae4409599ca84524c072
-      internalID: -1994604032
+      spriteID: 2fc30eac5406bae469e66b8d40f334d4
+      internalID: -1551186603
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Square_5
+      name: Portal_Diamond_5
       rect:
         serializedVersion: 2
         x: 240
@@ -224,14 +260,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1f03fb342a76d84e841084efef6d305
-      internalID: -1776073820
+      spriteID: adb94bb3b24345e42a4e3c82eba0a6e0
+      internalID: 1834026789
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Square_6
+      name: Portal_Diamond_6
       rect:
         serializedVersion: 2
         x: 288
@@ -245,14 +281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff9e36b96447de84989c5fb5272404d4
-      internalID: 96825898
+      spriteID: 46cb35a837c9e4f48beec02a66b19102
+      internalID: 813281217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Square_7
+      name: Portal_Diamond_7
       rect:
         serializedVersion: 2
         x: 336
@@ -266,14 +302,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bab18cfe5e7966448e205b4f667f01a
-      internalID: 478257684
+      spriteID: c0e5638e63599254a8cced0bdc577b5c
+      internalID: -141770811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Square_8
+      name: Portal_Diamond_8
       rect:
         serializedVersion: 2
         x: 0
@@ -287,14 +323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b0d9a3278ca0834084f09e60b0c8c0f
-      internalID: -230874596
+      spriteID: 410b194fbc7f3874e95b7a9cbb946740
+      internalID: 1795630786
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Square_9
+      name: Portal_Diamond_9
       rect:
         serializedVersion: 2
         x: 48
@@ -308,8 +344,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1256c2087d5c224987340b57b641553
-      internalID: -375428605
+      spriteID: 51fcdc28889a68d41b577c71d8236350
+      internalID: 962059881
       vertices: []
       indices: 
       edges: []
@@ -325,16 +361,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Portal_Square_0: 327637397
-      Portal_Square_1: 772880327
-      Portal_Square_2: -3405554
-      Portal_Square_3: 1607173118
-      Portal_Square_4: -1994604032
-      Portal_Square_5: -1776073820
-      Portal_Square_6: 96825898
-      Portal_Square_7: 478257684
-      Portal_Square_8: -230874596
-      Portal_Square_9: -375428605
+      Portal_Diamond_0: 1621097263
+      Portal_Diamond_1: -1612529557
+      Portal_Diamond_2: 1278005165
+      Portal_Diamond_3: 1464667858
+      Portal_Diamond_4: -1551186603
+      Portal_Diamond_5: 1834026789
+      Portal_Diamond_6: 813281217
+      Portal_Diamond_7: -141770811
+      Portal_Diamond_8: 1795630786
+      Portal_Diamond_9: 962059881
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0eefcf4463ca39d45b27153fc17d8719
+guid: a12d2e6d21b984d41be69ce15371363d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -101,11 +101,47 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Portal_Star_0
+      name: Portal_Triangle_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +155,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ae677b82ba97f3458f4f6549848bde9
-      internalID: -1716680804
+      spriteID: 3bff49d085ef0a740824150bce1e5903
+      internalID: 1852982731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Star_1
+      name: Portal_Triangle_1
       rect:
         serializedVersion: 2
         x: 48
@@ -140,14 +176,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39c44568d96f43740aabc16c29498ec1
-      internalID: -210688184
+      spriteID: 4b3e41693e178954fada38266a19ea8c
+      internalID: -1184132350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Star_2
+      name: Portal_Triangle_2
       rect:
         serializedVersion: 2
         x: 96
@@ -161,14 +197,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66d139646a5cd074faa3ae5eb4051286
-      internalID: 1731734608
+      spriteID: a2e5070a2f1598d4a8724069c873d736
+      internalID: -2129414946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Star_3
+      name: Portal_Triangle_3
       rect:
         serializedVersion: 2
         x: 144
@@ -182,14 +218,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7289a9f388b2724d9d8f9424afde7f2
-      internalID: 1318122983
+      spriteID: 6216aabf8ac972f4f806f03e6e7ff4a0
+      internalID: 1544251243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Star_4
+      name: Portal_Triangle_4
       rect:
         serializedVersion: 2
         x: 192
@@ -203,14 +239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39c202e42a15db74f9c0399134df795c
-      internalID: 272110773
+      spriteID: 3a72d6371cdc02b4ab15545c8037952a
+      internalID: 1644752748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Star_5
+      name: Portal_Triangle_5
       rect:
         serializedVersion: 2
         x: 240
@@ -224,14 +260,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be5781995172d414c80764bc51e69502
-      internalID: 1644386227
+      spriteID: 230649d28f7670e47a8ed101d05ffa23
+      internalID: 1126993412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Star_6
+      name: Portal_Triangle_6
       rect:
         serializedVersion: 2
         x: 288
@@ -245,14 +281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1184236037609e4eb6a32b328809ed0
-      internalID: 2013860007
+      spriteID: 8ea80c6b0b44e0047a55f25370eab791
+      internalID: -1495619532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Star_7
+      name: Portal_Triangle_7
       rect:
         serializedVersion: 2
         x: 336
@@ -266,14 +302,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8ac1137f6dae6f4f9c6963038df6f90
-      internalID: -1744440994
+      spriteID: dd4e745f39cbe15418b35f2c48843498
+      internalID: 1634146371
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Star_8
+      name: Portal_Triangle_8
       rect:
         serializedVersion: 2
         x: 0
@@ -287,14 +323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd93922411575414faaaa950ccf21107
-      internalID: 1069514173
+      spriteID: f227ca94687364a41a447e01234ed31a
+      internalID: 2103181618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Star_9
+      name: Portal_Triangle_9
       rect:
         serializedVersion: 2
         x: 48
@@ -308,8 +344,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c404ceab03473f4f8bdafded999f7bf
-      internalID: -517051401
+      spriteID: a93eb90950f3e7d499422c164bd220a8
+      internalID: 185175038
       vertices: []
       indices: 
       edges: []
@@ -325,16 +361,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Portal_Star_0: -1716680804
-      Portal_Star_1: -210688184
-      Portal_Star_2: 1731734608
-      Portal_Star_3: 1318122983
-      Portal_Star_4: 272110773
-      Portal_Star_5: 1644386227
-      Portal_Star_6: 2013860007
-      Portal_Star_7: -1744440994
-      Portal_Star_8: 1069514173
-      Portal_Star_9: -517051401
+      Portal_Triangle_0: 1852982731
+      Portal_Triangle_1: -1184132350
+      Portal_Triangle_2: -2129414946
+      Portal_Triangle_3: 1544251243
+      Portal_Triangle_4: 1644752748
+      Portal_Triangle_5: 1126993412
+      Portal_Triangle_6: -1495619532
+      Portal_Triangle_7: 1634146371
+      Portal_Triangle_8: 2103181618
+      Portal_Triangle_9: 185175038
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

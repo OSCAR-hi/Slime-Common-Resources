@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fd11ea035b9e3dc47b12804e5b7cc8e3
+guid: 428241eb7dbffa5458653d0f192fe8f0
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -101,11 +101,47 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Portal_Circle_0
+      name: Portal_Spade_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +155,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a99925ad4e2877a4f9aac460379dfdff
-      internalID: 2092809310
+      spriteID: f4da02807bf7acc4685c948c57b5645f
+      internalID: 588817103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Circle_1
+      name: Portal_Spade_1
       rect:
         serializedVersion: 2
         x: 48
@@ -140,14 +176,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffb53ec7480b9e6478bf26973a1eae1a
-      internalID: 1661344447
+      spriteID: 9f6217a42ecf0e649b310ac9208ac5bc
+      internalID: -1027099720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Circle_2
+      name: Portal_Spade_2
       rect:
         serializedVersion: 2
         x: 96
@@ -161,14 +197,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 374e8451d2f94d848b015e710f016d41
-      internalID: 1503400178
+      spriteID: 701b7e40890880244a0c54b8a4ec875d
+      internalID: -444084307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Circle_3
+      name: Portal_Spade_3
       rect:
         serializedVersion: 2
         x: 144
@@ -182,14 +218,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2373da5d96697df419faf13cc460b1c7
-      internalID: 1171114962
+      spriteID: 9070d377a81e6ba49bab8bb44b35ba5e
+      internalID: 489376374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Circle_4
+      name: Portal_Spade_4
       rect:
         serializedVersion: 2
         x: 192
@@ -203,14 +239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13ae71d963fb36144a6a977a6c3097f8
-      internalID: 347454505
+      spriteID: e68da58e446e8fa42800395e13eeeac7
+      internalID: -1341797063
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Circle_5
+      name: Portal_Spade_5
       rect:
         serializedVersion: 2
         x: 240
@@ -224,14 +260,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d09cd63cae5b5f49b58ceb0c8456cdf
-      internalID: 154933368
+      spriteID: 65a2da49bf3a2fc47818305167b8c4ec
+      internalID: -842259624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Circle_6
+      name: Portal_Spade_6
       rect:
         serializedVersion: 2
         x: 288
@@ -245,14 +281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e67b463a2787a8479a6e9996b219f06
-      internalID: 976454641
+      spriteID: 1e294e6c52e5ad14da20339a561415bf
+      internalID: 720210724
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Circle_7
+      name: Portal_Spade_7
       rect:
         serializedVersion: 2
         x: 336
@@ -266,14 +302,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3218a82de6ddb24296936dca1b61be6
-      internalID: -1904217372
+      spriteID: ca849b72ad567b9439748ecf9fd08214
+      internalID: -718137632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Circle_8
+      name: Portal_Spade_8
       rect:
         serializedVersion: 2
         x: 0
@@ -287,14 +323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db3d17b11da564347ac3d45646b4e18e
-      internalID: -382435673
+      spriteID: 274eaf40ce68cf34e929bf664acc0730
+      internalID: 1643558676
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Circle_9
+      name: Portal_Spade_9
       rect:
         serializedVersion: 2
         x: 48
@@ -308,8 +344,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb2eadccc9974cc4b939461d02b38067
-      internalID: -1329257800
+      spriteID: e4d4f3be1c3b8a14eb771c58e38247ce
+      internalID: 242338767
       vertices: []
       indices: 
       edges: []
@@ -325,16 +361,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Portal_Circle_0: 2092809310
-      Portal_Circle_1: 1661344447
-      Portal_Circle_2: 1503400178
-      Portal_Circle_3: 1171114962
-      Portal_Circle_4: 347454505
-      Portal_Circle_5: 154933368
-      Portal_Circle_6: 976454641
-      Portal_Circle_7: -1904217372
-      Portal_Circle_8: -382435673
-      Portal_Circle_9: -1329257800
+      Portal_Spade_0: 588817103
+      Portal_Spade_1: -1027099720
+      Portal_Spade_2: -444084307
+      Portal_Spade_3: 489376374
+      Portal_Spade_4: -1341797063
+      Portal_Spade_5: -842259624
+      Portal_Spade_6: 720210724
+      Portal_Spade_7: -718137632
+      Portal_Spade_8: 1643558676
+      Portal_Spade_9: 242338767
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cd984672fd864e84299139d6c88551b7
+guid: 0eefcf4463ca39d45b27153fc17d8719
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -101,11 +101,47 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Portal_Ohm_0
+      name: Portal_Star_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +155,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfd4a40644aa6bf40acbbb35381a4f0b
-      internalID: -847132784
+      spriteID: 6ae677b82ba97f3458f4f6549848bde9
+      internalID: -1716680804
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Ohm_1
+      name: Portal_Star_1
       rect:
         serializedVersion: 2
         x: 48
@@ -140,14 +176,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1ea6e77ac7f0c347b335dee680c07a0
-      internalID: 1641844646
+      spriteID: 39c44568d96f43740aabc16c29498ec1
+      internalID: -210688184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Ohm_2
+      name: Portal_Star_2
       rect:
         serializedVersion: 2
         x: 96
@@ -161,14 +197,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb1357c930a234a4c900fc10a44b13ec
-      internalID: 1765712566
+      spriteID: 66d139646a5cd074faa3ae5eb4051286
+      internalID: 1731734608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Ohm_3
+      name: Portal_Star_3
       rect:
         serializedVersion: 2
         x: 144
@@ -182,14 +218,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d88ff73628c29b42a17bf1554cd2ee3
-      internalID: -1278539292
+      spriteID: d7289a9f388b2724d9d8f9424afde7f2
+      internalID: 1318122983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Ohm_4
+      name: Portal_Star_4
       rect:
         serializedVersion: 2
         x: 192
@@ -203,14 +239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9206af332720de4d8ac24f744bc0e0d
-      internalID: -740024233
+      spriteID: 39c202e42a15db74f9c0399134df795c
+      internalID: 272110773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Ohm_5
+      name: Portal_Star_5
       rect:
         serializedVersion: 2
         x: 240
@@ -224,14 +260,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90ed8c5aa9d3a2f4c98a213533e1526d
-      internalID: 1654264832
+      spriteID: be5781995172d414c80764bc51e69502
+      internalID: 1644386227
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Ohm_6
+      name: Portal_Star_6
       rect:
         serializedVersion: 2
         x: 288
@@ -245,14 +281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 859d7fcc909cac6428fcc8935bca6b93
-      internalID: 951322758
+      spriteID: f1184236037609e4eb6a32b328809ed0
+      internalID: 2013860007
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Ohm_7
+      name: Portal_Star_7
       rect:
         serializedVersion: 2
         x: 336
@@ -266,14 +302,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 898163c2904e49e4abb41203d92f48e5
-      internalID: 1591545862
+      spriteID: d8ac1137f6dae6f4f9c6963038df6f90
+      internalID: -1744440994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Ohm_8
+      name: Portal_Star_8
       rect:
         serializedVersion: 2
         x: 0
@@ -287,14 +323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7477ac1aa5c10ba4bb849513211c5c7a
-      internalID: -380674324
+      spriteID: fd93922411575414faaaa950ccf21107
+      internalID: 1069514173
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Ohm_9
+      name: Portal_Star_9
       rect:
         serializedVersion: 2
         x: 48
@@ -308,8 +344,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 632a8fd10e08d684a99374be251eb3fe
-      internalID: 1390367998
+      spriteID: 2c404ceab03473f4f8bdafded999f7bf
+      internalID: -517051401
       vertices: []
       indices: 
       edges: []
@@ -325,16 +361,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Portal_Ohm_0: -847132784
-      Portal_Ohm_1: 1641844646
-      Portal_Ohm_2: 1765712566
-      Portal_Ohm_3: -1278539292
-      Portal_Ohm_4: -740024233
-      Portal_Ohm_5: 1654264832
-      Portal_Ohm_6: 951322758
-      Portal_Ohm_7: 1591545862
-      Portal_Ohm_8: -380674324
-      Portal_Ohm_9: 1390367998
+      Portal_Star_0: -1716680804
+      Portal_Star_1: -210688184
+      Portal_Star_2: 1731734608
+      Portal_Star_3: 1318122983
+      Portal_Star_4: 272110773
+      Portal_Star_5: 1644386227
+      Portal_Star_6: 2013860007
+      Portal_Star_7: -1744440994
+      Portal_Star_8: 1069514173
+      Portal_Star_9: -517051401
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

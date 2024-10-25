@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b2725c387f2b89c4a8f9443022677ad9
+guid: cd984672fd864e84299139d6c88551b7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -101,11 +101,47 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Portal_Peach_0
+      name: Portal_Ohm_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +155,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53a8369757b57544e88cd1d9064cddaf
-      internalID: 2123191250
+      spriteID: bfd4a40644aa6bf40acbbb35381a4f0b
+      internalID: -847132784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Peach_1
+      name: Portal_Ohm_1
       rect:
         serializedVersion: 2
         x: 48
@@ -140,14 +176,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60393ed1e338841438d4e6a6afbea1f7
-      internalID: -1516011539
+      spriteID: d1ea6e77ac7f0c347b335dee680c07a0
+      internalID: 1641844646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Peach_2
+      name: Portal_Ohm_2
       rect:
         serializedVersion: 2
         x: 96
@@ -161,14 +197,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f60f5fa57ba0a3047bcee013dc7294b6
-      internalID: -1536223782
+      spriteID: fb1357c930a234a4c900fc10a44b13ec
+      internalID: 1765712566
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Peach_3
+      name: Portal_Ohm_3
       rect:
         serializedVersion: 2
         x: 144
@@ -182,14 +218,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82bbe49cf7a1bed4c8bbf93df5d96098
-      internalID: 1902604164
+      spriteID: 9d88ff73628c29b42a17bf1554cd2ee3
+      internalID: -1278539292
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Peach_4
+      name: Portal_Ohm_4
       rect:
         serializedVersion: 2
         x: 192
@@ -203,14 +239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b271856ff20b5d94082b04440f0e983e
-      internalID: 1745652208
+      spriteID: d9206af332720de4d8ac24f744bc0e0d
+      internalID: -740024233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Peach_5
+      name: Portal_Ohm_5
       rect:
         serializedVersion: 2
         x: 240
@@ -224,14 +260,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e76f31f0a28022541b0a796b53cc0a30
-      internalID: -1660950724
+      spriteID: 90ed8c5aa9d3a2f4c98a213533e1526d
+      internalID: 1654264832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Peach_6
+      name: Portal_Ohm_6
       rect:
         serializedVersion: 2
         x: 288
@@ -245,14 +281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1954cbfcf6871544cb757010a3dae993
-      internalID: -542409468
+      spriteID: 859d7fcc909cac6428fcc8935bca6b93
+      internalID: 951322758
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Peach_7
+      name: Portal_Ohm_7
       rect:
         serializedVersion: 2
         x: 336
@@ -266,14 +302,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21d18ed858745b64f975cc2b9dc01fde
-      internalID: -2037658795
+      spriteID: 898163c2904e49e4abb41203d92f48e5
+      internalID: 1591545862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Peach_8
+      name: Portal_Ohm_8
       rect:
         serializedVersion: 2
         x: 0
@@ -287,14 +323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 791b43a19690f214fa83c151d3805db5
-      internalID: 1078093772
+      spriteID: 7477ac1aa5c10ba4bb849513211c5c7a
+      internalID: -380674324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Portal_Peach_9
+      name: Portal_Ohm_9
       rect:
         serializedVersion: 2
         x: 48
@@ -308,8 +344,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ae27b7d2564ebf4c90e9a1222a51e92
-      internalID: -815794156
+      spriteID: 632a8fd10e08d684a99374be251eb3fe
+      internalID: 1390367998
       vertices: []
       indices: 
       edges: []
@@ -325,16 +361,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Portal_Peach_0: 2123191250
-      Portal_Peach_1: -1516011539
-      Portal_Peach_2: -1536223782
-      Portal_Peach_3: 1902604164
-      Portal_Peach_4: 1745652208
-      Portal_Peach_5: -1660950724
-      Portal_Peach_6: -542409468
-      Portal_Peach_7: -2037658795
-      Portal_Peach_8: 1078093772
-      Portal_Peach_9: -815794156
+      Portal_Ohm_0: -847132784
+      Portal_Ohm_1: 1641844646
+      Portal_Ohm_2: 1765712566
+      Portal_Ohm_3: -1278539292
+      Portal_Ohm_4: -740024233
+      Portal_Ohm_5: 1654264832
+      Portal_Ohm_6: 951322758
+      Portal_Ohm_7: 1591545862
+      Portal_Ohm_8: -380674324
+      Portal_Ohm_9: 1390367998
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
