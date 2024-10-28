@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 168bc5527e97782439a39600eefd5ca8
+guid: cc43c1b999aa23843bcf5e19711dd1ac
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,127 +105,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_4
+      name: Player_Red_Move_Left_Gravity_14
       rect:
         serializedVersion: 2
-        x: 408
-        y: 47
-        width: 62
-        height: 39
+        x: 1174
+        y: 81
+        width: 53
+        height: 38
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5473be84462563478b5118e0788121d
-      internalID: -98301514
+      spriteID: a9d32c3709283194897560a5f214de39
+      internalID: 1728552437
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_5
+      name: Player_Red_Move_Left_Gravity_16
       rect:
         serializedVersion: 2
-        x: 502
-        y: 47
-        width: 62
-        height: 39
+        x: 70
+        y: 3
+        width: 53
+        height: 38
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 992edd5a088e6c344a09f9e9c8ec3070
-      internalID: -1265007635
+      spriteID: d530a358990f7494eb0cc1a7a8952f92
+      internalID: 1175778700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_6
+      name: Player_Red_Move_Left_Gravity_17
       rect:
         serializedVersion: 2
-        x: 594
-        y: 47
-        width: 62
-        height: 39
+        x: 255
+        y: 3
+        width: 53
+        height: 38
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0bec79bdd26b894d9986446866b2007
-      internalID: 140066936
+      spriteID: 2615f4c4be46c7e4886260bcc613d186
+      internalID: 886560573
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_7
+      name: Player_Red_Move_Left_Gravity_18
       rect:
         serializedVersion: 2
-        x: 690
-        y: 48
-        width: 62
-        height: 39
+        x: 438
+        y: 3
+        width: 53
+        height: 38
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 740444833d017634384eeb5b14ca943b
-      internalID: -131773074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_8
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 62
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7b900ca840767bb489d791ecfaeb0f82
-      internalID: 1405866992
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_Blue_Move_NonGravity_9
-      rect:
-        serializedVersion: 2
-        x: 126
-        y: 0
-        width: 62
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dde2e36ccb4530047bfcf5087454c3c6
-      internalID: -1603894343
+      spriteID: b549e4ad783589944b5ca76afcc8d58a
+      internalID: -1288823213
       vertices: []
       indices: 
       edges: []
@@ -241,21 +199,27 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Player_Blue_Move_NonGravity_0: -208206647
-      Player_Blue_Move_NonGravity_1: 376084452
-      Player_Blue_Move_NonGravity_10: -2107168660
-      Player_Blue_Move_NonGravity_11: 396006844
-      Player_Blue_Move_NonGravity_12: -566151887
-      Player_Blue_Move_NonGravity_13: 667734080
-      Player_Blue_Move_NonGravity_14: 1243473808
-      Player_Blue_Move_NonGravity_2: -1398509231
-      Player_Blue_Move_NonGravity_3: -32996160
-      Player_Blue_Move_NonGravity_4: -98301514
-      Player_Blue_Move_NonGravity_5: -1265007635
-      Player_Blue_Move_NonGravity_6: 140066936
-      Player_Blue_Move_NonGravity_7: -131773074
-      Player_Blue_Move_NonGravity_8: 1405866992
-      Player_Blue_Move_NonGravity_9: -1603894343
+      Player_Red_Move_Left_Gravity_0: -1006370309
+      Player_Red_Move_Left_Gravity_1: 1086689718
+      Player_Red_Move_Left_Gravity_10: -1820160534
+      Player_Red_Move_Left_Gravity_11: -1052402708
+      Player_Red_Move_Left_Gravity_12: 1767949178
+      Player_Red_Move_Left_Gravity_13: -1123062847
+      Player_Red_Move_Left_Gravity_14: 1728552437
+      Player_Red_Move_Left_Gravity_15: -1470171944
+      Player_Red_Move_Left_Gravity_16: 1175778700
+      Player_Red_Move_Left_Gravity_17: 886560573
+      Player_Red_Move_Left_Gravity_18: -1288823213
+      Player_Red_Move_Left_Gravity_19: 421042008
+      Player_Red_Move_Left_Gravity_2: 1302245762
+      Player_Red_Move_Left_Gravity_20: 776622211
+      Player_Red_Move_Left_Gravity_3: 2114173209
+      Player_Red_Move_Left_Gravity_4: -808333326
+      Player_Red_Move_Left_Gravity_5: 58774698
+      Player_Red_Move_Left_Gravity_6: -679748700
+      Player_Red_Move_Left_Gravity_7: -1874151590
+      Player_Red_Move_Left_Gravity_8: -841391583
+      Player_Red_Move_Left_Gravity_9: 2141692514
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

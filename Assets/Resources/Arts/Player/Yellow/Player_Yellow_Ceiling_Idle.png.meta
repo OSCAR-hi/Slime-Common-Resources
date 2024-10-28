@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f1bb44eab860a7545a2c78a158c5bd39
+guid: 43c1699d898d33a45b2f32e63c153082
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,13 +105,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Yellow_Move_Right_0
+      name: Player_Yellow_Ceiling_Idle_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 84
-        width: 80
-        height: 42
+        x: 0
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,20 +119,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b875c4fdeaca9844bb0b19aedb6ea74
-      internalID: 788784377
+      spriteID: 4d9587535dffb3d4b998edc70c63901b
+      internalID: -1140962610
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yellow_Move_Right_2
+      name: Player_Yellow_Ceiling_Idle_1
       rect:
         serializedVersion: 2
-        x: 81
-        y: 84
-        width: 80
-        height: 42
+        x: 48
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,20 +140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8934a2fae0341543ae13c3b814f4d62
-      internalID: -1819207177
+      spriteID: 293a3fc9bde509f4e82ef5c23160253f
+      internalID: -638980668
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yellow_Move_Right_4
+      name: Player_Yellow_Ceiling_Idle_2
       rect:
         serializedVersion: 2
-        x: 160
-        y: 84
-        width: 80
-        height: 42
+        x: 96
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,20 +161,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d4d4748915cc5c46ad0148ff32503ef
-      internalID: 432753661
+      spriteID: 422e21e560b261a47ad6c73ae6600e61
+      internalID: 2065645639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yellow_Move_Right_6
+      name: Player_Yellow_Ceiling_Idle_3
       rect:
         serializedVersion: 2
-        x: 240
-        y: 84
-        width: 80
-        height: 42
+        x: 144
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,20 +182,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98ba322c000d7594ca96e7770e2bb0ac
-      internalID: -1808456359
+      spriteID: 7fbafbef1b553d246b2cd036e19c5de5
+      internalID: 1728340458
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yellow_Move_Right_8
+      name: Player_Yellow_Ceiling_Idle_4
       rect:
         serializedVersion: 2
-        x: 320
-        y: 84
-        width: 80
-        height: 42
+        x: 192
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,146 +203,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7ece5257b393664dad58613303d174e
-      internalID: 463853567
+      spriteID: ec35609fb7f700540ab969c7f0cb6127
+      internalID: 855573114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yellow_Move_Right_10
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 84
-        width: 80
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 19970ad86fad7614f85d1da9bda8b0b7
-      internalID: -616432773
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Yellow_Move_Right_12
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 84
-        width: 80
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 211277a0bcfe6d6458f7926dd994d9ae
-      internalID: -1696208875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Yellow_Move_Right_15
-      rect:
-        serializedVersion: 2
-        x: 560
-        y: 84
-        width: 79
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 588e355f7b8f4e64cbf7ea5157ed75cd
-      internalID: -285313361
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Yellow_Move_Right_17
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 42
-        width: 80
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a4911d9da20dd66458c31f5151cc9772
-      internalID: 342339964
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Yellow_Move_Right_18
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 42
-        width: 80
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c9fdea19acbae014daedff5bee431994
-      internalID: -83510775
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Yellow_Move_Right_19
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 42
-        width: 80
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d66d7a613d5f7f140be9f83ca0e0f85e
-      internalID: -2145608912
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Yellow_Move_Right_20
+      name: Player_Yellow_Ceiling_Idle_5
       rect:
         serializedVersion: 2
         x: 240
-        y: 42
-        width: 80
-        height: 42
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -350,20 +224,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1ffb503f65753443b453946cf3dbe9b
-      internalID: 436018831
+      spriteID: 31dc24d599107784fb3c960cb0928645
+      internalID: -1316691938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yellow_Move_Right_21
+      name: Player_Yellow_Ceiling_Idle_6
       rect:
         serializedVersion: 2
-        x: 320
-        y: 42
-        width: 80
-        height: 42
+        x: 288
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,20 +245,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02c421db32e38d042aca48eb319fe4b5
-      internalID: -41009838
+      spriteID: e88125c2bd945d740997dce2ba3421ff
+      internalID: -1438318482
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yellow_Move_Right_22
+      name: Player_Yellow_Ceiling_Idle_7
       rect:
         serializedVersion: 2
-        x: 400
-        y: 42
-        width: 80
-        height: 42
+        x: 336
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,20 +266,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 235724b6bf9e71540b1da95fa7a986ee
-      internalID: -524373037
+      spriteID: 93cbca8b3092d074da39b1ef5a33393a
+      internalID: -1352270718
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yellow_Move_Right_23
+      name: Player_Yellow_Ceiling_Idle_8
       rect:
         serializedVersion: 2
-        x: 480
-        y: 42
-        width: 80
-        height: 42
+        x: 0
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,20 +287,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ca6d35bdd4307740988c52c2c4bf947
-      internalID: 16948920
+      spriteID: 199378d4cd1fb28408ba1db85bdad03a
+      internalID: 580315036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yellow_Move_Right_24
+      name: Player_Yellow_Ceiling_Idle_9
       rect:
         serializedVersion: 2
-        x: 560
-        y: 42
-        width: 80
-        height: 41
+        x: 48
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,20 +308,146 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68a2a253e5bc81443a47a1e902c8ee42
-      internalID: 675730935
+      spriteID: 47b9765333aa5dd4191bc6676cb0f694
+      internalID: 485264500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yellow_Move_Right_25
+      name: Player_Yellow_Ceiling_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b23ffc4ac4e8041b3a974f925610cb
+      internalID: -1866552291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Yellow_Ceiling_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96192c63bb560f44581aeec8e3ffa317
+      internalID: 2112858441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Yellow_Ceiling_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc067f6c03d61347911b3d46a93a504
+      internalID: 1558597606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Yellow_Ceiling_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1035a511e83f14469dac14709f1725f
+      internalID: 1572089696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Yellow_Ceiling_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a2c5f9769ec274b84fc8ca59d11b4f
+      internalID: -339478939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Yellow_Ceiling_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5123cd3ae00501d49973f01447fc5f51
+      internalID: -1818137098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Yellow_Ceiling_Idle_16
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 80
-        height: 42
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -455,20 +455,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e0568e201528304b9ab1298c1566fb8
-      internalID: -664988005
+      spriteID: dbb14daeb9db80743b2b670f24f1c430
+      internalID: -953436969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yellow_Move_Right_26
+      name: Player_Yellow_Ceiling_Idle_17
       rect:
         serializedVersion: 2
-        x: 80
+        x: 48
         y: 0
-        width: 80
-        height: 42
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,20 +476,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4748b7bc953e47d45884a1ee3830a9c7
-      internalID: 1867435375
+      spriteID: c864a81fb54b9c14e810741c7ae10886
+      internalID: -372693578
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yellow_Move_Right_27
+      name: Player_Yellow_Ceiling_Idle_18
       rect:
         serializedVersion: 2
-        x: 160
+        x: 96
         y: 0
-        width: 80
-        height: 42
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -497,20 +497,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85815a4acb9dc3d4a869b6ae5d769d4f
-      internalID: 1455151795
+      spriteID: b273061b42dc4154b9c9b07d0d0e8293
+      internalID: -1652470060
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Yellow_Move_Right_28
+      name: Player_Yellow_Ceiling_Idle_19
       rect:
         serializedVersion: 2
-        x: 240
+        x: 144
         y: 0
-        width: 80
-        height: 42
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -518,50 +518,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d55dbe0999e21d4490ac5d8a38954c8
-      internalID: -1362769671
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Yellow_Move_Right_29
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 0
-        width: 80
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2a0c297e6fb086e46a3ed3266b8e1a10
-      internalID: 1407741444
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Yellow_Move_Right_30
-      rect:
-        serializedVersion: 2
-        x: 401
-        y: 0
-        width: 80
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4759d7a95d47b144b04620dd7b1097f
-      internalID: 37205270
+      spriteID: 5ecba3964e159d449a13796ebc14fe6d
+      internalID: 814919107
       vertices: []
       indices: 
       edges: []
@@ -577,37 +535,26 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Yellow_Move_Right_0: 788784377
-      Yellow_Move_Right_1: -498697482
-      Yellow_Move_Right_10: -616432773
-      Yellow_Move_Right_11: -1104843509
-      Yellow_Move_Right_12: -1696208875
-      Yellow_Move_Right_13: 1761029714
-      Yellow_Move_Right_14: -817094110
-      Yellow_Move_Right_15: -285313361
-      Yellow_Move_Right_16: -956191146
-      Yellow_Move_Right_17: 342339964
-      Yellow_Move_Right_18: -83510775
-      Yellow_Move_Right_19: -2145608912
-      Yellow_Move_Right_2: -1819207177
-      Yellow_Move_Right_20: 436018831
-      Yellow_Move_Right_21: -41009838
-      Yellow_Move_Right_22: -524373037
-      Yellow_Move_Right_23: 16948920
-      Yellow_Move_Right_24: 675730935
-      Yellow_Move_Right_25: -664988005
-      Yellow_Move_Right_26: 1867435375
-      Yellow_Move_Right_27: 1455151795
-      Yellow_Move_Right_28: -1362769671
-      Yellow_Move_Right_29: 1407741444
-      Yellow_Move_Right_3: -871311902
-      Yellow_Move_Right_30: 37205270
-      Yellow_Move_Right_4: 432753661
-      Yellow_Move_Right_5: 705771730
-      Yellow_Move_Right_6: -1808456359
-      Yellow_Move_Right_7: -1751612056
-      Yellow_Move_Right_8: 463853567
-      Yellow_Move_Right_9: 2103091618
+      Player_Yellow_Ceiling_Idle_0: -1140962610
+      Player_Yellow_Ceiling_Idle_1: -638980668
+      Player_Yellow_Ceiling_Idle_10: -1866552291
+      Player_Yellow_Ceiling_Idle_11: 2112858441
+      Player_Yellow_Ceiling_Idle_12: 1558597606
+      Player_Yellow_Ceiling_Idle_13: 1572089696
+      Player_Yellow_Ceiling_Idle_14: -339478939
+      Player_Yellow_Ceiling_Idle_15: -1818137098
+      Player_Yellow_Ceiling_Idle_16: -953436969
+      Player_Yellow_Ceiling_Idle_17: -372693578
+      Player_Yellow_Ceiling_Idle_18: -1652470060
+      Player_Yellow_Ceiling_Idle_19: 814919107
+      Player_Yellow_Ceiling_Idle_2: 2065645639
+      Player_Yellow_Ceiling_Idle_3: 1728340458
+      Player_Yellow_Ceiling_Idle_4: 855573114
+      Player_Yellow_Ceiling_Idle_5: -1316691938
+      Player_Yellow_Ceiling_Idle_6: -1438318482
+      Player_Yellow_Ceiling_Idle_7: -1352270718
+      Player_Yellow_Ceiling_Idle_8: 580315036
+      Player_Yellow_Ceiling_Idle_9: 485264500
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
