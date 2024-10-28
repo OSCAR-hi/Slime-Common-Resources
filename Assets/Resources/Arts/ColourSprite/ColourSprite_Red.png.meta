@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 81207e794ec399740bd4d59670a00efb
+guid: 297ee601a98dc494f998c1f4b5f355d5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -141,7 +141,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ColourSprite_Blue_0
+      name: ColourSprite_Red_0
       rect:
         serializedVersion: 2
         x: 0
@@ -155,14 +155,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7caa56933409e0746a430a21921fc31f
-      internalID: -1532188433
+      spriteID: 6c2d5d591606ab345bcbd24097aedc4a
+      internalID: -856791065
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_1
+      name: ColourSprite_Red_1
       rect:
         serializedVersion: 2
         x: 48
@@ -176,14 +176,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25b225cdc4be5fc45b66f4486be35193
-      internalID: -24597527
+      spriteID: c7baffcf32167064ea0cc11a8853c50f
+      internalID: -1781751519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_2
+      name: ColourSprite_Red_2
       rect:
         serializedVersion: 2
         x: 96
@@ -197,14 +197,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4735e9a272a2a9247b728c03643bb0f9
-      internalID: -1031224106
+      spriteID: 74f12cfadd2adc346a2df707103f152b
+      internalID: 1579122569
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_3
+      name: ColourSprite_Red_3
       rect:
         serializedVersion: 2
         x: 144
@@ -218,14 +218,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d002e304392691498288ff14db0db81
-      internalID: -1966450629
+      spriteID: 2a03437b6cbd9f346b6257d6d76ee3ed
+      internalID: 927148879
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_4
+      name: ColourSprite_Red_4
       rect:
         serializedVersion: 2
         x: 192
@@ -239,14 +239,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 224782982f3cd8d40946261e826a5c10
-      internalID: -125952272
+      spriteID: 4a5d670b9e3377c4d977addf08d443e2
+      internalID: 2107070260
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_5
+      name: ColourSprite_Red_5
       rect:
         serializedVersion: 2
         x: 240
@@ -260,14 +260,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af0ffffab763b8a4ba0d50bf1a4546c9
-      internalID: -1646271961
+      spriteID: 635a0b1903731644bbda8b8853bb7ac9
+      internalID: -1854043236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_6
+      name: ColourSprite_Red_6
       rect:
         serializedVersion: 2
         x: 288
@@ -281,14 +281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59cce435dc1c5984b8192c7fb5fabfba
-      internalID: 1066256288
+      spriteID: e71527538f31fcf4f9d9318e6e9e7091
+      internalID: 473555875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_7
+      name: ColourSprite_Red_7
       rect:
         serializedVersion: 2
         x: 336
@@ -302,14 +302,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 332f23b3dc8116141935ba05e9c283b1
-      internalID: 1880443833
+      spriteID: df3d1fbe5d41b8a4a878aa221d7482a4
+      internalID: 552135759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_8
+      name: ColourSprite_Red_8
       rect:
         serializedVersion: 2
         x: 0
@@ -323,14 +323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa02de53de576d84aa30f49be2fd5af6
-      internalID: -2133744190
+      spriteID: eccb72474f50d954dbd58afe1a2c3730
+      internalID: -2121141030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_9
+      name: ColourSprite_Red_9
       rect:
         serializedVersion: 2
         x: 48
@@ -344,14 +344,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98edcb81e1dd6614c87022c7b8f3e95b
-      internalID: 491424524
+      spriteID: 21210f5815cd23c4ca1e1c3ca9b3264f
+      internalID: 755933229
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_10
+      name: ColourSprite_Red_10
       rect:
         serializedVersion: 2
         x: 96
@@ -365,14 +365,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b571875e57aadad43bbd0c7ddf1d378c
-      internalID: 1094206688
+      spriteID: ed35cdc180bb40040835f6967f76fa57
+      internalID: -323953143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_11
+      name: ColourSprite_Red_11
       rect:
         serializedVersion: 2
         x: 144
@@ -386,14 +386,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a98fbdac967b024ebc7128fb3eed364
-      internalID: -1229297825
+      spriteID: db692e12f205bed4e9494708f280f768
+      internalID: -1194360945
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_12
+      name: ColourSprite_Red_12
       rect:
         serializedVersion: 2
         x: 192
@@ -407,14 +407,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3448e76505cd4a48bd1a782ebb82502
-      internalID: 1790988656
+      spriteID: 364bdb4a204f71c43ad1c1be95f4db97
+      internalID: -1420711133
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_13
+      name: ColourSprite_Red_13
       rect:
         serializedVersion: 2
         x: 240
@@ -428,14 +428,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91c3690526df39a49a6e231081303e41
-      internalID: 1935377714
+      spriteID: c8e6052435c83924b86c021cf2485e26
+      internalID: -386686137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_14
+      name: ColourSprite_Red_14
       rect:
         serializedVersion: 2
         x: 288
@@ -449,14 +449,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f0201d3f83253946a5a1b14c6ab6391
-      internalID: -1256873511
+      spriteID: 860f6076bd8b3ed4fb1b3a1affeba2d6
+      internalID: 1229970007
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_15
+      name: ColourSprite_Red_15
       rect:
         serializedVersion: 2
         x: 336
@@ -470,14 +470,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 330f17e9bdcb5794c834f52c5731d8ac
-      internalID: 623227365
+      spriteID: ac16d32ececdcd544867ba29edef5087
+      internalID: 986401524
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_16
+      name: ColourSprite_Red_16
       rect:
         serializedVersion: 2
         x: 0
@@ -491,14 +491,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93a66682dee6d2240a36d0af3161df05
-      internalID: 1963226811
+      spriteID: 1a5213b21745570499d2671a28016ed6
+      internalID: -1829693901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_17
+      name: ColourSprite_Red_17
       rect:
         serializedVersion: 2
         x: 48
@@ -512,14 +512,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9755f103e676284e8b2c91772bf7ad5
-      internalID: -1993909042
+      spriteID: c43aeaa474d507f4ba2b44f2f04c901b
+      internalID: -305145493
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_18
+      name: ColourSprite_Red_18
       rect:
         serializedVersion: 2
         x: 96
@@ -533,14 +533,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fa351d575dc7464a9e6edad0ebc1b22
-      internalID: 1499754736
+      spriteID: 6945de974ca95ee40b64fd191e883bc2
+      internalID: 1702788955
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_19
+      name: ColourSprite_Red_19
       rect:
         serializedVersion: 2
         x: 144
@@ -554,14 +554,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d74326bf97964db43b1c3ac5f6261244
-      internalID: -362490216
+      spriteID: f15fe1d7493319546994cf8bf78b95cd
+      internalID: 1346518934
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_20
+      name: ColourSprite_Red_20
       rect:
         serializedVersion: 2
         x: 192
@@ -575,14 +575,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bea056ddaefca374ca65ec16f072e1a3
-      internalID: 163028870
+      spriteID: 12ad9907e9893b247ab7086590d43be6
+      internalID: 1341437561
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_21
+      name: ColourSprite_Red_21
       rect:
         serializedVersion: 2
         x: 240
@@ -596,14 +596,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3eb8b60d39e03ea45b50fcad5a704da7
-      internalID: -1528319656
+      spriteID: c0253d13908432241a50feb173e2b76b
+      internalID: 773433543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_22
+      name: ColourSprite_Red_22
       rect:
         serializedVersion: 2
         x: 288
@@ -617,14 +617,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3112e367f72ca72478ede30a87b9e711
-      internalID: -222097445
+      spriteID: 7b9d3a5502bdd0048bc83979645e093d
+      internalID: 1464773933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_23
+      name: ColourSprite_Red_23
       rect:
         serializedVersion: 2
         x: 336
@@ -638,14 +638,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d422d10292f7b15459cee11a11f46fd3
-      internalID: 1254863936
+      spriteID: eaf5e22052a16994b9bb346ad707f88f
+      internalID: 1824563873
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_24
+      name: ColourSprite_Red_24
       rect:
         serializedVersion: 2
         x: 0
@@ -659,14 +659,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d4cd4bb47f2e144191c5e7ff913645e
-      internalID: 2078282915
+      spriteID: 490b4674c79ca8042b84e19e4d766cc0
+      internalID: -1273105674
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_25
+      name: ColourSprite_Red_25
       rect:
         serializedVersion: 2
         x: 48
@@ -680,8 +680,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7f86568eed3f2e4eb2636bfcfea9aa5
-      internalID: 1251445691
+      spriteID: 59044188e59e81a4fbdc97ba1d4bb5dd
+      internalID: -1448656163
       vertices: []
       indices: 
       edges: []
@@ -697,32 +697,32 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      ColourSprite_Blue_0: -1532188433
-      ColourSprite_Blue_1: -24597527
-      ColourSprite_Blue_10: 1094206688
-      ColourSprite_Blue_11: -1229297825
-      ColourSprite_Blue_12: 1790988656
-      ColourSprite_Blue_13: 1935377714
-      ColourSprite_Blue_14: -1256873511
-      ColourSprite_Blue_15: 623227365
-      ColourSprite_Blue_16: 1963226811
-      ColourSprite_Blue_17: -1993909042
-      ColourSprite_Blue_18: 1499754736
-      ColourSprite_Blue_19: -362490216
-      ColourSprite_Blue_2: -1031224106
-      ColourSprite_Blue_20: 163028870
-      ColourSprite_Blue_21: -1528319656
-      ColourSprite_Blue_22: -222097445
-      ColourSprite_Blue_23: 1254863936
-      ColourSprite_Blue_24: 2078282915
-      ColourSprite_Blue_25: 1251445691
-      ColourSprite_Blue_3: -1966450629
-      ColourSprite_Blue_4: -125952272
-      ColourSprite_Blue_5: -1646271961
-      ColourSprite_Blue_6: 1066256288
-      ColourSprite_Blue_7: 1880443833
-      ColourSprite_Blue_8: -2133744190
-      ColourSprite_Blue_9: 491424524
+      ColourSprite_Red_0: -856791065
+      ColourSprite_Red_1: -1781751519
+      ColourSprite_Red_10: -323953143
+      ColourSprite_Red_11: -1194360945
+      ColourSprite_Red_12: -1420711133
+      ColourSprite_Red_13: -386686137
+      ColourSprite_Red_14: 1229970007
+      ColourSprite_Red_15: 986401524
+      ColourSprite_Red_16: -1829693901
+      ColourSprite_Red_17: -305145493
+      ColourSprite_Red_18: 1702788955
+      ColourSprite_Red_19: 1346518934
+      ColourSprite_Red_2: 1579122569
+      ColourSprite_Red_20: 1341437561
+      ColourSprite_Red_21: 773433543
+      ColourSprite_Red_22: 1464773933
+      ColourSprite_Red_23: 1824563873
+      ColourSprite_Red_24: -1273105674
+      ColourSprite_Red_25: -1448656163
+      ColourSprite_Red_3: 927148879
+      ColourSprite_Red_4: 2107070260
+      ColourSprite_Red_5: -1854043236
+      ColourSprite_Red_6: 473555875
+      ColourSprite_Red_7: 552135759
+      ColourSprite_Red_8: -2121141030
+      ColourSprite_Red_9: 755933229
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
