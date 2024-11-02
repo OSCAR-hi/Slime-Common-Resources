@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Goal_Animation_1
+      name: Goal_Idle_1
       rect:
         serializedVersion: 2
         x: 250
@@ -126,7 +126,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Animation_3
+      name: Goal_Idle_2
       rect:
         serializedVersion: 2
         x: 490
@@ -147,7 +147,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Animation_5
+      name: Goal_Idle_3
       rect:
         serializedVersion: 2
         x: 730
@@ -168,7 +168,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Animation_6
+      name: Goal_Idle_4
       rect:
         serializedVersion: 2
         x: 970
@@ -200,7 +200,6 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Goal_Animation_0: -948815458
-      Goal_Animation_1: -864544408
       Goal_Animation_10: -1282960634
       Goal_Animation_11: -2104297733
       Goal_Animation_12: 958700107
@@ -209,13 +208,14 @@ TextureImporter:
       Goal_Animation_15: -158564343
       Goal_Animation_16: 1463353279
       Goal_Animation_2: -444115346
-      Goal_Animation_3: 1586452387
       Goal_Animation_4: 709852032
-      Goal_Animation_5: 324846410
-      Goal_Animation_6: 1769203936
       Goal_Animation_7: 1836018234
       Goal_Animation_8: 1368548475
       Goal_Animation_9: -189201721
+      Goal_Idle_1: -864544408
+      Goal_Idle_2: 1586452387
+      Goal_Idle_3: 324846410
+      Goal_Idle_4: 1769203936
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
