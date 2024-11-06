@@ -1,0 +1,26 @@
+{
+    "chapterID": 2,
+    "levelID": 1,
+    "isLockedInitially": true,
+    "isLocked": true,
+    "isPassed": false,
+    "numOfRows": 20,
+    "numOfColumns": 30,
+    "items": [
+        {
+            "x": 9.0,
+            "y": 7.0,
+            "itemID": 23
+        },
+        {
+            "x": 7.0,
+            "y": 7.0,
+            "itemID": 23
+        },
+        {
+            "x": 5.0,
+            "y": 8.0,
+            "itemID": 21
+        }
+    ]
+}
