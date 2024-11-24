@@ -1625,6 +1625,7 @@ GameObject:
   - component: {fileID: 7722381970750811422}
   - component: {fileID: 7722381970750811416}
   - component: {fileID: 7722381970750811417}
+  - component: {fileID: 6526867120526724599}
   m_Layer: 5
   m_Name: MultipleInputsWindow
   m_TagString: Untagged
@@ -1656,7 +1657,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 800, y: 500}
+  m_SizeDelta: {x: 1000, y: 500}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7722381970750811416
 CanvasRenderer:
@@ -1696,6 +1697,28 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &6526867120526724599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7722381970750811423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce3711729a7f6f5479ccc4c292b06955, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _topLeftMarkText: {fileID: 7722381969935791727}
+  _upperText: {fileID: 7722381971439019948}
+  _upperInputField: {fileID: 7722381970483156502}
+  _middleText: {fileID: 7722381969504931489}
+  _middleInputField: {fileID: 7722381969643717472}
+  _lowerText: {fileID: 7722381970383563638}
+  _lowerToggle: {fileID: 7722381970952304941}
+  _confirmButton: {fileID: 7722381970990693817}
+  _confirmButtonText: {fileID: 7722381971556895294}
+  _closeButton: {fileID: 7722381970978825166}
 --- !u!1 &7722381970774797738
 GameObject:
   m_ObjectHideFlags: 0
