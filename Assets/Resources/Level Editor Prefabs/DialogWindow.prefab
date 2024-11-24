@@ -1237,6 +1237,7 @@ GameObject:
   - component: {fileID: 4016285817437617353}
   - component: {fileID: 4016285817437617359}
   - component: {fileID: 4016285817437617352}
+  - component: {fileID: 3689997294955662592}
   m_Layer: 5
   m_Name: DialogWindow
   m_TagString: Untagged
@@ -1290,7 +1291,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_Color: {r: 0.745283, g: 0.745283, b: 0.745283, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1307,6 +1308,25 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &3689997294955662592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4016285817437617354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f5de796be0cacc4fba7891f162192f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _topLeftMarkText: {fileID: 0}
+  _dialogText: {fileID: 0}
+  _leftButton: {fileID: 4016285816337783537}
+  _rightButton: {fileID: 4016285816187266532}
+  _leftButtonText: {fileID: 0}
+  _rightButtonText: {fileID: 0}
+  _closeButton: {fileID: 8951209562854388555}
 --- !u!1 &8455176100990393299
 GameObject:
   m_ObjectHideFlags: 0
