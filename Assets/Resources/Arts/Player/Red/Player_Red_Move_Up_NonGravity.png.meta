@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b0e1714924cffb048bdb33ef1fa785bb
+guid: ddcc06355b8f1a9498a4cca7a6d0a38a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -141,190 +141,211 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player_Blue_Move_Right_NonGravity_0
+      name: Player_Red_Move_Up_NonGravity_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 1
-        width: 67
-        height: 42
+        x: 11
+        y: 97
+        width: 42
+        height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a4624c445c6e5e4d96fafa8d22482ab
-      internalID: 1531920957
+      spriteID: 18a8e465e2066bb49b5022d94284198e
+      internalID: -1633285438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_Right_NonGravity_1
+      name: Player_Red_Move_Up_NonGravity_1
       rect:
         serializedVersion: 2
-        x: 78
-        y: 1
-        width: 67
-        height: 42
+        x: 77
+        y: 100
+        width: 42
+        height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 495c5a6a3c7d10941972d1870c34ed86
-      internalID: 1089761730
+      spriteID: b737dc3b298672347b7789ab041d07d9
+      internalID: 567822630
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_Right_NonGravity_2
+      name: Player_Red_Move_Up_NonGravity_2
       rect:
         serializedVersion: 2
-        x: 151
-        y: 1
-        width: 67
-        height: 42
+        x: 143
+        y: 97
+        width: 42
+        height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f011223b005a4ba4e9607d64ca5a5a78
-      internalID: 486862857
+      spriteID: 678b7ebaf626ee94b8519885296afca2
+      internalID: 1709972684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_Right_NonGravity_3
+      name: Player_Red_Move_Up_NonGravity_3
       rect:
         serializedVersion: 2
-        x: 226
-        y: 1
-        width: 67
-        height: 42
+        x: 209
+        y: 99
+        width: 42
+        height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdf26f521d4e77d4489deb54754a0df4
-      internalID: 1295518545
+      spriteID: 404ac651773d1ab4995bf6ab8b3f9ade
+      internalID: 1839623134
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_Right_NonGravity_4
+      name: Player_Red_Move_Up_NonGravity_4
       rect:
         serializedVersion: 2
-        x: 313
-        y: 1
-        width: 51
-        height: 41
+        x: 275
+        y: 133
+        width: 46
+        height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d2086239645d3545812711d532321f0
-      internalID: 2114608338
+      spriteID: 3da23f257bc85ae408587eefa05716a7
+      internalID: -1180791030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_Right_NonGravity_5
+      name: Player_Red_Move_Up_NonGravity_5
       rect:
         serializedVersion: 2
-        x: 387
-        y: 1
-        width: 51
-        height: 41
+        x: 342
+        y: 133
+        width: 46
+        height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9aa816edf70dacd4e94f022042341af0
-      internalID: -333279768
+      spriteID: ab0f5bb069bf5014eab3e02156042c47
+      internalID: -375469929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_Right_NonGravity_6
+      name: Player_Red_Move_Up_NonGravity_6
       rect:
         serializedVersion: 2
-        x: 461
-        y: 1
-        width: 51
-        height: 41
+        x: 408
+        y: 133
+        width: 46
+        height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 572b0aad4feb28c4db59bd5168f47a22
-      internalID: -1288129718
+      spriteID: 0ea064a6ca246ee478692e41e41d1a90
+      internalID: 1521846737
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_Right_NonGravity_7
+      name: Player_Red_Move_Up_NonGravity_7
       rect:
         serializedVersion: 2
-        x: 535
-        y: 1
-        width: 51
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 472
+        y: 133
+        width: 46
+        height: 39
+      alignment: 9
+      pivot: {x: 0.48354307, y: 0.80281186}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d76423835ee3b93479e3f01707187512
-      internalID: 310691119
+      spriteID: 71c4e7678ca867543bd2d6c94afc1eea
+      internalID: 541524992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Blue_Move_Right_NonGravity_8
+      name: Player_Red_Move_Up_NonGravity_8
       rect:
         serializedVersion: 2
-        x: 609
-        y: 1
-        width: 51
-        height: 41
+        x: 10
+        y: 47
+        width: 46
+        height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf857dfd904a14142b7f4e97c63cc513
-      internalID: -225890181
+      spriteID: 485869162b92d0d43b084ea5e12f2e0e
+      internalID: 797586247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Red_Move_Up_NonGravity_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 47
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2f086111ecf3a48b8c99806d54d210
+      internalID: 318455899
       vertices: []
       indices: 
       edges: []
@@ -340,15 +361,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Player_Blue_Move_Right_NonGravity_0: 1531920957
-      Player_Blue_Move_Right_NonGravity_1: 1089761730
-      Player_Blue_Move_Right_NonGravity_2: 486862857
-      Player_Blue_Move_Right_NonGravity_3: 1295518545
-      Player_Blue_Move_Right_NonGravity_4: 2114608338
-      Player_Blue_Move_Right_NonGravity_5: -333279768
-      Player_Blue_Move_Right_NonGravity_6: -1288129718
-      Player_Blue_Move_Right_NonGravity_7: 310691119
-      Player_Blue_Move_Right_NonGravity_8: -225890181
+      Player_Red_Move_Up_NonGravity_0: -1633285438
+      Player_Red_Move_Up_NonGravity_1: 567822630
+      Player_Red_Move_Up_NonGravity_2: 1709972684
+      Player_Red_Move_Up_NonGravity_3: 1839623134
+      Player_Red_Move_Up_NonGravity_4: -1180791030
+      Player_Red_Move_Up_NonGravity_5: -375469929
+      Player_Red_Move_Up_NonGravity_6: 1521846737
+      Player_Red_Move_Up_NonGravity_7: 541524992
+      Player_Red_Move_Up_NonGravity_8: 797586247
+      Player_Red_Move_Up_NonGravity_9: 318455899
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

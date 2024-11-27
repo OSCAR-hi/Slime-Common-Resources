@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cc2e50bb1b5edb040b4b8aac1004f34f
+guid: f3f9117a7dee2b54d9c27af777f89e89
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Goal_Yellow_Right_0
+      name: Yellow_Move_Left_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cefe926c2526c041989fc4ffdec403b
-      internalID: 442785290
+      spriteID: b352807f599f20d40879e02b2c089887
+      internalID: -2119572680
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_1
+      name: Yellow_Move_Left_1
       rect:
         serializedVersion: 2
         x: 80
@@ -140,14 +140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c94893adfe06ac4cba41f3e4389e3a9
-      internalID: 571664872
+      spriteID: 65dc1e3eaf3abb344b0588ab8239eaf8
+      internalID: 1640346952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_2
+      name: Yellow_Move_Left_2
       rect:
         serializedVersion: 2
         x: 160
@@ -161,14 +161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07ceb0b1fdca1a7429086c8dd833cf1d
-      internalID: 373729520
+      spriteID: cfbbbb50541399841ba923e38d5fc983
+      internalID: 502389804
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_3
+      name: Yellow_Move_Left_3
       rect:
         serializedVersion: 2
         x: 240
@@ -182,14 +182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 104cff1934fa4ad4cb138846cbd048e3
-      internalID: 1526895870
+      spriteID: 94f8ff5cf7b29c04dbf7b3b2f0028a2c
+      internalID: -116173060
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_4
+      name: Yellow_Move_Left_4
       rect:
         serializedVersion: 2
         x: 320
@@ -203,14 +203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c1ee83fdc9df9d4dab1166eaaf3e387
-      internalID: -516312906
+      spriteID: bf51dbdabbfeb0f47a41ac104234dea5
+      internalID: -1479115437
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_5
+      name: Yellow_Move_Left_5
       rect:
         serializedVersion: 2
         x: 400
@@ -224,14 +224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8f3b3a894f989845a1dd510f7ced4f8
-      internalID: 1255851652
+      spriteID: 9d2cec456cfbb6644ad0492bf1e8bbdf
+      internalID: 614487800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_6
+      name: Yellow_Move_Left_6
       rect:
         serializedVersion: 2
         x: 480
@@ -245,14 +245,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3213b897bca493a49ac34a0069956ba0
-      internalID: -781767897
+      spriteID: 35c7ef0f1d9460d42be38872f36d3ede
+      internalID: -1637349165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_7
+      name: Yellow_Move_Left_7
       rect:
         serializedVersion: 2
         x: 560
@@ -266,14 +266,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8bc05488cd19aa94c8147e8c9cf108dd
-      internalID: 672036881
+      spriteID: 3e2e5112ebca3c94a953e06261ec8373
+      internalID: -256534555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_8
+      name: Yellow_Move_Left_8
       rect:
         serializedVersion: 2
         x: 0
@@ -287,14 +287,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d46889f82547e84b969efef69e87d77
-      internalID: -2134497732
+      spriteID: 5917993a3f143f44cbff734a7c024858
+      internalID: 1269371849
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_9
+      name: Yellow_Move_Left_9
       rect:
         serializedVersion: 2
         x: 80
@@ -308,14 +308,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b685a20d4e17c94fa553ee9f9c45ecc
-      internalID: 872695457
+      spriteID: 3cf8bac23e35fca4e969a19dc7744a88
+      internalID: -2053122466
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_10
+      name: Yellow_Move_Left_10
       rect:
         serializedVersion: 2
         x: 160
@@ -329,14 +329,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e9330feda54f404fb780223535d45d1
-      internalID: -326901263
+      spriteID: 9c9b1fdf9a4cdcb499b5855dade6f334
+      internalID: 250215723
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_11
+      name: Yellow_Move_Left_11
       rect:
         serializedVersion: 2
         x: 240
@@ -350,14 +350,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc56dde568bb0b842ace4f9f2ab004aa
-      internalID: -2039644497
+      spriteID: 652a679ceb32aca47ad75a28fc47aa79
+      internalID: 202658388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_12
+      name: Yellow_Move_Left_12
       rect:
         serializedVersion: 2
         x: 320
@@ -371,14 +371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 757856ab4c860b842af89d4f06417f01
-      internalID: 1412430509
+      spriteID: 2e13ad1e42e771f479634ef4421d713d
+      internalID: -874078023
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_13
+      name: Yellow_Move_Left_13
       rect:
         serializedVersion: 2
         x: 400
@@ -392,14 +392,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b51bf8f977fd93549a8fc77f733c2222
-      internalID: 1657740762
+      spriteID: eff951ea9d74be84e94dd0d72b969acb
+      internalID: -1473388421
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_14
+      name: Yellow_Move_Left_14
       rect:
         serializedVersion: 2
         x: 480
@@ -413,14 +413,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 194c9b6bfe0e3d14f8d4e35feebec8c9
-      internalID: -1315997649
+      spriteID: 0485a68a19c8750479ca42da02fa0373
+      internalID: 1547457058
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_15
+      name: Yellow_Move_Left_15
       rect:
         serializedVersion: 2
         x: 560
@@ -434,14 +434,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 048e1fdf01bb6bd4486f59cb9fcda01d
-      internalID: -2075456643
+      spriteID: ce1986f6ecab25d4987911f090667e46
+      internalID: -737902418
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_16
+      name: Yellow_Move_Left_16
       rect:
         serializedVersion: 2
         x: 0
@@ -455,14 +455,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a42094fc64d49148b1bef7a9975f2f2
-      internalID: 2019607406
+      spriteID: 77eb96d7e616e0c4e9e3f4d9933238a5
+      internalID: -902163702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_17
+      name: Yellow_Move_Left_17
       rect:
         serializedVersion: 2
         x: 80
@@ -476,14 +476,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7619fe2dfdbed0b4dade03160889ff49
-      internalID: 1117345125
+      spriteID: 5cf80f5177025b34db9a1b6cbd06778c
+      internalID: 880252604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_18
+      name: Yellow_Move_Left_18
       rect:
         serializedVersion: 2
         x: 160
@@ -497,14 +497,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71f07c84f6577e348866d59e384dcdaa
-      internalID: 585651407
+      spriteID: f4d6e58cf0c79d24bb04101305697b70
+      internalID: -749401941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_19
+      name: Yellow_Move_Left_19
       rect:
         serializedVersion: 2
         x: 240
@@ -518,14 +518,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6375a8847a8ab064c92d6334723cb6de
-      internalID: -382899422
+      spriteID: e58ae47bf8cdb41409568493ec621d0d
+      internalID: 1427180591
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goal_Yellow_Right_20
+      name: Yellow_Move_Left_20
       rect:
         serializedVersion: 2
         x: 320
@@ -539,29 +539,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d344fbde2027cf48b7e3c6facd209ea
-      internalID: 1269561430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Goal_Yellow_Right_21
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 0
-        width: 80
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1a7b7180144e9d24ab3c041b24a13d0c
-      internalID: -726140724
+      spriteID: 26b295cbbb4248142ae70a89e87d2656
+      internalID: -803955795
       vertices: []
       indices: 
       edges: []
@@ -577,28 +556,27 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Goal_Yellow_Right_0: 442785290
-      Goal_Yellow_Right_1: 571664872
-      Goal_Yellow_Right_10: -326901263
-      Goal_Yellow_Right_11: -2039644497
-      Goal_Yellow_Right_12: 1412430509
-      Goal_Yellow_Right_13: 1657740762
-      Goal_Yellow_Right_14: -1315997649
-      Goal_Yellow_Right_15: -2075456643
-      Goal_Yellow_Right_16: 2019607406
-      Goal_Yellow_Right_17: 1117345125
-      Goal_Yellow_Right_18: 585651407
-      Goal_Yellow_Right_19: -382899422
-      Goal_Yellow_Right_2: 373729520
-      Goal_Yellow_Right_20: 1269561430
-      Goal_Yellow_Right_21: -726140724
-      Goal_Yellow_Right_3: 1526895870
-      Goal_Yellow_Right_4: -516312906
-      Goal_Yellow_Right_5: 1255851652
-      Goal_Yellow_Right_6: -781767897
-      Goal_Yellow_Right_7: 672036881
-      Goal_Yellow_Right_8: -2134497732
-      Goal_Yellow_Right_9: 872695457
+      Yellow_Move_Left_0: -2119572680
+      Yellow_Move_Left_1: 1640346952
+      Yellow_Move_Left_10: 250215723
+      Yellow_Move_Left_11: 202658388
+      Yellow_Move_Left_12: -874078023
+      Yellow_Move_Left_13: -1473388421
+      Yellow_Move_Left_14: 1547457058
+      Yellow_Move_Left_15: -737902418
+      Yellow_Move_Left_16: -902163702
+      Yellow_Move_Left_17: 880252604
+      Yellow_Move_Left_18: -749401941
+      Yellow_Move_Left_19: 1427180591
+      Yellow_Move_Left_2: 502389804
+      Yellow_Move_Left_20: -803955795
+      Yellow_Move_Left_3: -116173060
+      Yellow_Move_Left_4: -1479115437
+      Yellow_Move_Left_5: 614487800
+      Yellow_Move_Left_6: -1637349165
+      Yellow_Move_Left_7: -256534555
+      Yellow_Move_Left_8: 1269371849
+      Yellow_Move_Left_9: -2053122466
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

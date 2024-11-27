@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 81207e794ec399740bd4d59670a00efb
+guid: 116a79f3b946f494faa9f6caf76f74d0
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -101,587 +101,446 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ColourSprite_Blue_0
+      name: Red_Move_Left_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 144
-        width: 48
-        height: 48
+        y: 84
+        width: 80
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7caa56933409e0746a430a21921fc31f
-      internalID: -1532188433
+      spriteID: f8dd2237a81ce41468a9dc04ecd107a5
+      internalID: -575717799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_1
+      name: Red_Move_Left_1
       rect:
         serializedVersion: 2
-        x: 48
-        y: 144
-        width: 48
-        height: 48
+        x: 80
+        y: 84
+        width: 80
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25b225cdc4be5fc45b66f4486be35193
-      internalID: -24597527
+      spriteID: 9c13a240b3410b3408c5cbdb2ea5229e
+      internalID: -382344996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_2
+      name: Red_Move_Left_2
       rect:
         serializedVersion: 2
-        x: 96
-        y: 144
-        width: 48
-        height: 48
+        x: 160
+        y: 84
+        width: 80
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4735e9a272a2a9247b728c03643bb0f9
-      internalID: -1031224106
+      spriteID: 1ac9ae64718315a4ca09546596ea51fb
+      internalID: 2017338159
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_3
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6d002e304392691498288ff14db0db81
-      internalID: -1966450629
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_4
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 144
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 224782982f3cd8d40946261e826a5c10
-      internalID: -125952272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_5
+      name: Red_Move_Left_3
       rect:
         serializedVersion: 2
         x: 240
-        y: 144
-        width: 48
-        height: 48
+        y: 84
+        width: 80
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af0ffffab763b8a4ba0d50bf1a4546c9
-      internalID: -1646271961
+      spriteID: 48d1d5fb057ba304eaf1df23857d96b3
+      internalID: -1971443030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_6
+      name: Red_Move_Left_4
       rect:
         serializedVersion: 2
-        x: 288
-        y: 144
-        width: 48
-        height: 48
+        x: 320
+        y: 84
+        width: 80
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 59cce435dc1c5984b8192c7fb5fabfba
-      internalID: 1066256288
+      spriteID: 148ac0d3b6f90134a874a2fa00280d35
+      internalID: -529074540
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_7
+      name: Red_Move_Left_5
       rect:
         serializedVersion: 2
-        x: 336
-        y: 144
-        width: 48
-        height: 48
+        x: 400
+        y: 84
+        width: 80
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 332f23b3dc8116141935ba05e9c283b1
-      internalID: 1880443833
+      spriteID: ab1434ecddd629a4abacc151a0c5aa28
+      internalID: -1067250289
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_8
+      name: Red_Move_Left_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 84
+        width: 80
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bafa2e05884d549a1c5d1cccee1c48
+      internalID: -223911458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Move_Left_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 84
+        width: 80
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55207610fe72c9e419300357feb4d9eb
+      internalID: 1085960996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Move_Left_8
       rect:
         serializedVersion: 2
         x: 0
-        y: 96
-        width: 48
-        height: 48
+        y: 42
+        width: 80
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa02de53de576d84aa30f49be2fd5af6
-      internalID: -2133744190
+      spriteID: 800aefc34b2bb7e448bac3cbb417bccf
+      internalID: 489637315
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_9
+      name: Red_Move_Left_9
       rect:
         serializedVersion: 2
-        x: 48
-        y: 96
-        width: 48
-        height: 48
+        x: 80
+        y: 42
+        width: 80
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98edcb81e1dd6614c87022c7b8f3e95b
-      internalID: 491424524
+      spriteID: a2d902ceae24bea4288e63d9dde00f64
+      internalID: 2137979775
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_10
+      name: Red_Move_Left_10
       rect:
         serializedVersion: 2
-        x: 96
-        y: 96
-        width: 48
-        height: 48
+        x: 160
+        y: 42
+        width: 80
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b571875e57aadad43bbd0c7ddf1d378c
-      internalID: 1094206688
+      spriteID: c6ccbdf2d558a15438999a5ae9ef714e
+      internalID: -715113656
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_11
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 96
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a98fbdac967b024ebc7128fb3eed364
-      internalID: -1229297825
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_12
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 96
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f3448e76505cd4a48bd1a782ebb82502
-      internalID: 1790988656
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_13
+      name: Red_Move_Left_11
       rect:
         serializedVersion: 2
         x: 240
-        y: 96
-        width: 48
-        height: 48
+        y: 42
+        width: 80
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91c3690526df39a49a6e231081303e41
-      internalID: 1935377714
+      spriteID: 897ffc740527d764f87dabb003912744
+      internalID: 571069227
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_14
+      name: Red_Move_Left_12
       rect:
         serializedVersion: 2
-        x: 288
-        y: 96
-        width: 48
-        height: 48
+        x: 320
+        y: 42
+        width: 80
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f0201d3f83253946a5a1b14c6ab6391
-      internalID: -1256873511
+      spriteID: 4e6fcbd1900b2f149bae8089791addbb
+      internalID: -282241961
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_15
+      name: Red_Move_Left_13
       rect:
         serializedVersion: 2
-        x: 336
-        y: 96
-        width: 48
-        height: 48
+        x: 400
+        y: 42
+        width: 80
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 330f17e9bdcb5794c834f52c5731d8ac
-      internalID: 623227365
+      spriteID: 9f538e11a473ecb499cc6eb236ea854d
+      internalID: -134516207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_16
+      name: Red_Move_Left_14
       rect:
         serializedVersion: 2
-        x: 0
-        y: 48
-        width: 48
-        height: 48
+        x: 480
+        y: 42
+        width: 80
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93a66682dee6d2240a36d0af3161df05
-      internalID: 1963226811
+      spriteID: 372ee46580812264d8bcf60d9bf39f59
+      internalID: 954604543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_17
+      name: Red_Move_Left_15
       rect:
         serializedVersion: 2
-        x: 48
-        y: 48
-        width: 48
-        height: 48
+        x: 560
+        y: 42
+        width: 80
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9755f103e676284e8b2c91772bf7ad5
-      internalID: -1993909042
+      spriteID: cd397eeba2699f54d98f5ecb2c8e62b0
+      internalID: 1154328309
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_18
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 48
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9fa351d575dc7464a9e6edad0ebc1b22
-      internalID: 1499754736
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_19
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 48
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d74326bf97964db43b1c3ac5f6261244
-      internalID: -362490216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_20
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 48
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bea056ddaefca374ca65ec16f072e1a3
-      internalID: 163028870
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_21
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 48
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3eb8b60d39e03ea45b50fcad5a704da7
-      internalID: -1528319656
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_22
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 48
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3112e367f72ca72478ede30a87b9e711
-      internalID: -222097445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_23
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 48
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d422d10292f7b15459cee11a11f46fd3
-      internalID: 1254863936
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ColourSprite_Blue_24
+      name: Red_Move_Left_16
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 48
-        height: 48
+        width: 80
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d4cd4bb47f2e144191c5e7ff913645e
-      internalID: 2078282915
+      spriteID: d85797fba8badf54991ba27949be03f2
+      internalID: 1484011730
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ColourSprite_Blue_25
+      name: Red_Move_Left_17
       rect:
         serializedVersion: 2
-        x: 48
+        x: 80
         y: 0
-        width: 48
-        height: 48
+        width: 80
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7f86568eed3f2e4eb2636bfcfea9aa5
-      internalID: 1251445691
+      spriteID: b5685437b978c90478f64ebbf8c332da
+      internalID: 207570584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Move_Left_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de94f03fde89b704fb70b2d42ce31915
+      internalID: -1476388883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Move_Left_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ff6982b36e83f4996061ea13cdd6fd
+      internalID: -1096330666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Move_Left_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6f4523836b2494ca923f47eee3f410
+      internalID: 76290652
       vertices: []
       indices: 
       edges: []
@@ -697,32 +556,27 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      ColourSprite_Blue_0: -1532188433
-      ColourSprite_Blue_1: -24597527
-      ColourSprite_Blue_10: 1094206688
-      ColourSprite_Blue_11: -1229297825
-      ColourSprite_Blue_12: 1790988656
-      ColourSprite_Blue_13: 1935377714
-      ColourSprite_Blue_14: -1256873511
-      ColourSprite_Blue_15: 623227365
-      ColourSprite_Blue_16: 1963226811
-      ColourSprite_Blue_17: -1993909042
-      ColourSprite_Blue_18: 1499754736
-      ColourSprite_Blue_19: -362490216
-      ColourSprite_Blue_2: -1031224106
-      ColourSprite_Blue_20: 163028870
-      ColourSprite_Blue_21: -1528319656
-      ColourSprite_Blue_22: -222097445
-      ColourSprite_Blue_23: 1254863936
-      ColourSprite_Blue_24: 2078282915
-      ColourSprite_Blue_25: 1251445691
-      ColourSprite_Blue_3: -1966450629
-      ColourSprite_Blue_4: -125952272
-      ColourSprite_Blue_5: -1646271961
-      ColourSprite_Blue_6: 1066256288
-      ColourSprite_Blue_7: 1880443833
-      ColourSprite_Blue_8: -2133744190
-      ColourSprite_Blue_9: 491424524
+      Red_Move_Left_0: -575717799
+      Red_Move_Left_1: -382344996
+      Red_Move_Left_10: -715113656
+      Red_Move_Left_11: 571069227
+      Red_Move_Left_12: -282241961
+      Red_Move_Left_13: -134516207
+      Red_Move_Left_14: 954604543
+      Red_Move_Left_15: 1154328309
+      Red_Move_Left_16: 1484011730
+      Red_Move_Left_17: 207570584
+      Red_Move_Left_18: -1476388883
+      Red_Move_Left_19: -1096330666
+      Red_Move_Left_2: 2017338159
+      Red_Move_Left_20: 76290652
+      Red_Move_Left_3: -1971443030
+      Red_Move_Left_4: -529074540
+      Red_Move_Left_5: -1067250289
+      Red_Move_Left_6: -223911458
+      Red_Move_Left_7: 1085960996
+      Red_Move_Left_8: 489637315
+      Red_Move_Left_9: 2137979775
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
