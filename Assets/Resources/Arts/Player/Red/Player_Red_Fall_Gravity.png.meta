@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 16d72f0f7dfdb754b9b060a84d9183b5
+guid: 6051195d9c1d6874ba59a3d01e30efee
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -141,85 +141,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player_Yellow_Jump_Gravity_4
+      name: Player_Red_Fall_Gravity_0
       rect:
         serializedVersion: 2
-        x: 217
-        y: 1
-        width: 44
-        height: 53
+        x: 4
+        y: 4
+        width: 46
+        height: 42
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d8568125bd17c049842e8f45533d7c7
-      internalID: -92924330
+      spriteID: 4a2eb6f104d5b984ebcbf8deccbfb7da
+      internalID: 6608830
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Yellow_Jump_Gravity_5
+      name: Player_Red_Fall_Gravity_1
       rect:
         serializedVersion: 2
-        x: 270
-        y: 1
-        width: 44
-        height: 53
+        x: 57
+        y: 4
+        width: 46
+        height: 42
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88ea020deba4f644e8ec3452ece662d8
-      internalID: -1238150818
+      spriteID: 5c3dfbe45f961884a96bb3a8287ebca4
+      internalID: 965388004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Yellow_Jump_Gravity_6
+      name: Player_Red_Fall_Gravity_2
       rect:
         serializedVersion: 2
-        x: 323
-        y: 1
-        width: 44
-        height: 53
+        x: 111
+        y: 4
+        width: 46
+        height: 42
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b08dc8fc222a70f49ac2a444de6d9e83
-      internalID: -1486497267
+      spriteID: a2976c85d7d1d664dafd490e6ca0f9ef
+      internalID: 1105311776
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_Yellow_Jump_Gravity_7
+      name: Player_Red_Fall_Gravity_3
       rect:
         serializedVersion: 2
-        x: 376
-        y: 3
-        width: 44
-        height: 53
+        x: 162
+        y: 4
+        width: 46
+        height: 42
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97099523d6ba8454c8ab0d6c377183d5
-      internalID: 48295207
+      spriteID: a931b4121a05b274a8cf417ced904126
+      internalID: 1367433319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Red_Fall_Gravity_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 4
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532024aa839a86d4d861205f0fa138f6
+      internalID: 760178920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Red_Fall_Gravity_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 4
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d756f336ee3196943ac9fb27390afd23
+      internalID: 714718555
       vertices: []
       indices: 
       edges: []
@@ -235,14 +277,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Player_Yellow_Jump_Gravity_0: -341099062
-      Player_Yellow_Jump_Gravity_1: 1528950479
-      Player_Yellow_Jump_Gravity_2: -1991986438
-      Player_Yellow_Jump_Gravity_3: -1037507382
-      Player_Yellow_Jump_Gravity_4: -92924330
-      Player_Yellow_Jump_Gravity_5: -1238150818
-      Player_Yellow_Jump_Gravity_6: -1486497267
-      Player_Yellow_Jump_Gravity_7: 48295207
+      Player_Red_Fall_Gravity_0: 6608830
+      Player_Red_Fall_Gravity_1: 965388004
+      Player_Red_Fall_Gravity_2: 1105311776
+      Player_Red_Fall_Gravity_3: 1367433319
+      Player_Red_Fall_Gravity_4: 760178920
+      Player_Red_Fall_Gravity_5: 714718555
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
