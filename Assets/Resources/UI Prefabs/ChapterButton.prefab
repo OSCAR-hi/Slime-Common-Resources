@@ -168,7 +168,7 @@ GameObject:
   - component: {fileID: 4800908581693258229}
   - component: {fileID: 4800908581693258228}
   m_Layer: 5
-  m_Name: Chapter
+  m_Name: ChapterButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
