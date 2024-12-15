@@ -1,0 +1,24 @@
+{
+    "chapters": [
+        {
+            "chapterID": 1,
+            "costToUnlock": 0,
+            "isUnlockedInitially": true
+        },
+        {
+            "chapterID": 2,
+            "costToUnlock": 5,
+            "isUnlockedInitially": false
+        },
+        {
+            "chapterID": 3,
+            "costToUnlock": 5,
+            "isUnlockedInitially": false
+        },
+        {
+            "chapterID": 4,
+            "costToUnlock": 5,
+            "isUnlockedInitially": false
+        }
+    ]
+}
