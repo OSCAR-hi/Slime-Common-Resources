@@ -19,6 +19,11 @@
             "chapterID": 4,
             "costToUnlock": 5,
             "isUnlockedInitially": false
+        },
+        {
+            "chapterID": 5,
+            "costToUnlock": 5,
+            "isUnlockedInitially": false
         }
     ]
 }
