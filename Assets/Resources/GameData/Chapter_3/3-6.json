@@ -4,7 +4,7 @@
     "isUnlockedInitially": true,
     "nextLevelChapterID": 3,
     "nextLevelID": 7,
-    "whetherReturnToLevelSelectionPageAfterPass": false,
+    "whetherReturnToLevelSelectionPageAfterPass": true,
     "numOfRows": 20,
     "numOfColumns": 30,
     "items": [
