@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: StringLocalizationTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: StringLocalizationTable
+  m_TableCollectionNameGuidString: 7074c9048011d914bba2443b2fbb3e41
+  m_Entries:
+  - m_Id: 61947297792
+    m_Key: MainMenu_Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1187807543296
+    m_Key: MainMenu_Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1595342897152
+    m_Key: MainMenu_About
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1975007100928
+    m_Key: MainMenu_Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2487328751616
+    m_Key: SettingsPage_Sound Effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2840182964224
+    m_Key: SettingsPage_Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3417088507904
+    m_Key: SettingsPage_Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3720831614976
+    m_Key: SettingsPage_Screen Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4028701917184
+    m_Key: SettingsPage_Full Screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4548841750528
+    m_Key: SettingsPage_Screen Shake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33281690615808
+    m_Key: 'AboutUsPage_Title
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34573838237696
+    m_Key: ChapterSelectionPage_Chapter Selection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73442696675328
+    m_Key: AboutUsPage_Names
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7573700048905306136
+  references:
+    version: 2
+    RefIds:
+    - rid: 7573700048905306136
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1735965113678
