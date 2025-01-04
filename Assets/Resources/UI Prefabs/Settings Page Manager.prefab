@@ -5371,7 +5371,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverSound: {fileID: 0}
-  clickSound: {fileID: 8300000, guid: 7d87c428219d68e4b9dc9ee3a2b6fee6, type: 3}
+  clickSound: {fileID: 8300000, guid: ff618e0505b372043801a02035613794, type: 3}
 --- !u!1 &6345064413404170933
 GameObject:
   m_ObjectHideFlags: 0
