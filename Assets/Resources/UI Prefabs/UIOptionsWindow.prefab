@@ -349,6 +349,7 @@ GameObject:
   - component: {fileID: 7737888915614613175}
   - component: {fileID: 3901223952625433884}
   - component: {fileID: 1360585215846584422}
+  - component: {fileID: 8136185759979665939}
   m_Layer: 5
   m_Name: Middle Option_Button
   m_TagString: Untagged
@@ -459,6 +460,20 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &8136185759979665939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4697184539893803027}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4343fd4db147d7242a82abbaaa9092c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 8300000, guid: 7d87c428219d68e4b9dc9ee3a2b6fee6, type: 3}
 --- !u!1 &5394174453422569163
 GameObject:
   m_ObjectHideFlags: 0
@@ -551,6 +566,7 @@ GameObject:
   - component: {fileID: 6876245715644774109}
   - component: {fileID: 232813124246802836}
   - component: {fileID: 2609637703513127407}
+  - component: {fileID: 6096806956183872721}
   m_Layer: 5
   m_Name: Top Option_Button
   m_TagString: Untagged
@@ -673,6 +689,20 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &6096806956183872721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6409376870563930378}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4343fd4db147d7242a82abbaaa9092c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 8300000, guid: 7d87c428219d68e4b9dc9ee3a2b6fee6, type: 3}
 --- !u!1 &7614033690291244144
 GameObject:
   m_ObjectHideFlags: 0
@@ -685,6 +715,7 @@ GameObject:
   - component: {fileID: 4162027597875035208}
   - component: {fileID: 2259271086945889297}
   - component: {fileID: 8547915192980598260}
+  - component: {fileID: 2143500771315176609}
   m_Layer: 5
   m_Name: Lower Option_Button
   m_TagString: Untagged
@@ -795,6 +826,20 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &2143500771315176609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7614033690291244144}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4343fd4db147d7242a82abbaaa9092c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 8300000, guid: 7d87c428219d68e4b9dc9ee3a2b6fee6, type: 3}
 --- !u!1 &7912543206681179907
 GameObject:
   m_ObjectHideFlags: 0

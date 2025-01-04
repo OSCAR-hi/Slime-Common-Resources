@@ -224,6 +224,7 @@ GameObject:
   - component: {fileID: 1825745199475823310}
   - component: {fileID: 1825745199475823309}
   - component: {fileID: 1825745199475823298}
+  - component: {fileID: 7511138158337428773}
   m_Layer: 5
   m_Name: LevelButton
   m_TagString: Untagged
@@ -365,6 +366,20 @@ MonoBehaviour:
   _trophyFrame: {fileID: 5935965627267830667}
   _passLevelTrophyIcon: {fileID: 289219615691082982}
   _lockImage: {fileID: 3372532502903859419}
+--- !u!114 &7511138158337428773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1825745199475823299}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4343fd4db147d7242a82abbaaa9092c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 8300000, guid: 7d87c428219d68e4b9dc9ee3a2b6fee6, type: 3}
 --- !u!1 &4645022930628885974
 GameObject:
   m_ObjectHideFlags: 0
@@ -376,6 +391,7 @@ GameObject:
   - component: {fileID: 2470635876640978775}
   - component: {fileID: 898555420272589275}
   - component: {fileID: 3372532502903859419}
+  - component: {fileID: 5387516735383923090}
   m_Layer: 5
   m_Name: LockImage
   m_TagString: Untagged
@@ -441,6 +457,20 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &5387516735383923090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4645022930628885974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4343fd4db147d7242a82abbaaa9092c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 8300000, guid: 7d87c428219d68e4b9dc9ee3a2b6fee6, type: 3}
 --- !u!1 &5935965627267830665
 GameObject:
   m_ObjectHideFlags: 0
