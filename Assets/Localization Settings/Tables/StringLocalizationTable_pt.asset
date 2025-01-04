@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringLocalizationTable_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: 7074c9048011d914bba2443b2fbb3e41, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 61947297792
+    m_Localized: Iniciar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1187807543296
+    m_Localized: "Configura\xE7\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1595342897152
+    m_Localized: Sobre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1975007100928
+    m_Localized: Sair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2487328751616
+    m_Localized: Efeito sonoro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2840182964224
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3417088507904
+    m_Localized: "L\xEDngua"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3720831614976
+    m_Localized: "Resolu\xE7\xE3o de tela"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4028701917184
+    m_Localized: Tela cheia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4548841750528
+    m_Localized: Tremor de tela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34573838237696
+    m_Localized: "Sele\xE7\xE3o de cap\xEDtulo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73442696675328
+    m_Localized: "OSCAR\n\n\n\n Shaokao & Kotomi\n\n\n\nPanghong\n\n\n\nxuan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33281690615808
+    m_Localized: '<size=80><color=#FAF459>Sleep Early Studio</color></size>
+
+
+
+
+
+      Studio
+      Leader & Lead Programmer
+
+
+
+
+      Programmers
+
+
+
+
+      Artist
+
+
+
+
+      Game
+      Designer
+
+
+'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
