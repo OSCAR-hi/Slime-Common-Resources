@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2949943224618768335}
   - component: {fileID: 3680161077130041171}
   - component: {fileID: 8951209562854388555}
+  - component: {fileID: 4341284351703945899}
   m_Layer: 5
   m_Name: OkButton
   m_TagString: Untagged
@@ -133,6 +134,20 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &4341284351703945899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 103113577953848831}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4343fd4db147d7242a82abbaaa9092c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 8300000, guid: 7d87c428219d68e4b9dc9ee3a2b6fee6, type: 3}
 --- !u!1 &2633232405862173911
 GameObject:
   m_ObjectHideFlags: 0
@@ -145,6 +160,7 @@ GameObject:
   - component: {fileID: 4120843338819624491}
   - component: {fileID: 1511589330755666657}
   - component: {fileID: 7608651989655311923}
+  - component: {fileID: 2373966778166928289}
   m_Layer: 5
   m_Name: YesButton
   m_TagString: Untagged
@@ -254,6 +270,20 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &2373966778166928289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2633232405862173911}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4343fd4db147d7242a82abbaaa9092c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 8300000, guid: 7d87c428219d68e4b9dc9ee3a2b6fee6, type: 3}
 --- !u!1 &2721099607098713092
 GameObject:
   m_ObjectHideFlags: 0
@@ -266,6 +296,7 @@ GameObject:
   - component: {fileID: 6477323040714030848}
   - component: {fileID: 5996839035814460977}
   - component: {fileID: 7016656745789690225}
+  - component: {fileID: 9106442245575297949}
   m_Layer: 5
   m_Name: NoButton
   m_TagString: Untagged
@@ -375,6 +406,20 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &9106442245575297949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2721099607098713092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4343fd4db147d7242a82abbaaa9092c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 8300000, guid: 7d87c428219d68e4b9dc9ee3a2b6fee6, type: 3}
 --- !u!1 &4016285816677673462
 GameObject:
   m_ObjectHideFlags: 0

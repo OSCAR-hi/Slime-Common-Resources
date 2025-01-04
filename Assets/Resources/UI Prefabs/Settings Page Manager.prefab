@@ -5248,6 +5248,7 @@ GameObject:
   - component: {fileID: 6345064413385970652}
   - component: {fileID: 6345064413385970643}
   - component: {fileID: 6345064413385970653}
+  - component: {fileID: 4939567628086876614}
   m_Layer: 5
   m_Name: Close_button
   m_TagString: Untagged
@@ -5357,6 +5358,20 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &4939567628086876614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6345064413385970641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4343fd4db147d7242a82abbaaa9092c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 8300000, guid: 7d87c428219d68e4b9dc9ee3a2b6fee6, type: 3}
 --- !u!1 &6345064413404170933
 GameObject:
   m_ObjectHideFlags: 0
