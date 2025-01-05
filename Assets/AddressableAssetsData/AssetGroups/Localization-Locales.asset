@@ -77,6 +77,11 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale
+  - m_GUID: 6521b17cc13ad5e47ab2cf2d2500666c
+    m_Address: Chinese (Traditional) (zh-TW)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 0297cb18e4e993544bf3c5387ebdecc6, type: 2}
   m_SchemaSet:

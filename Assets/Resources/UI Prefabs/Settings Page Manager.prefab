@@ -4548,6 +4548,8 @@ MonoBehaviour:
       m_Image: {fileID: 0}
     - m_Text: "T\xFCrk\xE7e"
       m_Image: {fileID: 0}
+    - m_Text: "\u7E41\u4F53\u4E2D\u6587"
+      m_Image: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
