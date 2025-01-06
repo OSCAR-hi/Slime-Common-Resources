@@ -392,8 +392,8 @@
                 1
             ],
             "values": [
-                "Use Esc to open the menu\nUse R to restart the game",
-                "通过Esc键可以返回菜单\n通过R键可以重新开始"
+                "Press Esc to open the menu\nPress R to restart the game",
+                "按Esc键可以返回菜单\n按R键可以重新开始"
             ]
         }
     ]
