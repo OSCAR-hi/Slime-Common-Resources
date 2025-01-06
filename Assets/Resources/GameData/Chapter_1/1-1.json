@@ -9,7 +9,7 @@
     "numOfColumns": 30,
     "items": [
         {
-            "x": 22.0,
+            "x": 20.0,
             "y": 7.0,
             "itemID": 24
         },
@@ -361,19 +361,40 @@
     ],
     "floatingTexts": [
         {
-            "x": 22.0,
+            "x": 20.0,
             "y": 7.0,
-            "text": "吃掉蛋糕赢得胜利吧!"
+            "languages": [
+                0,
+                1
+            ],
+            "values": [
+                "Try to eat the cake to \nwin the game!",
+                "吃掉蛋糕赢得胜利吧!"
+            ]
         },
         {
             "x": 3.0,
             "y": 15.0,
-            "text": "使用WASD或↑↓←→进行移动"
+            "languages": [
+                0,
+                1
+            ],
+            "values": [
+                "Use WASD or ↑↓←→ to move",
+                "使用WASD或↑↓←→进行移动"
+            ]
         },
         {
             "x": 3.0,
             "y": 5.0,
-            "text": "通过Esc键可以返回菜单\n通过R键可以重新开始"
+            "languages": [
+                0,
+                1
+            ],
+            "values": [
+                "Use Esc to open the menu\nUse R to restart the game",
+                "通过Esc键可以返回菜单\n通过R键可以重新开始"
+            ]
         }
     ]
 }
