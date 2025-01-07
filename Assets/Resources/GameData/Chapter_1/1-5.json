@@ -568,18 +568,18 @@
                 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
             ],
             "values": [
-                "The slime is currently \nin a zero-gravity state",
+                "<size=50>The slime is currently \nin a zero-gravity state</size>",
                 "史莱姆当前处于无重力状态",
-                "El slime está actualmente \nen un estado de gravedad cero",
-                "Der Schleim befindet sich \nderzeit im Zustand der Schwerelosigkeit",
-                "Слизень в настоящее время \nнаходится в состоянии невесомости",
-                "Le slime est actuellement \nen état d'apesanteur",
-                "O slime está atualmente em um \nestado de gravidade zero",
+                "<size=50>El slime está actualmente \nen un estado de gravedad cero</size>",
+                "<size=50>Der Schleim befindet sich \nderzeit im Zustand der Schwerelosigkeit</size>",
+                "<size=50>Слизень в настоящее время \nнаходится в состоянии невесомости</size>",
+                "<size=50>Le slime est actuellement \nen état d'apesanteur</size>",
+                "<size=50>O slime está atualmente em um \nestado de gravidade zero</size>",
                 "スライムは現在\n無重力状態にあります",
                 "슬라임은 현재 무중력 \n상태에 있습니다",
-                "السلايم في حالة\n انعدام الوزن حاليًا",
-                "Il slime è attualmente \nin uno stato di gravità zero",
-                "Sümüklü böcek şu anda \nsıfır yerçekimi durumunda",
+                "<size=50>السلايم في حالة\n انعدام الوزن حاليًا</size>",
+                "<size=50>Il slime è attualmente \nin uno stato di gravità zero</size>",
+                "<size=50>Sümüklü böcek şu anda \nsıfır yerçekimi durumunda</size>",
                 "史萊姆目前處於無重力狀態"
             ]
         },
@@ -591,18 +591,18 @@
             ],
             "values": [
                 "<size=50>The slime is now in a \ngravity state.\nUse WD or ↑→\nto jump and eat the red \ncolor-changing sprite</size>",
-                "<size=50>现在史莱姆处于重力状态了\n使用WD或↑→\n跳跃去吃到红色变色精灵</size>",
+                "现在史莱姆处于重力状态了\n使用WD或↑→\n跳跃去吃到红色变色精灵",
                 "<size=50> Ahora el slime está en\n un estado de gravedad \nUsa WD o ↑→ para saltar \ny comer el sprite rojo \nque cambia de color</size>",
                 "<size=50>Jetzt befindet sich der \nSchleim im Schwerezustand\nVerwenden Sie WD oder ↑→\nzum Springen und den roten \nFarbwechsel-Sprite zu essen</size>",
                 "<size=50>Теперь слизень находится \nв состоянии гравитации\nИспользуйте WD или ↑→\nдля прыжка и поедания красного \nменяющего цвет спрайта</size>",
                 "<size=50>Le slime est maintenant en \nétat de gravité\nUtilisez WD ou ↑→\npour sauter et manger \nle sprite rouge qui change \nde couleur</size>",
                 "<size=50>Agora o slime está no estado \nde gravidade\nUse WD ou ↑→\npara pular e comer o sprite \nvermelho que muda de cor</size>",
-                "<size=50>スライムは現在重力状態にあります\nWDまたは↑→を使用して\nジャンプして赤色の変色\nスプライトを食べます</size>",
-                "<size=50>슬라임은 이제 중력 상태에 있습니다\nWD 또는 ↑→를 사용하여\n점프하고 빨간색 변색 \n스프라이트를 먹으세요</size>",
+                "スライムは現在重力状態にあります\nWDまたは↑→を使用して\nジャンプして赤色の変色\nスプライトを食べます",
+                "<size=70>슬라임은 이제 중력 상태에 있습니다\nWD 또는 ↑→를 사용하여\n점프하고 빨간색 변색 \n스프라이트를 먹으세요</size>",
                 "<size=50>الآن السلايم في حالة الجاذبية\nاستخدم WD أو ↑→\nللقفز وأكل الصورة المتغيرة\n اللون الحمراء</size>",
                 "<size=50>Ora lo slime è in \nuno stato di gravità\nUsa WD o ↑→\nper saltare e mangiare lo \nsprite rosso che cambia colore</size>",
                 "<size=50>Şu anda sümükli böcek \nyerçekimi durumunda\nWD veya ↑→ kullanarak\nzıplayıp kırmızı renk \ndeğiştiren sprite'ı yiyin</size>",
-                "<size=50>現在史萊姆處於重力狀態了\n使用WD或↑→\n跳躍去吃到紅色變色精靈</size>"
+                "現在史萊姆處於重力狀態了\n使用WD或↑→\n跳躍去吃到紅色變色精靈"
             ]
         },
         {
@@ -612,16 +612,16 @@
                 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
             ],
             "values": [
-                "Each time you touch a gravity capsule\nit will reverse the effect of \ngravity on the slime",
+                "<size=50>Each time you touch a gravity capsule\nit will reverse the effect of \ngravity on the slime</size>",
                 "每次触碰重力胶囊\n会扭转重力对史莱姆的影响",
                 "<size=50>Cada vez que toques una cápsula de gravedad\ninvertirá el efecto de la \ngravedad sobre el slime</size>",
-                "<size=50>Jedes Mal, wenn du eine Gravitätskapsel berührst\nwird der Effekt der Schwerkraft \nauf den Schleim umgekehrt</size>",
-                "<size=50>Каждый раз, когда вы касаетесь капсулы гравитации\nона будет изменять влияние гравитации на слизь</size>",
+                "<size=48>Jedes Mal, wenn du eine Gravitätskapsel berührst\nwird der Effekt der Schwerkraft \nauf den Schleim umgekehrt</size>",
+                "<size=48>Каждый раз, когда вы касаетесь капсулы гравитации\nона будет изменять влияние гравитации на слизь</size>",
                 "<size=50>Chaque fois que vous touchez une capsule\n de gravité cela inversera l'effet de \nla gravité sur le slime</size>",
                 "<size=50>Cada vez que você tocar uma \ncápsula de gravidadeisso reverterá o efeito \nda gravidade sobre o slime</size>",
                 "重力カプセルに触れるたびに\nそれは重力がスライムに与える\n影響を反転させます",
                 "중력 캡슐을 만질 때마다\n그것은 중력이 슬라임에 미치는 \n영향을 반전시킵니다",
-                "في كل مرة تلمس فيها كبسولة الجاذبية\nسوف تعكس تأثير الجاذبية على السلايم",
+                "<size=50>في كل مرة تلمس فيها كبسولة الجاذبية\nسوف تعكس تأثير الجاذبية على السلايم</size>",
                 "<size=50>Ogni volta che tocchi una capsula di gravità\ninverterà l'effetto della gravità sullo slime</size>",
                 "<size=50>Her seferinde yerçekimi kapsülüne dokunduğunda\nbu, yerçekiminin sümükli böceğe \netkisini tersine çevirecektir</size>",
                 "每次觸碰重力膠囊\n會扭轉重力對史萊姆的影響"
@@ -635,18 +635,18 @@
             ],
             "values": [
                 "<size=50>Touching the gravity \ncapsule again will reverse your \nstate back to zero gravity</size>",
-                "<size=50>再次触碰重力胶囊\n扭转你的状态回无重力</size>",
+                "再次触碰重力胶囊\n扭转你的状态回无重力",
                 "<size=50>Tocar nuevamente la \ncápsula de gravedadinvertirá \ntu estado de vuelta a la \ngravedad cero</size>",
                 "<size=50>Berühre die \nGravitätskapsel erneut\nund dein Zustand wird \nwieder auf Null-Schwerelosigkeit \numkehren</size>",
                 "<size=50>Повторное прикосновение \nк капсуле гравитации\nвернет ваше состояние в \nнулевую гравитацию</size>",
                 "<size=50>Touchez à nouveau \nla capsule de gravité\nvotre état reviendra \nà zéro gravité</size>",
                 "<size=50>Tocar novamente a \ncápsula de gravidade\nreverterá seu estado \npara gravidade zero</size>",
-                "<size=50>重力カプセルを\n再度触れると\n状態が無重力に戻ります</size>",
-                "<size=50>중력 캡슐을 다시 \n터치하면 상태가 무중력으로 \n돌아갑니다</size>",
+                "重力カプセルを\n再度触れると\n状態が無重力に戻ります",
+                "중력 캡슐을 다시 \n터치하면 상태가 무중력으로 \n돌아갑니다",
                 "<size=50>لمس كبسولة\n الجاذبية مرة أخرnسيعيد حالتك إلى حالة انعدام\n الجاذبية</size>",
                 "<size=50>Toccare nuovamente la \ncapsula di gravitàriporterà \nil tuo stato a gravità zero</size>",
                 "<size=50>Yerçekimi kapsülüne bir kez daha \ndokunmak\ndurumunuzu sıfır \nyerçekimine geri döndürecektir</size>",
-                "<size=50>再次觸碰重力膠囊\n會扭轉你的狀態回無重力</size>"
+                "再次觸碰重力膠囊\n會扭轉你的狀態回無重力"
             ]
         }
     ]

@@ -445,7 +445,7 @@
                 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
             ],
             "values": [
-                "Bounce blocks will forcefully\nchange the slime's movement direction",
+                "Bounce blocks will forcibly\nchange the slime's movement direction",
                 "弹射方块会强制改变\n史莱姆的移动方向",
                 "Los bloques de rebote forzarán\nel cambio de dirección del slime",
                 "Abprallblöcke werden die\nBewegungsrichtung des Schleims erzwingen",
