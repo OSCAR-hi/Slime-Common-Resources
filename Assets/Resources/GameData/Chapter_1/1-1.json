@@ -359,42 +359,108 @@
             "itemID": 0
         }
     ],
-    "floatingTexts": [
-        {
-            "x": 20.0,
-            "y": 7.0,
-            "languages": [
-                0,
-                1
-            ],
-            "values": [
-                "Try to eat the cake to \nwin the game!",
-                "吃掉蛋糕赢得胜利吧!"
-            ]
-        },
-        {
-            "x": 3.0,
-            "y": 15.0,
-            "languages": [
-                0,
-                1
-            ],
-            "values": [
-                "Use WASD or ↑↓←→ to move",
-                "使用WASD或↑↓←→进行移动"
-            ]
-        },
-        {
-            "x": 3.0,
-            "y": 5.0,
-            "languages": [
-                0,
-                1
-            ],
-            "values": [
-                "Press Esc to open the menu\nPress R to restart the game",
-                "按Esc键可以返回菜单\n按R键可以重新开始"
-            ]
-        }
-    ]
+"floatingTexts": [
+    {
+        "x": 20.0,
+        "y": 7.0,
+        "languages": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "values": [
+            "Try to eat the cake to \nwin the game!",
+            "吃掉蛋糕\n赢得胜利吧!",
+            "¡Intenta comer el pastel para\nganar el juego!",
+            "Versuche, den Kuchen zu essen,\num das Spiel zu gewinnen!",
+            "Попробуйте съесть торт,\nчтобы выиграть игру!",
+            "Essayez de manger le gâteau\npour gagner le jeu!",
+            "Tente comer o bolo para\nganhar o jogo!",
+            "ケーキを食べて\nゲームに勝とう！",
+            "게임에서 이기려면\n케이크를 먹어보세요!",
+            "حاول تناول الكعكة\nللفوز في اللعبة!",
+            "Prova a mangiare la torta\nper vincere il gioco!",
+            "Oyunu kazanmak için\npastayı yemeye çalış!",
+            "吃掉蛋糕\n贏得勝利吧!"
+        ]
+    },
+    {
+        "x": 3.0,
+        "y": 15.0,
+        "languages": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "values": [
+            "Use WASD or ↑↓←→ to move",
+            "使用WASD或↑↓←→进行移动",
+            "Usa WASD o ↑↓←→ para moverte",
+            "Benutze WASD oder ↑↓←→ zum Bewegen",
+            "Используйте WASD или ↑↓←→ для движения",
+            "Utilisez WASD ou ↑↓←→ pour vous déplacer",
+            "Use WASD ou ↑↓←→ para se mover",
+            "WASDまたは↑↓←→を使用して移動します",
+            "WASD 또는 ↑↓←→를 사용하여 이동합니다",
+            "استخدم WASD أو ↑↓←→ للتحرك",
+            "Usa WASD o ↑↓←→ per muoverti",
+            "WASD veya ↑↓←→ tuşlarını kullanarak hareket et",
+            "使用WASD或↑↓←→進行移動"
+        ]
+    },
+    {
+        "x": 3.0,
+        "y": 5.0,
+        "languages": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "values": [
+            "Press Esc to open the menu\nPress R to restart the game",
+            "按Esc键可以返回菜单\n按R键可以重新开始",
+            "Presiona Esc para abrir el menú\nPresiona R para reiniciar el juego",
+            "Drücke Esc, um das Menü zu öffnen\nDrücke R, um das Spiel neu zu starten",
+            "Нажмите Esc, чтобы открыть меню\nНажмите R, чтобы перезапустить игру",
+            "Appuyez sur Esc pour ouvrir le menu\nAppuyez sur R pour redémarrer le jeu",
+            "Pressione Esc para abrir o menu\nPressione R para reiniciar o jogo",
+            "メニューを開くにはEscを押してください\nゲームを再起動するにはRを押してください",
+            "메뉴를 열려면 Esc를 누르고\n게임을 다시 시작하려면 R을 누르세요",
+            "اضغط على Esc لفتح القائمة\nاضغط على R لإعادة تشغيل اللعبة",
+            "Premi Esc per aprire il menu\nPremi R per riavviare il gioco",
+            "Esc tuşuna basarak menüyü açın\nOyunu yeniden başlatmak için R tuşuna basın",
+            "按Esc鍵可以返回菜單\n按R鍵可以重新開始"
+        ]
+    }
+]
 }
