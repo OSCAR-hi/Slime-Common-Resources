@@ -9,57 +9,292 @@
     "numOfColumns": 30,
     "items": [
         {
-            "x": 21.0,
-            "y": 3.0,
-            "itemID": 24
-        },
-        {
-            "x": 9.0,
-            "y": 17.0,
-            "itemID": 24
-        },
-        {
-            "x": 25.0,
-            "y": 5.0,
-            "itemID": 19
-        },
-        {
-            "x": 11.0,
-            "y": 8.0,
-            "itemID": 4
-        },
-        {
-            "x": 3.0,
-            "y": 14.0,
-            "itemID": 22
-        },
-        {
-            "x": 21.0,
-            "y": 5.0,
-            "itemID": 3
-        },
-        {
             "x": 15.0,
+            "y": 10.0,
+            "itemID": 1
+        },
+        {
+            "x": 14.0,
+            "y": 4.0,
+            "itemID": 1
+        },
+        {
+            "x": 14.0,
             "y": 5.0,
-            "itemID": 6
+            "itemID": 1
+        },
+        {
+            "x": 14.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 14.0,
+            "y": 7.0,
+            "itemID": 1
+        },
+        {
+            "x": 14.0,
+            "y": 8.0,
+            "itemID": 1
+        },
+        {
+            "x": 14.0,
+            "y": 9.0,
+            "itemID": 1
+        },
+        {
+            "x": 14.0,
+            "y": 10.0,
+            "itemID": 1
+        },
+        {
+            "x": 12.0,
+            "y": 7.0,
+            "itemID": 1
+        },
+        {
+            "x": 12.0,
+            "y": 8.0,
+            "itemID": 1
+        },
+        {
+            "x": 12.0,
+            "y": 9.0,
+            "itemID": 1
+        },
+        {
+            "x": 12.0,
+            "y": 10.0,
+            "itemID": 1
+        },
+        {
+            "x": 12.0,
+            "y": 11.0,
+            "itemID": 1
+        },
+        {
+            "x": 10.0,
+            "y": 12.0,
+            "itemID": 1
+        },
+        {
+            "x": 12.0,
+            "y": 12.0,
+            "itemID": 1
         },
         {
             "x": 13.0,
+            "y": 12.0,
+            "itemID": 1
+        },
+        {
+            "x": 14.0,
+            "y": 12.0,
+            "itemID": 1
+        },
+        {
+            "x": 14.0,
+            "y": 13.0,
+            "itemID": 1
+        },
+        {
+            "x": 14.0,
+            "y": 14.0,
+            "itemID": 1
+        },
+        {
+            "x": 14.0,
             "y": 15.0,
-            "itemID": 6
+            "itemID": 1
         },
         {
-            "x": 26.0,
-            "y": 5.0,
-            "itemID": 0
+            "x": 14.0,
+            "y": 16.0,
+            "itemID": 1
         },
         {
-            "x": 26.0,
-            "y": 6.0,
-            "itemID": 0
+            "x": 13.0,
+            "y": 16.0,
+            "itemID": 1
+        },
+        {
+            "x": 12.0,
+            "y": 16.0,
+            "itemID": 1
         },
         {
             "x": 25.0,
+            "y": 4.0,
+            "itemID": 0
+        },
+        {
+            "x": 11.0,
+            "y": 16.0,
+            "itemID": 1
+        },
+        {
+            "x": 10.0,
+            "y": 16.0,
+            "itemID": 1
+        },
+        {
+            "x": 9.0,
+            "y": 16.0,
+            "itemID": 1
+        },
+        {
+            "x": 9.0,
+            "y": 15.0,
+            "itemID": 1
+        },
+        {
+            "x": 11.0,
+            "y": 7.0,
+            "itemID": 0
+        },
+        {
+            "x": 10.0,
+            "y": 7.0,
+            "itemID": 0
+        },
+        {
+            "x": 9.0,
+            "y": 7.0,
+            "itemID": 0
+        },
+        {
+            "x": 8.0,
+            "y": 7.0,
+            "itemID": 0
+        },
+        {
+            "x": 7.0,
+            "y": 7.0,
+            "itemID": 0
+        },
+        {
+            "x": 6.0,
+            "y": 7.0,
+            "itemID": 0
+        },
+        {
+            "x": 5.0,
+            "y": 7.0,
+            "itemID": 0
+        },
+        {
+            "x": 8.0,
+            "y": 11.0,
+            "itemID": 0
+        },
+        {
+            "x": 9.0,
+            "y": 13.0,
+            "itemID": 0
+        },
+        {
+            "x": 9.0,
+            "y": 14.0,
+            "itemID": 0
+        },
+        {
+            "x": 4.0,
+            "y": 7.0,
+            "itemID": 0
+        },
+        {
+            "x": 4.0,
+            "y": 8.0,
+            "itemID": 0
+        },
+        {
+            "x": 4.0,
+            "y": 9.0,
+            "itemID": 0
+        },
+        {
+            "x": 3.0,
+            "y": 9.0,
+            "itemID": 0
+        },
+        {
+            "x": 2.0,
+            "y": 9.0,
+            "itemID": 0
+        },
+        {
+            "x": 4.0,
+            "y": 12.0,
+            "itemID": 0
+        },
+        {
+            "x": 8.0,
+            "y": 15.0,
+            "itemID": 0
+        },
+        {
+            "x": 7.0,
+            "y": 15.0,
+            "itemID": 0
+        },
+        {
+            "x": 6.0,
+            "y": 15.0,
+            "itemID": 0
+        },
+        {
+            "x": 5.0,
+            "y": 15.0,
+            "itemID": 0
+        },
+        {
+            "x": 4.0,
+            "y": 15.0,
+            "itemID": 0
+        },
+        {
+            "x": 3.0,
+            "y": 15.0,
+            "itemID": 0
+        },
+        {
+            "x": 2.0,
+            "y": 10.0,
+            "itemID": 0
+        },
+        {
+            "x": 2.0,
+            "y": 11.0,
+            "itemID": 0
+        },
+        {
+            "x": 2.0,
+            "y": 12.0,
+            "itemID": 0
+        },
+        {
+            "x": 2.0,
+            "y": 13.0,
+            "itemID": 0
+        },
+        {
+            "x": 2.0,
+            "y": 14.0,
+            "itemID": 0
+        },
+        {
+            "x": 2.0,
+            "y": 15.0,
+            "itemID": 0
+        },
+        {
+            "x": 26.0,
+            "y": 4.0,
+            "itemID": 0
+        },
+        {
+            "x": 23.0,
             "y": 6.0,
             "itemID": 0
         },
@@ -69,294 +304,59 @@
             "itemID": 0
         },
         {
-            "x": 23.0,
+            "x": 25.0,
             "y": 6.0,
             "itemID": 0
         },
         {
             "x": 26.0,
-            "y": 4.0,
-            "itemID": 0
-        },
-        {
-            "x": 2.0,
-            "y": 15.0,
-            "itemID": 0
-        },
-        {
-            "x": 2.0,
-            "y": 14.0,
-            "itemID": 0
-        },
-        {
-            "x": 2.0,
-            "y": 13.0,
-            "itemID": 0
-        },
-        {
-            "x": 2.0,
-            "y": 12.0,
-            "itemID": 0
-        },
-        {
-            "x": 2.0,
-            "y": 11.0,
-            "itemID": 0
-        },
-        {
-            "x": 2.0,
-            "y": 10.0,
-            "itemID": 0
-        },
-        {
-            "x": 3.0,
-            "y": 15.0,
-            "itemID": 0
-        },
-        {
-            "x": 4.0,
-            "y": 15.0,
-            "itemID": 0
-        },
-        {
-            "x": 5.0,
-            "y": 15.0,
-            "itemID": 0
-        },
-        {
-            "x": 6.0,
-            "y": 15.0,
-            "itemID": 0
-        },
-        {
-            "x": 7.0,
-            "y": 15.0,
-            "itemID": 0
-        },
-        {
-            "x": 8.0,
-            "y": 15.0,
-            "itemID": 0
-        },
-        {
-            "x": 4.0,
-            "y": 12.0,
-            "itemID": 0
-        },
-        {
-            "x": 2.0,
-            "y": 9.0,
-            "itemID": 0
-        },
-        {
-            "x": 3.0,
-            "y": 9.0,
-            "itemID": 0
-        },
-        {
-            "x": 4.0,
-            "y": 9.0,
-            "itemID": 0
-        },
-        {
-            "x": 4.0,
-            "y": 8.0,
-            "itemID": 0
-        },
-        {
-            "x": 4.0,
-            "y": 7.0,
-            "itemID": 0
-        },
-        {
-            "x": 9.0,
-            "y": 14.0,
-            "itemID": 0
-        },
-        {
-            "x": 9.0,
-            "y": 13.0,
-            "itemID": 0
-        },
-        {
-            "x": 8.0,
-            "y": 11.0,
-            "itemID": 0
-        },
-        {
-            "x": 5.0,
-            "y": 7.0,
-            "itemID": 0
-        },
-        {
-            "x": 6.0,
-            "y": 7.0,
-            "itemID": 0
-        },
-        {
-            "x": 7.0,
-            "y": 7.0,
-            "itemID": 0
-        },
-        {
-            "x": 8.0,
-            "y": 7.0,
-            "itemID": 0
-        },
-        {
-            "x": 9.0,
-            "y": 7.0,
-            "itemID": 0
-        },
-        {
-            "x": 10.0,
-            "y": 7.0,
-            "itemID": 0
-        },
-        {
-            "x": 11.0,
-            "y": 7.0,
-            "itemID": 0
-        },
-        {
-            "x": 9.0,
-            "y": 15.0,
-            "itemID": 1
-        },
-        {
-            "x": 9.0,
-            "y": 16.0,
-            "itemID": 1
-        },
-        {
-            "x": 10.0,
-            "y": 16.0,
-            "itemID": 1
-        },
-        {
-            "x": 11.0,
-            "y": 16.0,
-            "itemID": 1
-        },
-        {
-            "x": 25.0,
-            "y": 4.0,
-            "itemID": 0
-        },
-        {
-            "x": 12.0,
-            "y": 16.0,
-            "itemID": 1
-        },
-        {
-            "x": 13.0,
-            "y": 16.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 16.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 15.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 14.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 12.0,
-            "itemID": 1
-        },
-        {
-            "x": 13.0,
-            "y": 12.0,
-            "itemID": 1
-        },
-        {
-            "x": 12.0,
-            "y": 12.0,
-            "itemID": 1
-        },
-        {
-            "x": 10.0,
-            "y": 12.0,
-            "itemID": 1
-        },
-        {
-            "x": 12.0,
-            "y": 11.0,
-            "itemID": 1
-        },
-        {
-            "x": 12.0,
-            "y": 10.0,
-            "itemID": 1
-        },
-        {
-            "x": 12.0,
-            "y": 9.0,
-            "itemID": 1
-        },
-        {
-            "x": 12.0,
-            "y": 8.0,
-            "itemID": 1
-        },
-        {
-            "x": 12.0,
-            "y": 7.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 10.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 9.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 8.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 7.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
             "y": 6.0,
-            "itemID": 1
+            "itemID": 0
         },
         {
-            "x": 14.0,
+            "x": 26.0,
             "y": 5.0,
-            "itemID": 1
+            "itemID": 0
         },
         {
-            "x": 14.0,
-            "y": 4.0,
-            "itemID": 1
+            "x": 13.0,
+            "y": 15.0,
+            "itemID": 6
         },
         {
             "x": 15.0,
-            "y": 10.0,
-            "itemID": 1
+            "y": 5.0,
+            "itemID": 6
+        },
+        {
+            "x": 21.0,
+            "y": 5.0,
+            "itemID": 3
+        },
+        {
+            "x": 3.0,
+            "y": 14.0,
+            "itemID": 22
+        },
+        {
+            "x": 11.0,
+            "y": 8.0,
+            "itemID": 4
+        },
+        {
+            "x": 25.0,
+            "y": 5.0,
+            "itemID": 19
+        },
+        {
+            "x": 9.0,
+            "y": 17.0,
+            "itemID": 24
+        },
+        {
+            "x": 21.0,
+            "y": 3.0,
+            "itemID": 24
         },
         {
             "x": 16.0,
@@ -451,7 +451,7 @@
         {
             "x": 20.0,
             "y": 5.0,
-            "itemID": 1
+            "itemID": 0
         },
         {
             "x": 20.0,
@@ -479,51 +479,74 @@
             "itemID": 0
         }
     ],
-"floatingTexts": [
-    {
-        "x": 18.0,
-        "y": 3.0,
-        "languages": [
-            0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
-        ],
-        "values": [
-            "Press Esc to open the menu\nPress R to restart the game",
-            "通过Esc键可以返回菜单\n通过R键可以重新开始",
-            "Presiona Esc para abrir el menú\nPresiona R para reiniciar el juego",
-            "Drücke Esc, um das Menü zu öffnen\nDrücke R, um das Spiel neu zu \nstarten",
-            "Нажмите Esc, чтобы открыть меню\nНажмите R, чтобы перезапустить игру",
-            "Appuyez sur Esc pour ouvrir le menu\nAppuyez sur R pour redémarrer le jeu",
-            "Pressione Esc para abrir o menu\nPressione R para reiniciar o jogo",
-            "メニューを開くにはEscを押してください\nゲームを再起動するにはRを押してください",
-            "메뉴를 열려면 Esc를 누르고\n게임을 다시 시작하려면 R을 누르세요",
-            "اضغط على Esc لفتح القائمة\nاضغط على R لإعادة تشغيل اللعبة",
-            "Premi Esc per aprire il menu\nPremi R per riavviare il gioco",
-            "Esc tuşuna basarak menüyü açın\nOyunu yeniden başlatmak için R \ntuşuna basın",
-            "通過Esc鍵可以返回菜單\n通過R鍵可以重新開始"
-        ]
-    },
-    {
-        "x": 9.0,
-        "y": 18.0,
-        "languages": [
-            0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
-        ],
-        "values": [
-            "The slime can perform\namazing moves through portals",
-            "史莱姆可以通过传送门\n进行一些不可思议的移动",
-            "El slime puede realizar movimientos\nincreíbles a través de los portales",
-            "Der Schleim kann durch Portale\nerstaunliche Bewegungen ausführen",
-            "Слизень может совершать\nневероятные движения через порталы",
-            "Le slime peut effectuer des\nmouvements incroyables via des portails",
-            "O slime pode realizar\nmovimentos incríveis através de portais",
-            "スライムはポータルを使って\n驚くべき動きを行うことができます",
-            "슬라임은 포털을 통해\n놀라운 움직임을 수행할 수 있습니다",
-            "يمكن للسلايم أن يؤدي\nحركات مذهلة عبر البوابات",
-            "Lo slime può eseguire\nmosse incredibili attraverso i portali",
-            "Slime portallardan geçerek\ninanılmaz hareketler yapabilir",
-            "史萊姆可以通過傳送門\n進行一些不可思議的移動"
-        ]
-    }
-]
-
+    "floatingTexts": [
+        {
+            "x": 9.0,
+            "y": 18.0,
+            "languages": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "values": [
+                "The slime can perform\namazing moves through portals",
+                "史莱姆可以通过传送门\n进行一些不可思议的移动",
+                "El slime puede realizar movimientos\nincreíbles a través de los portales",
+                "Der Schleim kann durch Portale\nerstaunliche Bewegungen ausführen",
+                "Слизень может совершать\nневероятные движения через порталы",
+                "Le slime peut effectuer des\nmouvements incroyables via des portails",
+                "O slime pode realizar\nmovimentos incríveis através de portais",
+                "スライムはポータルを使って\n驚くべき動きを行うことができます",
+                "슬라임은 포털을 통해\n놀라운 움직임을 수행할 수 있습니다",
+                "يمكن للسلايم أن يؤدي\nحركات مذهلة عبر البوابات",
+                "Lo slime può eseguire\nmosse incredibili attraverso i portali",
+                "Slime portallardan geçerek\ninanılmaz hareketler yapabilir",
+                "史萊姆可以通過傳送門\n進行一些不可思議的移動"
+            ]
+        },
+        {
+            "x": 18.0,
+            "y": 3.0,
+            "languages": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "values": [
+                "Press Esc to open the menu\nPress R to restart the game",
+                "通过Esc键可以返回菜单\n通过R键可以重新开始",
+                "Presiona Esc para abrir el menú\nPresiona R para reiniciar el juego",
+                "Drücke Esc, um das Menü zu öffnen\nDrücke R, um das Spiel neu zu \nstarten",
+                "Нажмите Esc, чтобы открыть меню\nНажмите R, чтобы перезапустить игру",
+                "Appuyez sur Esc pour ouvrir le menu\nAppuyez sur R pour redémarrer le jeu",
+                "Pressione Esc para abrir o menu\nPressione R para reiniciar o jogo",
+                "メニューを開くにはEscを押してください\nゲームを再起動するにはRを押してください",
+                "메뉴를 열려면 Esc를 누르고\n게임을 다시 시작하려면 R을 누르세요",
+                "اضغط على Esc لفتح القائمة\nاضغط على R لإعادة تشغيل اللعبة",
+                "Premi Esc per aprire il menu\nPremi R per riavviare il gioco",
+                "Esc tuşuna basarak menüyü açın\nOyunu yeniden başlatmak için R \ntuşuna basın",
+                "通過Esc鍵可以返回菜單\n通過R鍵可以重新開始"
+            ]
+        }
+    ]
 }
