@@ -9,24 +9,49 @@
     "numOfColumns": 30,
     "items": [
         {
-            "x": 13.0,
+            "x": 14.0,
+            "y": 8.0,
+            "itemID": 0
+        },
+        {
+            "x": 14.0,
             "y": 9.0,
             "itemID": 0
         },
         {
-            "x": 13.0,
+            "x": 14.0,
             "y": 10.0,
             "itemID": 0
         },
         {
-            "x": 13.0,
+            "x": 14.0,
             "y": 11.0,
             "itemID": 0
         },
         {
-            "x": 24.0,
-            "y": 11.0,
-            "itemID": 19
+            "x": 17.0,
+            "y": 9.0,
+            "itemID": 0
+        },
+        {
+            "x": 16.0,
+            "y": 9.0,
+            "itemID": 1
+        },
+        {
+            "x": 13.0,
+            "y": 5.0,
+            "itemID": 24
+        },
+        {
+            "x": 14.0,
+            "y": 7.0,
+            "itemID": 1
+        },
+        {
+            "x": 17.0,
+            "y": 10.0,
+            "itemID": 3
         },
         {
             "x": 16.0,
@@ -46,7 +71,7 @@
         {
             "x": 25.0,
             "y": 11.0,
-            "itemID": 1
+            "itemID": 0
         },
         {
             "x": 25.0,
@@ -91,7 +116,7 @@
         {
             "x": 25.0,
             "y": 10.0,
-            "itemID": 1
+            "itemID": 0
         },
         {
             "x": 25.0,
@@ -164,24 +189,14 @@
             "itemID": 1
         },
         {
-            "x": 13.0,
-            "y": 7.0,
-            "itemID": 1
-        },
-        {
             "x": 5.0,
             "y": 13.0,
             "itemID": 22
         },
         {
-            "x": 13.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 15.0,
-            "y": 13.0,
-            "itemID": 3
+            "x": 24.0,
+            "y": 9.0,
+            "itemID": 19
         },
         {
             "x": 16.0,
@@ -354,88 +369,79 @@
             "itemID": 0
         },
         {
-            "x": 4.0,
-            "y": 15.0,
+            "x": 13.0,
+            "y": 4.0,
             "itemID": 24
+        }
+    ],
+    "floatingTexts": [
+        {
+            "x": 13.0,
+            "y": 4.0,
+            "languages": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "values": [
+                "\nSlime can only touch blocks\nof the same color",
+                "史莱姆只能触碰相同颜色的方块",
+                "\nEl slime solo puede tocar bloques\ndel mismo color",
+                "\nDer Schleim kann nur Blöcke\nmit der gleichen Farbe berühren",
+                "\nСлизень может касаться только\nблоков того же цвета",
+                "\nLe slime ne peut toucher que les blocs\nde la même couleur",
+                "\nO slime só pode tocar blocos\nda mesma cor",
+                "\nスライムは同じ色のブロックに\nしか触れられません",
+                "\n슬라임은 동일한 색상의 블록만\n터치할 수 있습니다",
+                "السلايم يمكنه لمس الكتل من نفس اللون فقط",
+                "\nLo slime può toccare solo blocchi\ndello stesso colore",
+                "\nSlime sadece aynı renkteki\nbloklara dokunabilir",
+                "史萊姆只能觸碰相同顏色的方塊"
+            ]
         },
         {
             "x": 13.0,
             "y": 5.0,
-            "itemID": 24
-        },
-        {
-            "x": 19.0,
-            "y": 14.0,
-            "itemID": 24
+            "languages": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "values": [
+                "Eating the color sprite\nchanges the slime's color",
+                "吃到变色精灵能够改变史莱姆的颜色",
+                "Comer el sprite de color cambia\nel color del slime",
+                "Das Essen des Farbgeists verändert\ndie Farbe des Schleims",
+                "Поедание цветного спрайта меняет\nцвет слизня",
+                "Manger l'esprit de couleur change\nla couleur du slime",
+                "Comer o sprite de cor muda\na cor do slime",
+                "カラースプライトを食べると\nスライムの色が変わります",
+                "색상 스프라이트를 먹으면\n슬라임의 색상이 변경됩니다",
+                "تناول لون الكائن يغير لون السلايم",
+                "Mangiare il colore sprite cambia\nil colore dello slime",
+                "Renkli sprite'ı yemek, slime'ın\nrengini değiştirir",
+                "吃到變色精靈能夠改變史萊姆的顏色"
+            ]
         }
-    ],
-"floatingTexts": [
-    {
-        "x": 18.0,
-        "y": 15.0,
-        "languages": [
-            0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
-        ],
-        "values": [
-            "\nPress Esc to open the menu\nPress R to restart the game",
-            "\n通过Esc键可以返回菜单\n通过R键可以重新开始",
-            "\nPresiona Esc para abrir el menú\nPresiona R para reiniciar el juego",
-            "Drücke Esc, um das Menü zu öffnen\nDrücke R, um das Spiel \nneu zu starten",
-            "\nНажмите Esc, чтобы открыть меню\nНажмите R, чтобы перезапустить игру",
-            "\nAppuyez sur Esc pour ouvrir le menu\nAppuyez sur R pour redémarrer le jeu",
-            "\nPressione Esc para abrir o menu\nPressione R para reiniciar o jogo",
-            "メニューを開くにはEscを押してください\nゲームを再起動するには\nRを押してください",
-            "\n메뉴를 열려면 Esc를 누르고\n게임을 다시 시작하려면 R을 누르세요",
-            "\nاضغط على Esc لفتح القائمة\nاضغط على R لإعادة تشغيل اللعبة",
-            "\nPremi Esc per aprire il menu\nPremi R per riavviare il gioco",
-            "Esc tuşuna basarak menüyü açın\nOyunu yeniden başlatmak için \nR tuşuna basın",
-            "\n通過Esc鍵可以返回菜單\n通過R鍵可以重新開始"
-        ]
-    },
-    {
-        "x": 4.0,
-        "y": 16.0,
-        "languages": [
-            0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
-        ],
-        "values": [
-            "Slime can only touch blocks\nof the same color",
-            "\n史莱姆只能触碰相同颜色的方块",
-            "El slime solo puede tocar bloques\ndel mismo color",
-            "Der Schleim kann nur Blöcke\nmit der gleichen Farbe berühren",
-            "Слизень может касаться только\nблоков того же цвета",
-            "Le slime ne peut toucher que les blocs\nde la même couleur",
-            "O slime só pode tocar blocos\nda mesma cor",
-            "スライムは同じ色のブロックに\nしか触れられません",
-            "슬라임은 동일한 색상의 블록만\n터치할 수 있습니다",
-            "السلايم يمكنه لمس الكتل من نفس اللون فقط",
-            "Lo slime può toccare solo blocchi\ndello stesso colore",
-            "Slime sadece aynı renkteki\nbloklara dokunabilir",
-            "\n史萊姆只能觸碰相同顏色的方塊"
-        ]
-    },
-    {
-        "x": 13.0,
-        "y": 5.0,
-        "languages": [
-            0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
-        ],
-        "values": [
-            "Eating the color sprite\nchanges the slime's color",
-            "吃到变色精灵能够改变史莱姆的颜色",
-            "Comer el sprite de color cambia\nel color del slime",
-            "Das Essen des Farbgeists verändert\ndie Farbe des Schleims",
-            "Поедание цветного спрайта меняет\nцвет слизня",
-            "Manger l'esprit de couleur change\nla couleur du slime",
-            "Comer o sprite de cor muda\na cor do slime",
-            "カラースプライトを食べると\nスライムの色が変わります",
-            "색상 스프라이트를 먹으면\n슬라임의 색상이 변경됩니다",
-            "تناول لون الكائن يغير لون السلايم",
-            "Mangiare il colore sprite cambia\nil colore dello slime",
-            "Renkli sprite'ı yemek, slime'ın\nrengini değiştirir",
-            "吃到變色精靈能夠改變史萊姆的顏色"
-        ]
-    }
-]
-
-}  
+    ]
+}

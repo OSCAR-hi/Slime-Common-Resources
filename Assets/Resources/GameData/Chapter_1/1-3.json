@@ -9,48 +9,28 @@
     "numOfColumns": 30,
     "items": [
         {
-            "x": 15.0,
-            "y": 10.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 4.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 5.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
+            "x": 18.0,
             "y": 6.0,
-            "itemID": 1
+            "itemID": 0
         },
         {
-            "x": 14.0,
-            "y": 7.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 8.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 9.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 10.0,
-            "itemID": 1
+            "x": 18.0,
+            "y": 5.0,
+            "itemID": 0
         },
         {
             "x": 12.0,
             "y": 7.0,
+            "itemID": 1
+        },
+        {
+            "x": 22.0,
+            "y": 10.0,
+            "itemID": 1
+        },
+        {
+            "x": 16.0,
+            "y": 10.0,
             "itemID": 1
         },
         {
@@ -100,11 +80,6 @@
         },
         {
             "x": 14.0,
-            "y": 14.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
             "y": 15.0,
             "itemID": 1
         },
@@ -115,11 +90,6 @@
         },
         {
             "x": 13.0,
-            "y": 16.0,
-            "itemID": 1
-        },
-        {
-            "x": 12.0,
             "y": 16.0,
             "itemID": 1
         },
@@ -194,8 +164,18 @@
             "itemID": 0
         },
         {
+            "x": 17.0,
+            "y": 8.0,
+            "itemID": 0
+        },
+        {
             "x": 9.0,
             "y": 14.0,
+            "itemID": 0
+        },
+        {
+            "x": 19.0,
+            "y": 6.0,
             "itemID": 0
         },
         {
@@ -291,11 +271,6 @@
         {
             "x": 26.0,
             "y": 4.0,
-            "itemID": 0
-        },
-        {
-            "x": 23.0,
-            "y": 6.0,
             "itemID": 0
         },
         {
@@ -304,7 +279,12 @@
             "itemID": 0
         },
         {
-            "x": 25.0,
+            "x": 23.0,
+            "y": 6.0,
+            "itemID": 0
+        },
+        {
+            "x": 22.0,
             "y": 6.0,
             "itemID": 0
         },
@@ -314,8 +294,8 @@
             "itemID": 0
         },
         {
-            "x": 26.0,
-            "y": 5.0,
+            "x": 27.0,
+            "y": 6.0,
             "itemID": 0
         },
         {
@@ -324,9 +304,9 @@
             "itemID": 6
         },
         {
-            "x": 15.0,
-            "y": 5.0,
-            "itemID": 6
+            "x": 18.0,
+            "y": 8.0,
+            "itemID": 0
         },
         {
             "x": 21.0,
@@ -349,78 +329,103 @@
             "itemID": 19
         },
         {
+            "x": 14.0,
+            "y": 14.0,
+            "itemID": 1
+        },
+        {
+            "x": 12.0,
+            "y": 16.0,
+            "itemID": 1
+        },
+        {
             "x": 9.0,
+            "y": 19.0,
+            "itemID": 24
+        },
+        {
+            "x": 23.0,
+            "y": 10.0,
+            "itemID": 24
+        },
+        {
+            "x": 15.0,
             "y": 17.0,
             "itemID": 24
         },
         {
-            "x": 21.0,
-            "y": 3.0,
-            "itemID": 24
+            "x": 28.0,
+            "y": 4.0,
+            "itemID": 0
         },
         {
-            "x": 16.0,
-            "y": 10.0,
+            "x": 28.0,
+            "y": 5.0,
+            "itemID": 0
+        },
+        {
+            "x": 28.0,
+            "y": 6.0,
+            "itemID": 0
+        },
+        {
+            "x": 22.0,
+            "y": 11.0,
             "itemID": 1
         },
         {
-            "x": 17.0,
-            "y": 10.0,
-            "itemID": 1
-        },
-        {
-            "x": 18.0,
-            "y": 10.0,
+            "x": 22.0,
+            "y": 12.0,
             "itemID": 1
         },
         {
             "x": 19.0,
-            "y": 10.0,
-            "itemID": 1
+            "y": 12.0,
+            "itemID": 0
         },
         {
-            "x": 20.0,
-            "y": 10.0,
-            "itemID": 1
+            "x": 18.0,
+            "y": 12.0,
+            "itemID": 0
         },
         {
-            "x": 21.0,
-            "y": 10.0,
-            "itemID": 1
-        },
-        {
-            "x": 22.0,
-            "y": 10.0,
-            "itemID": 1
-        },
-        {
-            "x": 22.0,
+            "x": 16.0,
             "y": 9.0,
             "itemID": 1
         },
         {
-            "x": 15.0,
+            "x": 16.0,
+            "y": 8.0,
+            "itemID": 1
+        },
+        {
+            "x": 27.0,
             "y": 4.0,
+            "itemID": 0
+        },
+        {
+            "x": 16.0,
+            "y": 11.0,
+            "itemID": 1
+        },
+        {
+            "x": 21.0,
+            "y": 12.0,
+            "itemID": 1
+        },
+        {
+            "x": 20.0,
+            "y": 12.0,
+            "itemID": 0
+        },
+        {
+            "x": 17.0,
+            "y": 12.0,
             "itemID": 1
         },
         {
             "x": 16.0,
-            "y": 4.0,
-            "itemID": 1
-        },
-        {
-            "x": 17.0,
-            "y": 4.0,
-            "itemID": 1
-        },
-        {
-            "x": 18.0,
-            "y": 4.0,
-            "itemID": 1
-        },
-        {
-            "x": 19.0,
-            "y": 4.0,
+            "y": 12.0,
             "itemID": 1
         },
         {
@@ -434,7 +439,7 @@
             "itemID": 0
         },
         {
-            "x": 22.0,
+            "x": 25.0,
             "y": 6.0,
             "itemID": 0
         },
@@ -449,7 +454,7 @@
             "itemID": 0
         },
         {
-            "x": 20.0,
+            "x": 24.0,
             "y": 5.0,
             "itemID": 0
         },
@@ -479,20 +484,50 @@
             "itemID": 0
         },
         {
-            "x": 19.0,
-            "y": 5.0,
-            "itemID": 7
+            "x": 17.0,
+            "y": 9.0,
+            "itemID": 6
         },
         {
-            "x": 15.0,
+            "x": 19.0,
+            "y": 8.0,
+            "itemID": 0
+        },
+        {
+            "x": 20.0,
+            "y": 8.0,
+            "itemID": 0
+        },
+        {
+            "x": 22.0,
             "y": 9.0,
-            "itemID": 7
+            "itemID": 0
+        },
+        {
+            "x": 19.0,
+            "y": 4.0,
+            "itemID": 0
+        },
+        {
+            "x": 19.0,
+            "y": 5.0,
+            "itemID": 8
+        },
+        {
+            "x": 18.0,
+            "y": 4.0,
+            "itemID": 0
+        },
+        {
+            "x": 27.0,
+            "y": 5.0,
+            "itemID": 8
         }
     ],
     "floatingTexts": [
         {
             "x": 9.0,
-            "y": 18.0,
+            "y": 19.0,
             "languages": [
                 0,
                 1,
@@ -509,24 +544,24 @@
                 12
             ],
             "values": [
-                "The slime can perform\namazing moves through portals",
-                "史莱姆可以通过传送门\n进行一些不可思议的移动",
-                "El slime puede realizar movimientos\nincreíbles a través de los portales",
-                "Der Schleim kann durch Portale\nerstaunliche Bewegungen ausführen",
-                "Слизень может совершать\nневероятные движения через порталы",
-                "Le slime peut effectuer des\nmouvements incroyables via des portails",
-                "O slime pode realizar\nmovimentos incríveis através de portais",
-                "スライムはポータルを使って\n驚くべき動きを行うことができます",
-                "슬라임은 포털을 통해\n놀라운 움직임을 수행할 수 있습니다",
-                "يمكن للسلايم أن يؤدي\nحركات مذهلة عبر البوابات",
-                "Lo slime può eseguire\nmosse incredibili attraverso i portali",
-                "Slime portallardan geçerek\ninanılmaz hareketler yapabilir",
-                "史萊姆可以通過傳送門\n進行一些不可思議的移動"
+                "<size=60>\n  The slime can travel through \n  the portal to reach the location \n  of the corresponding other portal\n</size>",
+                "\n     史莱姆可以通过传送门到达与其\n     对应的另一扇传送门所在的位置\n",
+                "<size=60>\n  El slime puede viajar a través del \n  portal para llegar a la ubicación del \n  otro portal correspondiente\n</size>",
+                "<size=60>  Der Schleim kann durch das \n  Portal reisen, um den Standort \n  des entsprechenden anderen \n  Portals zu erreichen\n</size>",
+                "<size=60>\n  Слизень может пройти через портал,\n  чтобы достичь местоположения\n  другого соответствующего портала\n</size>",
+                "<size=60>\n  Le slime peut passer par le portail \n  pour atteindre l'emplacement de \n  l'autre portail correspondant\n</size>",
+                "<size=60>\n\n  O slime pode passar pelo portal para alcançar \n  a localização do outro portal correspondente\n</size>",
+                "\n    スライムはポータルを通じて対応するも\n    う一つのポータルの位置に到達できます",
+                "\n     슬라임은 포탈을 통해 대응되는 \n     다른 포탈 위치로 이동할 수 있습니다",
+                " \n    يمكن للزنبور العبور عبر البوابة \n    للوصول إلى موقع البوابة الأخرى المقابلة",
+                "<size=60>\n   Lo slime può passare attraverso \n   il portale per raggiungere la posizione\n   dell'altro portale corrispondente\n</size>",
+                "<size=60>\n\n    Slaym, portaldan geçerek karşılık gelen\n    diğer portalın bulunduğu konuma ulaşabilir\n</size>",
+                "\n     史萊姆可以透過傳送門到達與\n     其對應的另一扇傳送門所在的位置"
             ]
         },
         {
-            "x": 18.0,
-            "y": 3.0,
+            "x": 23.0,
+            "y": 10.0,
             "languages": [
                 0,
                 1,
@@ -543,19 +578,53 @@
                 12
             ],
             "values": [
-                "Press Esc to open the menu\nPress R to restart the game",
-                "通过Esc键可以返回菜单\n通过R键可以重新开始",
-                "Presiona Esc para abrir el menú\nPresiona R para reiniciar el juego",
-                "Drücke Esc, um das Menü zu öffnen\nDrücke R, um das Spiel neu zu \nstarten",
-                "Нажмите Esc, чтобы открыть меню\nНажмите R, чтобы перезапустить игру",
-                "Appuyez sur Esc pour ouvrir le menu\nAppuyez sur R pour redémarrer le jeu",
-                "Pressione Esc para abrir o menu\nPressione R para reiniciar o jogo",
-                "メニューを開くにはEscを押してください\nゲームを再起動するにはRを押してください",
-                "메뉴를 열려면 Esc를 누르고\n게임을 다시 시작하려면 R을 누르세요",
-                "اضغط على Esc لفتح القائمة\nاضغط على R لإعادة تشغيل اللعبة",
-                "Premi Esc per aprire il menu\nPremi R per riavviare il gioco",
-                "Esc tuşuna basarak menüyü açın\nOyunu yeniden başlatmak için R \ntuşuna basın",
-                "通過Esc鍵可以返回菜單\n通過R鍵可以重新開始"
+                "<size=60>  The direction the slime \n  comes out of the portal \n  is determined by the \n  direction it entered from\n</size>",
+                "  史莱姆从传送门中出来的方向\n  由它进入时的方向决定",
+                "<size=60>  La dirección en la que \n  el slime sale del portal \n  está determinada por la \n  dirección desde la que entró\n</size>",
+                "<size=60>  Die Richtung, in der der\n  Schleim aus dem Portal \n  kommt, wird durch die \n  Richtung bestimmt, aus der \n  er eingetreten ist\n</size>",
+                "<size=60>  Направление, в котором\n  слизень выходит из портала,\n  определяется направлением, \n  из которого он вошел\n</size>",
+                "<size=60>  La direction dans laquelle \n  le slime sort du portail est \n  déterminée par la direction \n  d'où il est entré\n</size>",
+                "<size=60>  A direção em que o slime sai\n  do portal é determinada pela \n  direção de onde ele entrou\n</size>",
+                "  スライムがポータルから出る\n  方向は、入った方向によって\n  決まります",
+                "  슬라임이 포털에서 나오는 \n  방향은 그것이 들어온 \n  방향에 의해 결정됩니다",
+                "  اتجاه خروج السلايم من \n  البوابةيتم تحديده \n  بواسطة الاتجاه الذي دخل منه",
+                "<size=60>  La direzione in cui il \n  slime esce dal portale è \n  determinata dalla direzione \n  da cui è entrato\n</size>",
+                "<size=60>  Slaym'in portaldan \n  çıktığı yön, girdiği yöne\n  bağlı olarak belirlenir\n</size>",
+                "  史萊姆從傳送門中出來的方向\n  由它進入時的方向決定"
+            ]
+        },
+        {
+            "x": 15.0,
+            "y": 17.0,
+            "languages": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "values": [
+                "<size=60>\n\n  This device wrapped \n  in green light is the portal, \n  and portals with the same\n  internal pattern form a pair\n</size>",
+                "  \n\n  这个被绿光包裹的装置就是传送门，\n  内部图案相同的传送门构成一对",
+                "<size=60>\n\n  Este dispositivo envuelto en luz \n  verde es el portal, y los portales con \n  el mismo patrón interno forman un par\n</size>",
+                "<size=60>\n\n  Dieses von grünem Licht umhüllte \n  Gerät ist das Portal, und Portale \n  mit dem gleichen inneren Muster \n  bilden ein Paar\n</size>",
+                "<size=60>\n\n  Это устройство, окруженное \n  зеленым светом, — это портал, \n  и порталы с одинаковым внутренним\n  рисунком образуют пару\n</size>",
+                "<size=60>\n\n  Cet appareil enveloppé \n  de lumière verte est le portail, \n  et les portails avec le même \n  motif interne forment une paire\n</size>",
+                "<size=60>\n\n  Este dispositivo envolto em luz \n  verde é o portal, e os portais com \n  o mesmo padrão interno formam um par\n</size>",
+                "\n\n  この緑の光に包まれた装置がポータルで、\n  内部の模様が同じポータルが一対を成します",
+                "\n\n  이 녹색 빛에 감싸인 장치는 포털이며,\n  내부 패턴이 동일한 포털이 한 쌍을 이룹니다",
+                "\n\n  هذا الجهاز المحاط بالضوء الأخضر هو \n  البوابة، والبوابات التي تحتوي \n  على نفس النمط الداخلي تشكل زوجًا",
+                "<size=60>\n\n  Questo dispositivo avvolto dalla \n  luce verde è il portale, e i portali \n  con lo stesso schema interno \n  formano una coppia\n</size>",
+                "<size=60>\n\n  Bu yeşil ışıkla sarılı cihaz \n  portaldır ve aynı iç desene \n  sahip portallar bir çift oluşturur\n</size>",
+                "\n\n  這個被綠光包裹的裝置就是傳送門，\n  內部圖案相同的傳送門構成一對"
             ]
         }
     ]
