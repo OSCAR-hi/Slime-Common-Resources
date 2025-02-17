@@ -108,9 +108,9 @@ TextureImporter:
       name: Wall_Yellow_0
       rect:
         serializedVersion: 2
-        x: 48
+        x: 0
         y: 47
-        width: 49
+        width: 48
         height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -121,6 +121,111 @@ TextureImporter:
       bones: []
       spriteID: 96d70c8b3eb3d1a4e80cd0e5df0022bc
       internalID: 249692557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d236d587d9abe4b85ecd90d089264e
+      internalID: 739913960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5503630d340be5041ba719dcc94978a4
+      internalID: -964264445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Yellow_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1248e02043d09ce4e8fb2f7be195f04c
+      internalID: 684418641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Yellow_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72113a4ca896ff4d8883a6bd36c898e
+      internalID: 313031998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Yellow_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a1f5b730a5eaa43902806cf616d163
+      internalID: 1440119985
       vertices: []
       indices: 
       edges: []
@@ -137,6 +242,11 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Wall_Yellow_0: 249692557
+      Wall_Yellow_1: 739913960
+      Wall_Yellow_2: -964264445
+      Wall_Yellow_3: 684418641
+      Wall_Yellow_4: 313031998
+      Wall_Yellow_5: 1440119985
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -9,556 +9,522 @@
     "numOfColumns": 30,
     "items": [
         {
-            "x": 18.0,
-            "y": 6.0,
-            "itemID": 0
-        },
-        {
-            "x": 18.0,
-            "y": 5.0,
-            "itemID": 0
-        },
-        {
-            "x": 12.0,
-            "y": 7.0,
-            "itemID": 1
-        },
-        {
             "x": 22.0,
-            "y": 10.0,
-            "itemID": 1
-        },
-        {
-            "x": 16.0,
-            "y": 10.0,
-            "itemID": 1
-        },
-        {
-            "x": 12.0,
-            "y": 8.0,
-            "itemID": 1
-        },
-        {
-            "x": 12.0,
-            "y": 9.0,
-            "itemID": 1
-        },
-        {
-            "x": 12.0,
-            "y": 10.0,
-            "itemID": 1
-        },
-        {
-            "x": 12.0,
             "y": 11.0,
-            "itemID": 1
+            "itemID": 10
         },
         {
-            "x": 10.0,
-            "y": 12.0,
-            "itemID": 1
-        },
-        {
-            "x": 12.0,
-            "y": 12.0,
-            "itemID": 1
-        },
-        {
-            "x": 13.0,
-            "y": 12.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 12.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 15.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 16.0,
-            "itemID": 1
-        },
-        {
-            "x": 13.0,
-            "y": 16.0,
-            "itemID": 1
-        },
-        {
-            "x": 25.0,
-            "y": 4.0,
-            "itemID": 0
-        },
-        {
-            "x": 11.0,
-            "y": 16.0,
-            "itemID": 1
-        },
-        {
-            "x": 10.0,
-            "y": 16.0,
-            "itemID": 1
-        },
-        {
-            "x": 9.0,
-            "y": 16.0,
-            "itemID": 1
-        },
-        {
-            "x": 9.0,
-            "y": 15.0,
-            "itemID": 1
-        },
-        {
-            "x": 11.0,
-            "y": 7.0,
-            "itemID": 0
-        },
-        {
-            "x": 10.0,
-            "y": 7.0,
-            "itemID": 0
-        },
-        {
-            "x": 9.0,
-            "y": 7.0,
-            "itemID": 0
-        },
-        {
-            "x": 8.0,
-            "y": 7.0,
-            "itemID": 0
-        },
-        {
-            "x": 7.0,
-            "y": 7.0,
-            "itemID": 0
-        },
-        {
-            "x": 6.0,
-            "y": 7.0,
-            "itemID": 0
-        },
-        {
-            "x": 5.0,
-            "y": 7.0,
-            "itemID": 0
-        },
-        {
-            "x": 8.0,
-            "y": 11.0,
-            "itemID": 0
-        },
-        {
-            "x": 9.0,
-            "y": 13.0,
-            "itemID": 0
-        },
-        {
-            "x": 17.0,
-            "y": 8.0,
-            "itemID": 0
-        },
-        {
-            "x": 9.0,
-            "y": 14.0,
-            "itemID": 0
-        },
-        {
-            "x": 19.0,
+            "x": 28.0,
             "y": 6.0,
-            "itemID": 0
+            "itemID": 2
         },
         {
-            "x": 4.0,
-            "y": 7.0,
-            "itemID": 0
-        },
-        {
-            "x": 4.0,
-            "y": 8.0,
-            "itemID": 0
-        },
-        {
-            "x": 4.0,
-            "y": 9.0,
-            "itemID": 0
-        },
-        {
-            "x": 3.0,
-            "y": 9.0,
-            "itemID": 0
-        },
-        {
-            "x": 2.0,
-            "y": 9.0,
-            "itemID": 0
-        },
-        {
-            "x": 4.0,
-            "y": 12.0,
-            "itemID": 0
-        },
-        {
-            "x": 8.0,
-            "y": 15.0,
-            "itemID": 0
-        },
-        {
-            "x": 7.0,
-            "y": 15.0,
-            "itemID": 0
-        },
-        {
-            "x": 6.0,
-            "y": 15.0,
-            "itemID": 0
-        },
-        {
-            "x": 5.0,
-            "y": 15.0,
-            "itemID": 0
-        },
-        {
-            "x": 4.0,
-            "y": 15.0,
-            "itemID": 0
-        },
-        {
-            "x": 3.0,
-            "y": 15.0,
-            "itemID": 0
-        },
-        {
-            "x": 2.0,
-            "y": 10.0,
-            "itemID": 0
-        },
-        {
-            "x": 2.0,
-            "y": 11.0,
-            "itemID": 0
-        },
-        {
-            "x": 2.0,
-            "y": 12.0,
-            "itemID": 0
-        },
-        {
-            "x": 2.0,
-            "y": 13.0,
-            "itemID": 0
-        },
-        {
-            "x": 2.0,
-            "y": 14.0,
-            "itemID": 0
-        },
-        {
-            "x": 2.0,
-            "y": 15.0,
-            "itemID": 0
-        },
-        {
-            "x": 26.0,
-            "y": 4.0,
-            "itemID": 0
-        },
-        {
-            "x": 24.0,
-            "y": 6.0,
-            "itemID": 0
-        },
-        {
-            "x": 23.0,
-            "y": 6.0,
-            "itemID": 0
-        },
-        {
-            "x": 22.0,
-            "y": 6.0,
-            "itemID": 0
-        },
-        {
-            "x": 26.0,
-            "y": 6.0,
-            "itemID": 0
-        },
-        {
-            "x": 27.0,
-            "y": 6.0,
-            "itemID": 0
-        },
-        {
-            "x": 13.0,
-            "y": 15.0,
-            "itemID": 6
-        },
-        {
-            "x": 18.0,
-            "y": 8.0,
-            "itemID": 0
-        },
-        {
-            "x": 21.0,
+            "x": 28.0,
             "y": 5.0,
-            "itemID": 3
-        },
-        {
-            "x": 3.0,
-            "y": 14.0,
-            "itemID": 22
-        },
-        {
-            "x": 11.0,
-            "y": 8.0,
             "itemID": 4
         },
         {
-            "x": 25.0,
-            "y": 5.0,
-            "itemID": 19
-        },
-        {
-            "x": 14.0,
-            "y": 14.0,
-            "itemID": 1
-        },
-        {
-            "x": 12.0,
-            "y": 16.0,
-            "itemID": 1
-        },
-        {
-            "x": 9.0,
-            "y": 19.0,
-            "itemID": 24
-        },
-        {
-            "x": 23.0,
-            "y": 10.0,
-            "itemID": 24
+            "x": 28.0,
+            "y": 4.0,
+            "itemID": 5
         },
         {
             "x": 15.0,
             "y": 17.0,
-            "itemID": 24
+            "itemID": 39
         },
         {
-            "x": 28.0,
-            "y": 4.0,
-            "itemID": 0
+            "x": 23.0,
+            "y": 10.0,
+            "itemID": 39
         },
         {
-            "x": 28.0,
+            "x": 9.0,
+            "y": 19.0,
+            "itemID": 39
+        },
+        {
+            "x": 12.0,
+            "y": 16.0,
+            "itemID": 7
+        },
+        {
+            "x": 14.0,
+            "y": 14.0,
+            "itemID": 10
+        },
+        {
+            "x": 25.0,
             "y": 5.0,
+            "itemID": 34
+        },
+        {
+            "x": 11.0,
+            "y": 8.0,
+            "itemID": 19
+        },
+        {
+            "x": 3.0,
+            "y": 14.0,
+            "itemID": 37
+        },
+        {
+            "x": 21.0,
+            "y": 5.0,
+            "itemID": 18
+        },
+        {
+            "x": 18.0,
+            "y": 8.0,
+            "itemID": 1
+        },
+        {
+            "x": 13.0,
+            "y": 15.0,
+            "itemID": 21
+        },
+        {
+            "x": 27.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 26.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 22.0,
+            "y": 6.0,
+            "itemID": 3
+        },
+        {
+            "x": 23.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 24.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 26.0,
+            "y": 4.0,
+            "itemID": 1
+        },
+        {
+            "x": 2.0,
+            "y": 15.0,
             "itemID": 0
         },
         {
-            "x": 28.0,
+            "x": 2.0,
+            "y": 14.0,
+            "itemID": 4
+        },
+        {
+            "x": 2.0,
+            "y": 13.0,
+            "itemID": 4
+        },
+        {
+            "x": 2.0,
+            "y": 12.0,
+            "itemID": 4
+        },
+        {
+            "x": 2.0,
+            "y": 11.0,
+            "itemID": 4
+        },
+        {
+            "x": 2.0,
+            "y": 10.0,
+            "itemID": 4
+        },
+        {
+            "x": 3.0,
+            "y": 15.0,
+            "itemID": 1
+        },
+        {
+            "x": 4.0,
+            "y": 15.0,
+            "itemID": 1
+        },
+        {
+            "x": 5.0,
+            "y": 15.0,
+            "itemID": 1
+        },
+        {
+            "x": 6.0,
+            "y": 15.0,
+            "itemID": 1
+        },
+        {
+            "x": 7.0,
+            "y": 15.0,
+            "itemID": 1
+        },
+        {
+            "x": 8.0,
+            "y": 15.0,
+            "itemID": 1
+        },
+        {
+            "x": 4.0,
+            "y": 12.0,
+            "itemID": 1
+        },
+        {
+            "x": 2.0,
+            "y": 9.0,
+            "itemID": 3
+        },
+        {
+            "x": 3.0,
+            "y": 9.0,
+            "itemID": 1
+        },
+        {
+            "x": 4.0,
+            "y": 9.0,
+            "itemID": 2
+        },
+        {
+            "x": 4.0,
+            "y": 8.0,
+            "itemID": 4
+        },
+        {
+            "x": 4.0,
+            "y": 7.0,
+            "itemID": 3
+        },
+        {
+            "x": 19.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 9.0,
+            "y": 14.0,
+            "itemID": 4
+        },
+        {
+            "x": 17.0,
+            "y": 8.0,
+            "itemID": 1
+        },
+        {
+            "x": 9.0,
+            "y": 13.0,
+            "itemID": 4
+        },
+        {
+            "x": 8.0,
+            "y": 11.0,
+            "itemID": 1
+        },
+        {
+            "x": 5.0,
+            "y": 7.0,
+            "itemID": 1
+        },
+        {
+            "x": 6.0,
+            "y": 7.0,
+            "itemID": 1
+        },
+        {
+            "x": 7.0,
+            "y": 7.0,
+            "itemID": 1
+        },
+        {
+            "x": 8.0,
+            "y": 7.0,
+            "itemID": 1
+        },
+        {
+            "x": 9.0,
+            "y": 7.0,
+            "itemID": 1
+        },
+        {
+            "x": 10.0,
+            "y": 7.0,
+            "itemID": 1
+        },
+        {
+            "x": 11.0,
+            "y": 7.0,
+            "itemID": 1
+        },
+        {
+            "x": 9.0,
+            "y": 15.0,
+            "itemID": 10
+        },
+        {
+            "x": 9.0,
+            "y": 16.0,
+            "itemID": 6
+        },
+        {
+            "x": 10.0,
+            "y": 16.0,
+            "itemID": 7
+        },
+        {
+            "x": 11.0,
+            "y": 16.0,
+            "itemID": 7
+        },
+        {
+            "x": 25.0,
+            "y": 4.0,
+            "itemID": 1
+        },
+        {
+            "x": 13.0,
+            "y": 16.0,
+            "itemID": 7
+        },
+        {
+            "x": 14.0,
+            "y": 16.0,
+            "itemID": 8
+        },
+        {
+            "x": 14.0,
+            "y": 15.0,
+            "itemID": 10
+        },
+        {
+            "x": 14.0,
+            "y": 13.0,
+            "itemID": 10
+        },
+        {
+            "x": 14.0,
+            "y": 12.0,
+            "itemID": 11
+        },
+        {
+            "x": 13.0,
+            "y": 12.0,
+            "itemID": 7
+        },
+        {
+            "x": 12.0,
+            "y": 12.0,
+            "itemID": 6
+        },
+        {
+            "x": 10.0,
+            "y": 12.0,
+            "itemID": 7
+        },
+        {
+            "x": 12.0,
+            "y": 11.0,
+            "itemID": 10
+        },
+        {
+            "x": 12.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 12.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 12.0,
+            "y": 8.0,
+            "itemID": 10
+        },
+        {
+            "x": 16.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 22.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 12.0,
+            "y": 7.0,
+            "itemID": 11
+        },
+        {
+            "x": 18.0,
+            "y": 5.0,
+            "itemID": 4
+        },
+        {
+            "x": 18.0,
             "y": 6.0,
             "itemID": 0
         },
         {
             "x": 22.0,
-            "y": 11.0,
-            "itemID": 1
-        },
-        {
-            "x": 22.0,
             "y": 12.0,
-            "itemID": 1
+            "itemID": 8
         },
         {
             "x": 19.0,
             "y": 12.0,
-            "itemID": 0
+            "itemID": 1
         },
         {
             "x": 18.0,
             "y": 12.0,
-            "itemID": 0
+            "itemID": 1
         },
         {
             "x": 16.0,
             "y": 9.0,
-            "itemID": 1
+            "itemID": 10
         },
         {
             "x": 16.0,
             "y": 8.0,
-            "itemID": 1
+            "itemID": 9
         },
         {
             "x": 27.0,
             "y": 4.0,
-            "itemID": 0
+            "itemID": 1
         },
         {
             "x": 16.0,
             "y": 11.0,
-            "itemID": 1
+            "itemID": 10
         },
         {
             "x": 21.0,
             "y": 12.0,
-            "itemID": 1
+            "itemID": 7
         },
         {
             "x": 20.0,
             "y": 12.0,
-            "itemID": 0
+            "itemID": 1
         },
         {
             "x": 17.0,
             "y": 12.0,
-            "itemID": 1
+            "itemID": 7
         },
         {
             "x": 16.0,
             "y": 12.0,
-            "itemID": 1
+            "itemID": 6
         },
         {
             "x": 22.0,
             "y": 8.0,
-            "itemID": 0
+            "itemID": 4
         },
         {
             "x": 22.0,
             "y": 7.0,
-            "itemID": 0
+            "itemID": 4
         },
         {
             "x": 25.0,
             "y": 6.0,
-            "itemID": 0
+            "itemID": 1
         },
         {
             "x": 20.0,
             "y": 7.0,
-            "itemID": 0
+            "itemID": 4
         },
         {
             "x": 20.0,
             "y": 6.0,
-            "itemID": 0
+            "itemID": 5
         },
         {
             "x": 24.0,
             "y": 5.0,
-            "itemID": 0
+            "itemID": 4
         },
         {
             "x": 20.0,
             "y": 4.0,
-            "itemID": 0
+            "itemID": 1
         },
         {
             "x": 21.0,
             "y": 4.0,
-            "itemID": 0
+            "itemID": 1
         },
         {
             "x": 22.0,
             "y": 4.0,
-            "itemID": 0
+            "itemID": 1
         },
         {
             "x": 23.0,
             "y": 4.0,
-            "itemID": 0
+            "itemID": 1
         },
         {
             "x": 24.0,
             "y": 4.0,
-            "itemID": 0
+            "itemID": 1
         },
         {
             "x": 17.0,
             "y": 9.0,
-            "itemID": 6
+            "itemID": 21
         },
         {
             "x": 19.0,
             "y": 8.0,
-            "itemID": 0
+            "itemID": 1
         },
         {
             "x": 20.0,
             "y": 8.0,
-            "itemID": 0
+            "itemID": 2
         },
         {
             "x": 22.0,
             "y": 9.0,
-            "itemID": 0
+            "itemID": 4
         },
         {
             "x": 19.0,
             "y": 4.0,
-            "itemID": 0
+            "itemID": 1
         },
         {
             "x": 19.0,
             "y": 5.0,
-            "itemID": 8
+            "itemID": 23
         },
         {
             "x": 18.0,
             "y": 4.0,
-            "itemID": 0
+            "itemID": 3
         },
         {
             "x": 27.0,
             "y": 5.0,
-            "itemID": 8
+            "itemID": 23
         }
     ],
     "floatingTexts": [
-        {
-            "x": 9.0,
-            "y": 19.0,
-            "languages": [
-                0,
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
-            ],
-            "values": [
-                "<size=60>\n  The slime can travel through \n  the portal to reach the location \n  of the corresponding other portal\n</size>",
-                "\n     史莱姆可以通过传送门到达与其\n     对应的另一扇传送门所在的位置\n",
-                "<size=60>\n  El slime puede viajar a través del \n  portal para llegar a la ubicación del \n  otro portal correspondiente\n</size>",
-                "<size=60>  Der Schleim kann durch das \n  Portal reisen, um den Standort \n  des entsprechenden anderen \n  Portals zu erreichen\n</size>",
-                "<size=60>\n  Слизень может пройти через портал,\n  чтобы достичь местоположения\n  другого соответствующего портала\n</size>",
-                "<size=60>\n  Le slime peut passer par le portail \n  pour atteindre l'emplacement de \n  l'autre portail correspondant\n</size>",
-                "<size=60>\n\n  O slime pode passar pelo portal para alcançar \n  a localização do outro portal correspondente\n</size>",
-                "\n    スライムはポータルを通じて対応するも\n    う一つのポータルの位置に到達できます",
-                "\n     슬라임은 포탈을 통해 대응되는 \n     다른 포탈 위치로 이동할 수 있습니다",
-                " \n    يمكن للزنبور العبور عبر البوابة \n    للوصول إلى موقع البوابة الأخرى المقابلة",
-                "<size=60>\n   Lo slime può passare attraverso \n   il portale per raggiungere la posizione\n   dell'altro portale corrispondente\n</size>",
-                "<size=60>\n\n    Slaym, portaldan geçerek karşılık gelen\n    diğer portalın bulunduğu konuma ulaşabilir\n</size>",
-                "\n     史萊姆可以透過傳送門到達與\n     其對應的另一扇傳送門所在的位置"
-            ]
-        },
         {
             "x": 23.0,
             "y": 10.0,
@@ -591,6 +557,40 @@
                 "<size=60>  La direzione in cui il \n  slime esce dal portale è \n  determinata dalla direzione \n  da cui è entrato\n</size>",
                 "<size=60>  Slaym'in portaldan \n  çıktığı yön, girdiği yöne\n  bağlı olarak belirlenir\n</size>",
                 "  史萊姆從傳送門中出來的方向\n  由它進入時的方向決定"
+            ]
+        },
+        {
+            "x": 9.0,
+            "y": 19.0,
+            "languages": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "values": [
+                "<size=60>\n  The slime can travel through \n  the portal to reach the location \n  of the corresponding other portal\n</size>",
+                "\n     史莱姆可以通过传送门到达与其\n     对应的另一扇传送门所在的位置\n",
+                "<size=60>\n  El slime puede viajar a través del \n  portal para llegar a la ubicación del \n  otro portal correspondiente\n</size>",
+                "<size=60>  Der Schleim kann durch das \n  Portal reisen, um den Standort \n  des entsprechenden anderen \n  Portals zu erreichen\n</size>",
+                "<size=60>\n  Слизень может пройти через портал,\n  чтобы достичь местоположения\n  другого соответствующего портала\n</size>",
+                "<size=60>\n  Le slime peut passer par le portail \n  pour atteindre l'emplacement de \n  l'autre portail correspondant\n</size>",
+                "<size=60>\n\n  O slime pode passar pelo portal para alcançar \n  a localização do outro portal correspondente\n</size>",
+                "\n    スライムはポータルを通じて対応するも\n    う一つのポータルの位置に到達できます",
+                "\n     슬라임은 포탈을 통해 대응되는 \n     다른 포탈 위치로 이동할 수 있습니다",
+                " \n    يمكن للزنبور العبور عبر البوابة \n    للوصول إلى موقع البوابة الأخرى المقابلة",
+                "<size=60>\n   Lo slime può passare attraverso \n   il portale per raggiungere la posizione\n   dell'altro portale corrispondente\n</size>",
+                "<size=60>\n\n    Slaym, portaldan geçerek karşılık gelen\n    diğer portalın bulunduğu konuma ulaşabilir\n</size>",
+                "\n     史萊姆可以透過傳送門到達與\n     其對應的另一扇傳送門所在的位置"
             ]
         },
         {

@@ -9,581 +9,547 @@
     "numOfColumns": 30,
     "items": [
         {
-            "x": 27.0,
-            "y": 11.0,
-            "itemID": 1
-        },
-        {
-            "x": 27.0,
-            "y": 12.0,
-            "itemID": 1
-        },
-        {
-            "x": 27.0,
+            "x": 24.0,
             "y": 13.0,
             "itemID": 1
         },
         {
-            "x": 7.0,
-            "y": 12.0,
-            "itemID": 17
-        },
-        {
-            "x": 9.0,
-            "y": 12.0,
-            "itemID": 16
-        },
-        {
-            "x": 5.0,
-            "y": 7.0,
-            "itemID": 15
-        },
-        {
-            "x": 7.0,
-            "y": 7.0,
-            "itemID": 16
-        },
-        {
-            "x": 25.0,
-            "y": 8.0,
-            "itemID": 0
-        },
-        {
-            "x": 12.0,
-            "y": 11.0,
-            "itemID": 24
-        },
-        {
-            "x": 9.0,
-            "y": 7.0,
-            "itemID": 15
-        },
-        {
-            "x": 5.0,
-            "y": 12.0,
-            "itemID": 16
-        },
-        {
             "x": 23.0,
-            "y": 9.0,
-            "itemID": 20
-        },
-        {
-            "x": 13.0,
-            "y": 12.0,
-            "itemID": 1
-        },
-        {
-            "x": 18.0,
-            "y": 7.0,
+            "y": 5.0,
             "itemID": 3
         },
         {
-            "x": 26.0,
-            "y": 12.0,
-            "itemID": 4
-        },
-        {
-            "x": 3.0,
-            "y": 12.0,
-            "itemID": 23
-        },
-        {
-            "x": 25.0,
-            "y": 5.0,
-            "itemID": 0
-        },
-        {
-            "x": 2.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 3.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 4.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 2.0,
-            "y": 12.0,
-            "itemID": 1
-        },
-        {
-            "x": 2.0,
-            "y": 11.0,
-            "itemID": 1
-        },
-        {
-            "x": 2.0,
-            "y": 10.0,
-            "itemID": 1
-        },
-        {
-            "x": 2.0,
-            "y": 9.0,
-            "itemID": 1
-        },
-        {
-            "x": 2.0,
-            "y": 8.0,
-            "itemID": 1
-        },
-        {
-            "x": 2.0,
-            "y": 7.0,
-            "itemID": 1
-        },
-        {
-            "x": 2.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 3.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 4.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 5.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 6.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 6.0,
-            "y": 7.0,
-            "itemID": 1
-        },
-        {
-            "x": 6.0,
-            "y": 8.0,
-            "itemID": 1
-        },
-        {
-            "x": 6.0,
-            "y": 9.0,
-            "itemID": 1
-        },
-        {
-            "x": 6.0,
-            "y": 10.0,
-            "itemID": 1
-        },
-        {
-            "x": 4.0,
-            "y": 12.0,
-            "itemID": 1
-        },
-        {
-            "x": 4.0,
-            "y": 11.0,
-            "itemID": 1
-        },
-        {
-            "x": 4.0,
-            "y": 10.0,
-            "itemID": 1
-        },
-        {
-            "x": 4.0,
-            "y": 9.0,
-            "itemID": 1
-        },
-        {
-            "x": 4.0,
-            "y": 8.0,
-            "itemID": 1
-        },
-        {
-            "x": 6.0,
-            "y": 11.0,
-            "itemID": 1
-        },
-        {
-            "x": 5.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 6.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 7.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 8.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 8.0,
-            "y": 12.0,
-            "itemID": 1
-        },
-        {
-            "x": 8.0,
-            "y": 11.0,
-            "itemID": 1
-        },
-        {
-            "x": 8.0,
-            "y": 10.0,
-            "itemID": 1
-        },
-        {
-            "x": 8.0,
-            "y": 9.0,
-            "itemID": 1
-        },
-        {
-            "x": 8.0,
-            "y": 8.0,
-            "itemID": 1
-        },
-        {
-            "x": 7.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 8.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
             "x": 9.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 10.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 10.0,
-            "y": 7.0,
-            "itemID": 1
-        },
-        {
-            "x": 10.0,
-            "y": 8.0,
-            "itemID": 1
-        },
-        {
-            "x": 10.0,
-            "y": 9.0,
-            "itemID": 1
-        },
-        {
-            "x": 10.0,
-            "y": 10.0,
-            "itemID": 1
-        },
-        {
-            "x": 10.0,
-            "y": 11.0,
-            "itemID": 1
-        },
-        {
-            "x": 9.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 10.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 11.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 11.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 12.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 13.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 13.0,
-            "itemID": 0
-        },
-        {
-            "x": 14.0,
-            "y": 14.0,
-            "itemID": 0
-        },
-        {
-            "x": 15.0,
-            "y": 14.0,
-            "itemID": 0
-        },
-        {
-            "x": 16.0,
-            "y": 14.0,
-            "itemID": 0
-        },
-        {
-            "x": 17.0,
-            "y": 14.0,
-            "itemID": 0
-        },
-        {
-            "x": 18.0,
-            "y": 14.0,
-            "itemID": 0
-        },
-        {
-            "x": 18.0,
-            "y": 13.0,
-            "itemID": 0
-        },
-        {
-            "x": 18.0,
-            "y": 12.0,
-            "itemID": 0
-        },
-        {
-            "x": 19.0,
-            "y": 13.0,
-            "itemID": 0
-        },
-        {
-            "x": 20.0,
-            "y": 13.0,
-            "itemID": 0
-        },
-        {
-            "x": 21.0,
-            "y": 13.0,
-            "itemID": 0
-        },
-        {
-            "x": 22.0,
-            "y": 13.0,
-            "itemID": 0
-        },
-        {
-            "x": 26.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 25.0,
-            "y": 11.0,
-            "itemID": 0
-        },
-        {
-            "x": 25.0,
-            "y": 10.0,
-            "itemID": 0
-        },
-        {
-            "x": 25.0,
-            "y": 9.0,
-            "itemID": 0
-        },
-        {
-            "x": 23.0,
-            "y": 13.0,
-            "itemID": 0
-        },
-        {
-            "x": 23.0,
-            "y": 12.0,
-            "itemID": 0
-        },
-        {
-            "x": 11.0,
-            "y": 10.0,
-            "itemID": 20
-        },
-        {
-            "x": 25.0,
-            "y": 13.0,
-            "itemID": 0
-        },
-        {
-            "x": 14.0,
-            "y": 6.0,
-            "itemID": 0
-        },
-        {
-            "x": 14.0,
-            "y": 7.0,
-            "itemID": 0
-        },
-        {
-            "x": 26.0,
-            "y": 8.0,
-            "itemID": 1
-        },
-        {
-            "x": 15.0,
-            "y": 6.0,
-            "itemID": 0
-        },
-        {
-            "x": 16.0,
-            "y": 6.0,
-            "itemID": 0
-        },
-        {
-            "x": 17.0,
-            "y": 6.0,
-            "itemID": 0
-        },
-        {
-            "x": 18.0,
-            "y": 6.0,
-            "itemID": 0
-        },
-        {
-            "x": 19.0,
-            "y": 6.0,
-            "itemID": 0
-        },
-        {
-            "x": 20.0,
-            "y": 6.0,
-            "itemID": 0
-        },
-        {
-            "x": 21.0,
-            "y": 6.0,
-            "itemID": 0
-        },
-        {
-            "x": 21.0,
-            "y": 7.0,
-            "itemID": 0
-        },
-        {
-            "x": 22.0,
-            "y": 6.0,
-            "itemID": 0
-        },
-        {
-            "x": 23.0,
-            "y": 6.0,
-            "itemID": 0
-        },
-        {
-            "x": 25.0,
-            "y": 6.0,
-            "itemID": 0
-        },
-        {
-            "x": 26.0,
-            "y": 9.0,
-            "itemID": 19
-        },
-        {
-            "x": 27.0,
-            "y": 10.0,
-            "itemID": 1
-        },
-        {
-            "x": 27.0,
-            "y": 9.0,
-            "itemID": 1
-        },
-        {
-            "x": 27.0,
-            "y": 8.0,
-            "itemID": 1
-        },
-        {
-            "x": 24.0,
             "y": 5.0,
-            "itemID": 0
+            "itemID": 39
         },
         {
             "x": 0.0,
             "y": 17.0,
-            "itemID": 24
-        },
-        {
-            "x": 9.0,
-            "y": 5.0,
-            "itemID": 24
-        },
-        {
-            "x": 23.0,
-            "y": 5.0,
-            "itemID": 0
+            "itemID": 39
         },
         {
             "x": 24.0,
+            "y": 5.0,
+            "itemID": 1
+        },
+        {
+            "x": 27.0,
+            "y": 8.0,
+            "itemID": 11
+        },
+        {
+            "x": 27.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 27.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 26.0,
+            "y": 9.0,
+            "itemID": 34
+        },
+        {
+            "x": 25.0,
+            "y": 6.0,
+            "itemID": 4
+        },
+        {
+            "x": 23.0,
+            "y": 6.0,
+            "itemID": 2
+        },
+        {
+            "x": 22.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 21.0,
+            "y": 7.0,
+            "itemID": 4
+        },
+        {
+            "x": 21.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 20.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 19.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 18.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 17.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 16.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 15.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 26.0,
+            "y": 8.0,
+            "itemID": 7
+        },
+        {
+            "x": 14.0,
+            "y": 7.0,
+            "itemID": 4
+        },
+        {
+            "x": 14.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 25.0,
             "y": 13.0,
+            "itemID": 1
+        },
+        {
+            "x": 11.0,
+            "y": 10.0,
+            "itemID": 35
+        },
+        {
+            "x": 23.0,
+            "y": 12.0,
+            "itemID": 4
+        },
+        {
+            "x": 23.0,
+            "y": 13.0,
+            "itemID": 1
+        },
+        {
+            "x": 25.0,
+            "y": 9.0,
+            "itemID": 4
+        },
+        {
+            "x": 25.0,
+            "y": 10.0,
+            "itemID": 4
+        },
+        {
+            "x": 25.0,
+            "y": 11.0,
+            "itemID": 4
+        },
+        {
+            "x": 26.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 22.0,
+            "y": 13.0,
+            "itemID": 1
+        },
+        {
+            "x": 21.0,
+            "y": 13.0,
+            "itemID": 1
+        },
+        {
+            "x": 20.0,
+            "y": 13.0,
+            "itemID": 1
+        },
+        {
+            "x": 19.0,
+            "y": 13.0,
+            "itemID": 1
+        },
+        {
+            "x": 18.0,
+            "y": 12.0,
+            "itemID": 4
+        },
+        {
+            "x": 18.0,
+            "y": 13.0,
+            "itemID": 4
+        },
+        {
+            "x": 18.0,
+            "y": 14.0,
+            "itemID": 2
+        },
+        {
+            "x": 17.0,
+            "y": 14.0,
+            "itemID": 1
+        },
+        {
+            "x": 16.0,
+            "y": 14.0,
+            "itemID": 1
+        },
+        {
+            "x": 15.0,
+            "y": 14.0,
+            "itemID": 1
+        },
+        {
+            "x": 14.0,
+            "y": 14.0,
             "itemID": 0
-        }
-    ],
-    "floatingTexts": [
+        },
+        {
+            "x": 14.0,
+            "y": 13.0,
+            "itemID": 4
+        },
+        {
+            "x": 13.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 12.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 11.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 11.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 10.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 9.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 10.0,
+            "y": 11.0,
+            "itemID": 10
+        },
+        {
+            "x": 10.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 10.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 10.0,
+            "y": 8.0,
+            "itemID": 10
+        },
+        {
+            "x": 10.0,
+            "y": 7.0,
+            "itemID": 10
+        },
+        {
+            "x": 10.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 9.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 8.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 7.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 8.0,
+            "y": 8.0,
+            "itemID": 10
+        },
+        {
+            "x": 8.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 8.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 8.0,
+            "y": 11.0,
+            "itemID": 10
+        },
+        {
+            "x": 8.0,
+            "y": 12.0,
+            "itemID": 10
+        },
+        {
+            "x": 8.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 7.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 6.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 5.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 6.0,
+            "y": 11.0,
+            "itemID": 10
+        },
+        {
+            "x": 4.0,
+            "y": 8.0,
+            "itemID": 10
+        },
+        {
+            "x": 4.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 4.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 4.0,
+            "y": 11.0,
+            "itemID": 10
+        },
+        {
+            "x": 4.0,
+            "y": 12.0,
+            "itemID": 10
+        },
+        {
+            "x": 6.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 6.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 6.0,
+            "y": 8.0,
+            "itemID": 10
+        },
+        {
+            "x": 6.0,
+            "y": 7.0,
+            "itemID": 10
+        },
+        {
+            "x": 6.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 5.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 4.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 3.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 2.0,
+            "y": 6.0,
+            "itemID": 9
+        },
+        {
+            "x": 2.0,
+            "y": 7.0,
+            "itemID": 10
+        },
+        {
+            "x": 2.0,
+            "y": 8.0,
+            "itemID": 10
+        },
+        {
+            "x": 2.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 2.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 2.0,
+            "y": 11.0,
+            "itemID": 10
+        },
+        {
+            "x": 2.0,
+            "y": 12.0,
+            "itemID": 10
+        },
+        {
+            "x": 4.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 3.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 2.0,
+            "y": 13.0,
+            "itemID": 6
+        },
+        {
+            "x": 25.0,
+            "y": 5.0,
+            "itemID": 5
+        },
+        {
+            "x": 3.0,
+            "y": 12.0,
+            "itemID": 38
+        },
+        {
+            "x": 26.0,
+            "y": 12.0,
+            "itemID": 19
+        },
+        {
+            "x": 18.0,
+            "y": 7.0,
+            "itemID": 18
+        },
+        {
+            "x": 13.0,
+            "y": 12.0,
+            "itemID": 7
+        },
+        {
+            "x": 23.0,
+            "y": 9.0,
+            "itemID": 35
+        },
+        {
+            "x": 5.0,
+            "y": 12.0,
+            "itemID": 31
+        },
+        {
+            "x": 9.0,
+            "y": 7.0,
+            "itemID": 30
+        },
         {
             "x": 12.0,
             "y": 11.0,
-            "languages": [
-                0,
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
-            ],
-            "values": [
-                "<size=60>\n  Each time you touch a gravity capsule,\n  it will reverse the effect of gravity \n  on the slime\n</size>",
-                "  \n  每次触碰重力胶囊\n  会扭转重力对史莱姆的影响",
-                "<size=60>  \n  Cada vez que toques una cápsula \n  de gravedad invertirá el efecto \n  de la gravedad sobre el slime</size>",
-                "<size=60>\n  Jedes Mal, wenn du eine \n  Gravitätskapsel berührst wird der \n  Effekt der Schwerkraft auf den \n  Schleim umgekehrt</size>",
-                "<size=60>\n  Каждый раз, когда вы касаетесь\n  капсулы гравитации она будет изменять \n  влияние гравитации на слизь\n</size>",
-                "<size=60>\n  Chaque fois que vous touchez \n  une capsule de gravité cela \n  inversera l'effet de la \n  gravité sur le slime</size>",
-                "<size=60>\n  Cada vez que você tocar uma cápsula \n  de gravidadeisso reverterá o efeito \n  da gravidade sobre o slime\n</size>",
-                "\n  重力カプセルに触れるたびに\n  それは重力がスライムに与える\n  影響を反転させます",
-                "  \n  중력 캡슐을 만질 때마다\n  그것은 중력이 슬라임에 미치는 \n  영향을 반전시킵니다",
-                "  \n  في كل مرة تلمس فيها كبسولة\n  الجاذبيةسوف تعكس تأثير الج\n  اذبية على السلايم",
-                "<size=60>  \n  Ogni volta che tocchi una \n  capsula di gravità inverterà \n  l'effetto della gravità \n  sullo slime\n</size>",
-                "<size=60>\n  Her seferinde yerçekimi kapsülüne \n  dokunduğunda bu, yerçekiminin \n  sümükli böceğe etkisini tersine \n  çevirecektir\n</size>",
-                "\n  每次觸碰重力膠囊\n  會扭轉重力對史萊姆的影響"
-            ]
+            "itemID": 39
         },
+        {
+            "x": 25.0,
+            "y": 8.0,
+            "itemID": 3
+        },
+        {
+            "x": 7.0,
+            "y": 7.0,
+            "itemID": 31
+        },
+        {
+            "x": 5.0,
+            "y": 7.0,
+            "itemID": 30
+        },
+        {
+            "x": 9.0,
+            "y": 12.0,
+            "itemID": 31
+        },
+        {
+            "x": 7.0,
+            "y": 12.0,
+            "itemID": 32
+        },
+        {
+            "x": 27.0,
+            "y": 13.0,
+            "itemID": 8
+        },
+        {
+            "x": 27.0,
+            "y": 12.0,
+            "itemID": 10
+        },
+        {
+            "x": 27.0,
+            "y": 11.0,
+            "itemID": 10
+        }
+    ],
+    "floatingTexts": [
         {
             "x": 0.0,
             "y": 17.0,
@@ -650,6 +616,40 @@
                 "<size=60>Lo slime ora è soggetto alla gravità. \nPuoi muoverlo liberamente come in \nun platform 2D. Ma attenzione, \nogni capsula di gravità può essere \nraccolta solo una volta, a meno che non riavvii.\n</size>",
                 "<size=60>Slime artık yerçekiminden etkileniyor. \nOnu 2D platform oyunlarında olduğu \ngibi özgürce hareket ettirebilirsin. \nAma dikkat, her yerçekimi kapsülü yalnızca \nbir kez alınabilir, yeniden başlatmadıkça.\n</size>",
                 "史萊姆現在受到重力影響，\n你可以像2D平台遊戲一樣自由移動它。\n但要注意，除非重新開始，\n否則每個重力膠囊只能拾取一次。"
+            ]
+        },
+        {
+            "x": 12.0,
+            "y": 11.0,
+            "languages": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "values": [
+                "<size=60>\n  Each time you touch a gravity capsule,\n  it will reverse the effect of gravity \n  on the slime\n</size>",
+                "  \n  每次触碰重力胶囊\n  会扭转重力对史莱姆的影响",
+                "<size=60>  \n  Cada vez que toques una cápsula \n  de gravedad invertirá el efecto \n  de la gravedad sobre el slime</size>",
+                "<size=60>\n  Jedes Mal, wenn du eine \n  Gravitätskapsel berührst wird der \n  Effekt der Schwerkraft auf den \n  Schleim umgekehrt</size>",
+                "<size=60>\n  Каждый раз, когда вы касаетесь\n  капсулы гравитации она будет изменять \n  влияние гравитации на слизь\n</size>",
+                "<size=60>\n  Chaque fois que vous touchez \n  une capsule de gravité cela \n  inversera l'effet de la \n  gravité sur le slime</size>",
+                "<size=60>\n  Cada vez que você tocar uma cápsula \n  de gravidadeisso reverterá o efeito \n  da gravidade sobre o slime\n</size>",
+                "\n  重力カプセルに触れるたびに\n  それは重力がスライムに与える\n  影響を反転させます",
+                "  \n  중력 캡슐을 만질 때마다\n  그것은 중력이 슬라임에 미치는 \n  영향을 반전시킵니다",
+                "  \n  في كل مرة تلمس فيها كبسولة\n  الجاذبيةسوف تعكس تأثير الج\n  اذبية على السلايم",
+                "<size=60>  \n  Ogni volta che tocchi una \n  capsula di gravità inverterà \n  l'effetto della gravità \n  sullo slime\n</size>",
+                "<size=60>\n  Her seferinde yerçekimi kapsülüne \n  dokunduğunda bu, yerçekiminin \n  sümükli böceğe etkisini tersine \n  çevirecektir\n</size>",
+                "\n  每次觸碰重力膠囊\n  會扭轉重力對史萊姆的影響"
             ]
         }
     ]

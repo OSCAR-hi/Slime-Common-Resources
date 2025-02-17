@@ -108,9 +108,9 @@ TextureImporter:
       name: Wall_Red_0
       rect:
         serializedVersion: 2
-        x: 48
+        x: 0
         y: 47
-        width: 49
+        width: 48
         height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -121,6 +121,111 @@ TextureImporter:
       bones: []
       spriteID: 4f8d549e5ff918a4faa8bebf374acee1
       internalID: 1797460921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Red_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decd2859870b4c744afdc09aa523a451
+      internalID: 1632851871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Red_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5915b219e84f40c4dae322eb3a104a7d
+      internalID: 1727863173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Red_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f23cf4d6f8d0b4bb357cc0e1710d21
+      internalID: 1186750452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Red_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cc4009fb0b4f647a2ab0d9c8ce9dc4
+      internalID: -2123055573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Red_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a05d3b0a6f9f424facd80c273e77c3b
+      internalID: -233682535
       vertices: []
       indices: 
       edges: []
@@ -137,6 +242,11 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Wall_Red_0: 1797460921
+      Wall_Red_1: 1632851871
+      Wall_Red_2: 1727863173
+      Wall_Red_3: 1186750452
+      Wall_Red_4: -2123055573
+      Wall_Red_5: -233682535
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
