@@ -1,0 +1,27 @@
+# 从临时文件中读取提交消息，并过滤掉注释行（以 # 开头）
+COMMIT_MSG=$(sed -e '/^#/d' "$1" | head -n 1)
+
+# 检查提交消息是否为空
+if [ -z "$COMMIT_MSG" ]; then
+  echo "错误：提交消息不能为空。"
+  exit 1
+fi
+
+# 正则表达式校验格式
+COMMIT_REGEX='^(feat|fix|refactor|revert|test|chore|build|docs|style|perf): .+'
+if ! echo "$COMMIT_MSG" | grep -qE "$COMMIT_REGEX"; then
+  echo "错误：提交消息格式不正确。"
+  echo "格式要求："
+  echo "  - 以允许的小写前缀开头（如 feat, fix, chore）"
+  echo "  - 前缀后必须紧跟冒号和空格（例如 'feat: '）"
+  echo "  - 前缀前不可有其他字符"
+  echo ""
+  echo "有效示例："
+  echo "  feat: 新增登录功能"
+  echo "  fix: 修复内存泄漏问题"
+  echo ""
+  echo "你的提交消息: $COMMIT_MSG"
+  exit 1
+fi
+
+exit 0
