@@ -14,6 +14,8 @@ Reconstructed development pattern of the Slime project
 - 如果不能成功拉取，先尝试使用`stash`指令藏匿本地主库代码的改动（local changes），再尝试拉取。
 - 如若还不能正常拉取，请联系奥斯卡协助解决问题。
 
+---
+
 ### 3. 主模块改动
 - 如果有需要提交主模块的改动，请事先告知奥斯卡！
 - 经双方确认改动是否合理后，再到Github的主库上提交pull request。
@@ -37,23 +39,23 @@ Reconstructed development pattern of the Slime project
 
 ### 项目库中已集成了提交信息规范辅助工具，具体操作步骤如下：
 
-##### 1. **安装 Node 版本管理器（NVM）**  
+#### 1. **安装 Node 版本管理器（NVM）**  
    请先下载并安装 [nvm](https://github.com/coreybutler/nvm-windows#readme)。
 
-##### 2. **安装所需版本的Node.js**  
-   执行以下命令18.0版本的Node.js：
+#### 2. **安装所需版本的Node.js**  
+   执行以下命令安装 18.0 版本的 Node.js：
    ```bash
    nvm install 18.0
    ```
 
-###### 3. **安装项目依赖**  
-   在主库中执行以下命令安装项目的npm依赖：
+#### 3. **安装项目依赖**  
+   在主库中执行以下命令安装项目的 npm 依赖：
    ```bash
    npm install
    ```
 
-###### 4. **安装Husky库**  
-   随后请在每个子库的git bash中使用以下命令来手动安装Husky：
+#### 4. **安装Husky库**  
+   随后请在每个子库的 git bash 中使用以下命令来手动安装 Husky：
    ```bash
    npx husky install
    ```
