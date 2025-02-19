@@ -8,7 +8,7 @@ if [ -z "$COMMIT_MSG" ]; then
 fi
 
 # 正则表达式校验格式
-COMMIT_REGEX='^(feat|fix|refactor|revert|test|chore|build|docs|style|perf): .+'
+COMMIT_REGEX='^(feat|fix|refactor|revert|test|chore|build|merge): .+'
 if ! echo "$COMMIT_MSG" | grep -qE "$COMMIT_REGEX"; then
   echo "错误：提交消息格式不正确。"
   echo "格式要求："
@@ -17,8 +17,8 @@ if ! echo "$COMMIT_MSG" | grep -qE "$COMMIT_REGEX"; then
   echo "  - 前缀前不可有其他字符"
   echo ""
   echo "有效示例："
-  echo "  feat: 新增登录功能"
-  echo "  fix: 修复内存泄漏问题"
+  echo "  feat: 新增尖刺方块实现"
+  echo "  fix: 修复碰撞体检测判定"
   echo ""
   echo "你的提交消息: $COMMIT_MSG"
   exit 1
