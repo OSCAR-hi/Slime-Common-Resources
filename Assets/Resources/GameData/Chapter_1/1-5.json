@@ -2,9 +2,9 @@
     "chapterID": 1,
     "levelID": 5,
     "isUnlockedInitially": false,
-    "nextLevelChapterID": 0,
-    "nextLevelID": 0,
-    "whetherReturnToLevelSelectionPageAfterPass": true,
+    "nextLevelChapterID": 1,
+    "nextLevelID": 6,
+    "whetherReturnToLevelSelectionPageAfterPass": false,
     "numOfRows": 20,
     "numOfColumns": 30,
     "items": [

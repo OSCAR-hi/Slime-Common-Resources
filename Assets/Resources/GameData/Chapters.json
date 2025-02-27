@@ -7,22 +7,32 @@
         },
         {
             "chapterID": 2,
-            "costToUnlock": 5,
+            "costToUnlock": 7,
             "isUnlockedInitially": false
         },
         {
             "chapterID": 3,
-            "costToUnlock": 5,
+            "costToUnlock": 7,
             "isUnlockedInitially": false
         },
         {
             "chapterID": 4,
-            "costToUnlock": 5,
+            "costToUnlock": 7,
             "isUnlockedInitially": false
         },
         {
             "chapterID": 5,
-            "costToUnlock": 5,
+            "costToUnlock": 7,
+            "isUnlockedInitially": false
+        },
+        {
+            "chapterID": 6,
+            "costToUnlock": 7,
+            "isUnlockedInitially": false
+        },
+        {
+            "chapterID": 7,
+            "costToUnlock": 7,
             "isUnlockedInitially": false
         }
     ]
