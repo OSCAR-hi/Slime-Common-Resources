@@ -322,13 +322,40 @@
     "floatingTexts": [
         {
             "x": 7.0,
-            "y": 7.0,
+            "y": 6.0,
+            "x_end": 20.0,
+            "y_end": 5.0,
             "languages": [
-                1
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
             ],
             "values": [
-                "每个颜色的锁方块，都有对应颜色的钥匙，史莱姆获得钥匙可以解锁对应的锁方块"
+                "Each colored lock block has a corresponding colored key. The slime can unlock the corresponding lock block by obtaining the key.",
+                "每个颜色的锁方块，都有对应颜色的钥匙，史莱姆获得钥匙可以解锁对应的锁方块",
+                "Cada bloque de candado de color tiene una llave correspondiente. El slime puede desbloquear el bloque de candado correspondiente al obtener la llave.",
+                "Jeder farbige Schlossblock hat einen entsprechenden farbigen Schlüssel. Der Schleim kann den entsprechenden Schlossblock entsperren, indem er den Schlüssel erhält.",
+                "Каждый цветной блок замка имеет соответствующий цветной ключ. Слизень может разблокировать соответствующий блок замка, получив ключ.",
+                "Chaque bloc de verrouillage coloré a une clé correspondante. Le slime peut déverrouiller le bloc de verrouillage correspondant en obtenant la clé.",
+                "Cada bloco de trava colorido tem uma chave correspondente. O slime pode desbloquear o bloco de trava correspondente ao obter a chave.",
+                "各色のロックブロックには対応する色の鍵があります。スライムは鍵を取得することで対応するロックブロックを解除できます。",
+                "각 색상의 잠금 블록에는 해당 색상의 열쇠가 있습니다. 슬라임은 열쇠를 얻어 해당 잠금 블록을 해제할 수 있습니다.",
+                "كل لون من كتل القفل له مفتاح مطابق. يمكن للسلايم فتح كتلة القفل المقابلة عن طريق الحصول على المفتاح.",
+                "Ogni blocco di blocco colorato ha una chiave corrispondente. Lo slime può sbloccare il blocco di blocco corrispondente ottenendo la chiave.",
+                "Her renkli kilit bloğunun karşılık gelen bir anahtarı vardır. Slime, anahtarı alarak karşılık gelen kilit bloğunu açabilir.",
+                "每個顏色的鎖方塊，都有對應顏色的鑰匙，史萊姆獲得鑰匙可以解鎖對應的鎖方塊"
             ]
+
         }
     ]
 }
