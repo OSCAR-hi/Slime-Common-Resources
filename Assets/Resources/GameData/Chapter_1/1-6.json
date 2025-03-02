@@ -333,21 +333,62 @@
         {
             "x": 4.0,
             "y": 9.0,
+            "x_end" : 15.0,
+            "y_end" : 6.0,
+
             "languages": [
-                1
+                0,1,2,3,4,5,6,7,8,9,10,11,12
             ],
             "values": [
-                "每当史莱姆开始移动时，尖刺方块的状态会发生变化"
+                "Whenever the slime starts moving, the state of the spiked blocks will change",
+                "每当史莱姆开始移动时，尖刺方块的状态会发生变化",
+                "<size=60>Cada vez que el slime comienza a moverse,\nel estado de los bloques con púas cambiará</size>",
+                "<size=60>Immer wenn sich der Schleim bewegt,\nändern die Stachelblöcke ihren Zustand</size>",
+                "<size=60>Когда слайм начинает движение,\nсостояние шипастых блоков будет меняться</size>",
+                "<size=60>Chaque fois que le slime commence à bouger,\nl'état des blocs à pointes change</size>",
+                "<size=60>Sempre que o slime se move,\nos blocos com espinhos mudam de estado</size>",
+                "スライムが動き始めると\nトゲブロックの状態が変化します",
+                "슬라임이 움직이기 시작할 때마다\n가시 블록의 상태가 변합니다",
+                "<size=60>عندما يبدأ السلايم في الحركة،\nستتغير حالة الكتل الشائكة</size>",
+                "<size=60>Ogni volta che lo slime si muove,\nlo stato dei blocchi spinati cambierà</size>",
+                "<size=60>Slime hareket ettiğinde,\ndikenli blokların durumu değişecek</size>",
+                "每當史萊姆開始移動時，尖刺方塊的狀態會發生變化"
             ]
         },
         {
             "x": 15.0,
-            "y": 4.0,
+            "y": 3.0,
+            "x_end": 30.0,
+            "y_end": 1.0,
             "languages": [
-                1
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
             ],
             "values": [
-                "在重力状态下，尖刺方块的状态固定为尖刺伸出的状态"
+                "<size=60>  In gravity state, the spiked block's state is fixed to extended spikes\n</size>",
+                "在重力状态下，尖刺方块的状态固定为尖刺伸出的状态",
+                "<size=60>   En estado de gravedad, el estado del bloque con púas está fijado con púas extendidas\n</size>",
+                "<size=60>   Im Schwerkraftzustand ist der Zustand des Stachelblocks auf ausgefahrene Stacheln fixiert\n</size>",
+                "<size=60>   В состоянии гравитации состояние шипованного блока фиксируется с выдвинутыми шипами\n</size>",
+                "<size=60>   En état de gravité, l'état du bloc à pointes est fixé avec des pointes déployées\n</size>",
+                "<size=60>   No estado de gravidade, o estado do bloco com espinhos está fixado com espinhos estendidos\n</size>",
+                "重力状態では、スパイクブロックの状態がスパイクを伸ばした状態で固定されます",
+                "중력 상태에서 가시 블록의 상태는 가시가 뻗은 상태로 고정됩니다",
+                " في حالة الجاذبية، حالة الكتلة الشائكة ثابتة مع الأشواك ممتدة",
+                "<size=60>   In stato di gravità, lo stato del blocco spinato è fissato con spine estese\n</size>",
+                "<size=60>   Yerçekimi durumunda, dikenli bloğun durumu çıkarılmış dikenlerle sabitlenir\n</size>",
+                " 在重力狀態下，尖刺方塊的狀態固定為尖刺伸出的狀態"
             ]
         }
     ]
