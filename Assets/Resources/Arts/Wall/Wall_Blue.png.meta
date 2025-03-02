@@ -109,11 +109,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 47
+        y: 96
         width: 48
         height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -130,11 +130,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 47
+        y: 96
         width: 48
         height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -151,11 +151,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 47
+        y: 96
         width: 48
         height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -172,18 +172,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1
+        y: 0
         width: 48
         height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d01dee9db7048a5489790a49fed720b8
-      internalID: -1874149659
+      spriteID: 90405adfbc6ee3f4680813e1f670f9fa
+      internalID: 900108367
       vertices: []
       indices: 
       edges: []
@@ -192,40 +192,19 @@ TextureImporter:
       name: Wall_Blue_4
       rect:
         serializedVersion: 2
-        x: 48
-        y: 1
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d70c4ae2563d99f42af6df7ee7506c42
-      internalID: -1694170072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Wall_Blue_5
-      rect:
-        serializedVersion: 2
         x: 96
-        y: 1
+        y: 0
         width: 48
         height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90405adfbc6ee3f4680813e1f670f9fa
-      internalID: 900108367
+      spriteID: 5ce25af355c52f44e859887493c75d63
+      internalID: -1046134533
       vertices: []
       indices: 
       edges: []
@@ -244,9 +223,8 @@ TextureImporter:
       Wall_Blue_0: 737494080
       Wall_Blue_1: 2024291158
       Wall_Blue_2: 1530287004
-      Wall_Blue_3: -1874149659
-      Wall_Blue_4: -1694170072
-      Wall_Blue_5: 900108367
+      Wall_Blue_3: 900108367
+      Wall_Blue_4: -1046134533
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
