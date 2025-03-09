@@ -333,11 +333,22 @@
         {
             "x": 6.0,
             "y": 8.0,
-            "x_end" : 20.0,
-            "y_end" : 6.0,
-
+            "x_end": -1.0,
+            "y_end": 1.0,
             "languages": [
-                0,1,2,3,4,5,6,7,8,9,10,11,12
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
             ],
             "values": [
                 "<size=60>Whenever the slime starts moving, the state of the spiked blocks will change</size>",
@@ -358,7 +369,7 @@
         {
             "x": 18.0,
             "y": 3.0,
-            "x_end": 30.0,
+            "x_end": -1.0,
             "y_end": 1.0,
             "languages": [
                 0,

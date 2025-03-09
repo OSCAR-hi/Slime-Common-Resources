@@ -9,98 +9,213 @@
     "numOfColumns": 30,
     "items": [
         {
-            "x": 5.0,
-            "y": 15.0,
-            "itemID": 12
-        },
-        {
-            "x": 4.0,
-            "y": 15.0,
-            "itemID": 12
-        },
-        {
-            "x": 3.0,
-            "y": 15.0,
-            "itemID": 12
-        },
-        {
-            "x": 3.0,
+            "x": 15.0,
             "y": 14.0,
-            "itemID": 12
-        },
-        {
-            "x": 3.0,
-            "y": 13.0,
-            "itemID": 12
-        },
-        {
-            "x": 4.0,
-            "y": 13.0,
-            "itemID": 12
-        },
-        {
-            "x": 5.0,
-            "y": 13.0,
-            "itemID": 40
-        },
-        {
-            "x": 6.0,
-            "y": 15.0,
-            "itemID": 12
-        },
-        {
-            "x": 7.0,
-            "y": 15.0,
-            "itemID": 12
+            "itemID": 43
         },
         {
             "x": 8.0,
-            "y": 15.0,
-            "itemID": 12
+            "y": 9.0,
+            "itemID": 19
         },
         {
-            "x": 9.0,
-            "y": 15.0,
-            "itemID": 12
-        },
-        {
-            "x": 9.0,
-            "y": 14.0,
-            "itemID": 12
-        },
-        {
-            "x": 9.0,
-            "y": 13.0,
-            "itemID": 12
-        },
-        {
-            "x": 9.0,
-            "y": 12.0,
-            "itemID": 6
-        },
-        {
-            "x": 9.0,
+            "x": 14.0,
             "y": 11.0,
+            "itemID": 10
+        },
+        {
+            "x": 14.0,
+            "y": 12.0,
+            "itemID": 10
+        },
+        {
+            "x": 14.0,
+            "y": 13.0,
+            "itemID": 10
+        },
+        {
+            "x": 14.0,
+            "y": 14.0,
+            "itemID": 10
+        },
+        {
+            "x": 14.0,
+            "y": 15.0,
             "itemID": 6
         },
         {
-            "x": 6.0,
+            "x": 15.0,
+            "y": 15.0,
+            "itemID": 7
+        },
+        {
+            "x": 16.0,
+            "y": 15.0,
+            "itemID": 8
+        },
+        {
+            "x": 16.0,
+            "y": 14.0,
+            "itemID": 10
+        },
+        {
+            "x": 16.0,
             "y": 13.0,
+            "itemID": 10
+        },
+        {
+            "x": 16.0,
+            "y": 12.0,
+            "itemID": 10
+        },
+        {
+            "x": 8.0,
+            "y": 14.0,
+            "itemID": 44
+        },
+        {
+            "x": 8.0,
+            "y": 13.0,
+            "itemID": 47
+        },
+        {
+            "x": 16.0,
+            "y": 11.0,
+            "itemID": 10
+        },
+        {
+            "x": 13.0,
+            "y": 6.0,
+            "itemID": 39
+        },
+        {
+            "x": 18.0,
+            "y": 8.0,
+            "itemID": 11
+        },
+        {
+            "x": 18.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 18.0,
+            "y": 10.0,
+            "itemID": 8
+        },
+        {
+            "x": 17.0,
+            "y": 9.0,
+            "itemID": 34
+        },
+        {
+            "x": 16.0,
+            "y": 9.0,
+            "itemID": 46
+        },
+        {
+            "x": 17.0,
+            "y": 8.0,
+            "itemID": 7
+        },
+        {
+            "x": 17.0,
+            "y": 10.0,
+            "itemID": 7
+        },
+        {
+            "x": 16.0,
+            "y": 10.0,
+            "itemID": 9
+        },
+        {
+            "x": 16.0,
+            "y": 8.0,
+            "itemID": 7
+        },
+        {
+            "x": 15.0,
+            "y": 8.0,
+            "itemID": 7
+        },
+        {
+            "x": 14.0,
+            "y": 10.0,
+            "itemID": 11
+        },
+        {
+            "x": 13.0,
+            "y": 10.0,
+            "itemID": 7
+        },
+        {
+            "x": 12.0,
+            "y": 10.0,
+            "itemID": 7
+        },
+        {
+            "x": 11.0,
+            "y": 10.0,
+            "itemID": 7
+        },
+        {
+            "x": 10.0,
+            "y": 10.0,
+            "itemID": 7
+        },
+        {
+            "x": 9.0,
+            "y": 10.0,
+            "itemID": 9
+        },
+        {
+            "x": 14.0,
+            "y": 8.0,
             "itemID": 40
         },
         {
-            "x": 7.0,
-            "y": 13.0,
-            "itemID": 12
+            "x": 13.0,
+            "y": 8.0,
+            "itemID": 40
+        },
+        {
+            "x": 12.0,
+            "y": 8.0,
+            "itemID": 40
+        },
+        {
+            "x": 11.0,
+            "y": 8.0,
+            "itemID": 40
+        },
+        {
+            "x": 10.0,
+            "y": 8.0,
+            "itemID": 40
+        },
+        {
+            "x": 9.0,
+            "y": 8.0,
+            "itemID": 40
+        },
+        {
+            "x": 8.0,
+            "y": 8.0,
+            "itemID": 7
         },
         {
             "x": 7.0,
-            "y": 12.0,
-            "itemID": 41
+            "y": 8.0,
+            "itemID": 9
         },
         {
             "x": 7.0,
-            "y": 11.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 7.0,
+            "y": 10.0,
             "itemID": 41
         },
         {
@@ -110,221 +225,106 @@
         },
         {
             "x": 7.0,
-            "y": 10.0,
+            "y": 11.0,
             "itemID": 41
         },
         {
             "x": 7.0,
-            "y": 9.0,
-            "itemID": 6
+            "y": 12.0,
+            "itemID": 41
         },
         {
             "x": 7.0,
-            "y": 8.0,
-            "itemID": 6
+            "y": 13.0,
+            "itemID": 13
         },
         {
-            "x": 8.0,
-            "y": 8.0,
-            "itemID": 6
-        },
-        {
-            "x": 9.0,
-            "y": 8.0,
-            "itemID": 40
-        },
-        {
-            "x": 10.0,
-            "y": 8.0,
-            "itemID": 40
-        },
-        {
-            "x": 11.0,
-            "y": 8.0,
-            "itemID": 40
-        },
-        {
-            "x": 12.0,
-            "y": 8.0,
-            "itemID": 40
-        },
-        {
-            "x": 13.0,
-            "y": 8.0,
-            "itemID": 40
-        },
-        {
-            "x": 14.0,
-            "y": 8.0,
+            "x": 6.0,
+            "y": 13.0,
             "itemID": 40
         },
         {
             "x": 9.0,
-            "y": 10.0,
-            "itemID": 6
-        },
-        {
-            "x": 10.0,
-            "y": 10.0,
-            "itemID": 6
-        },
-        {
-            "x": 11.0,
-            "y": 10.0,
-            "itemID": 6
-        },
-        {
-            "x": 12.0,
-            "y": 10.0,
-            "itemID": 6
-        },
-        {
-            "x": 13.0,
-            "y": 10.0,
-            "itemID": 6
-        },
-        {
-            "x": 14.0,
-            "y": 10.0,
-            "itemID": 6
-        },
-        {
-            "x": 15.0,
-            "y": 8.0,
-            "itemID": 6
-        },
-        {
-            "x": 16.0,
-            "y": 8.0,
-            "itemID": 6
-        },
-        {
-            "x": 16.0,
-            "y": 10.0,
-            "itemID": 6
-        },
-        {
-            "x": 17.0,
-            "y": 10.0,
-            "itemID": 6
-        },
-        {
-            "x": 17.0,
-            "y": 8.0,
-            "itemID": 6
-        },
-        {
-            "x": 16.0,
-            "y": 9.0,
-            "itemID": 46
-        },
-        {
-            "x": 17.0,
-            "y": 9.0,
-            "itemID": 34
-        },
-        {
-            "x": 18.0,
-            "y": 10.0,
-            "itemID": 6
-        },
-        {
-            "x": 18.0,
-            "y": 9.0,
-            "itemID": 6
-        },
-        {
-            "x": 18.0,
-            "y": 8.0,
-            "itemID": 6
-        },
-        {
-            "x": 13.0,
-            "y": 6.0,
-            "itemID": 39
-        },
-        {
-            "x": 16.0,
             "y": 11.0,
-            "itemID": 6
+            "itemID": 10
         },
         {
-            "x": 8.0,
-            "y": 13.0,
-            "itemID": 47
-        },
-        {
-            "x": 8.0,
-            "y": 14.0,
-            "itemID": 44
-        },
-        {
-            "x": 16.0,
+            "x": 9.0,
             "y": 12.0,
-            "itemID": 6
+            "itemID": 10
         },
         {
-            "x": 16.0,
+            "x": 9.0,
             "y": 13.0,
-            "itemID": 6
+            "itemID": 16
         },
         {
-            "x": 16.0,
+            "x": 9.0,
             "y": 14.0,
-            "itemID": 6
+            "itemID": 16
         },
         {
-            "x": 16.0,
+            "x": 9.0,
             "y": 15.0,
-            "itemID": 6
-        },
-        {
-            "x": 15.0,
-            "y": 15.0,
-            "itemID": 6
-        },
-        {
-            "x": 14.0,
-            "y": 15.0,
-            "itemID": 6
-        },
-        {
-            "x": 14.0,
-            "y": 14.0,
-            "itemID": 6
-        },
-        {
-            "x": 14.0,
-            "y": 13.0,
-            "itemID": 6
-        },
-        {
-            "x": 14.0,
-            "y": 12.0,
-            "itemID": 6
-        },
-        {
-            "x": 14.0,
-            "y": 11.0,
-            "itemID": 6
+            "itemID": 14
         },
         {
             "x": 8.0,
-            "y": 9.0,
-            "itemID": 19
+            "y": 15.0,
+            "itemID": 13
         },
         {
-            "x": 15.0,
+            "x": 7.0,
+            "y": 15.0,
+            "itemID": 13
+        },
+        {
+            "x": 6.0,
+            "y": 15.0,
+            "itemID": 13
+        },
+        {
+            "x": 5.0,
+            "y": 13.0,
+            "itemID": 40
+        },
+        {
+            "x": 4.0,
+            "y": 13.0,
+            "itemID": 13
+        },
+        {
+            "x": 3.0,
+            "y": 13.0,
+            "itemID": 15
+        },
+        {
+            "x": 3.0,
             "y": 14.0,
-            "itemID": 43
+            "itemID": 16
+        },
+        {
+            "x": 3.0,
+            "y": 15.0,
+            "itemID": 12
+        },
+        {
+            "x": 4.0,
+            "y": 15.0,
+            "itemID": 13
+        },
+        {
+            "x": 5.0,
+            "y": 15.0,
+            "itemID": 13
         }
     ],
     "floatingTexts": [
         {
             "x": 13.0,
             "y": 6.0,
-            "x_end": 30.0,
-            "y_end": 5.0,
+            "x_end": -1.0,
+            "y_end": 1.0,
             "languages": [
                 0,
                 1,
@@ -341,21 +341,20 @@
                 12
             ],
             "values": [
-                "Each colored lock block has a corresponding colored key. The slime can unlock the corresponding lock block by obtaining the key.",
+                "Each colored lock block has a corresponding colored key. The slime can unlock the corresponding lock block by obtaining the key",
                 "每个颜色的锁方块，都有对应颜色的钥匙，史莱姆获得钥匙可以解锁对应的锁方块",
-                "Cada bloque de candado de color tiene una llave correspondiente. El slime puede desbloquear el bloque de candado correspondiente al obtener la llave.",
-                "Jeder farbige Schlossblock hat einen entsprechenden farbigen Schlüssel. Der Schleim kann den entsprechenden Schlossblock entsperren, indem er den Schlüssel erhält.",
-                "Каждый цветной блок замка имеет соответствующий цветной ключ. Слизень может разблокировать соответствующий блок замка, получив ключ.",
-                "Chaque bloc de verrouillage coloré a une clé correspondante. Le slime peut déverrouiller le bloc de verrouillage correspondant en obtenant la clé.",
-                "Cada bloco de trava colorido tem uma chave correspondente. O slime pode desbloquear o bloco de trava correspondente ao obter a chave.",
-                "各色のロックブロックには対応する色の鍵があります。スライムは鍵を取得することで対応するロックブロックを解除できます。",
-                "각 색상의 잠금 블록에는 해당 색상의 열쇠가 있습니다. 슬라임은 열쇠를 얻어 해당 잠금 블록을 해제할 수 있습니다.",
-                "كل لون من كتل القفل له مفتاح مطابق. يمكن للسلايم فتح كتلة القفل المقابلة عن طريق الحصول على المفتاح.",
-                "Ogni blocco di blocco colorato ha una chiave corrispondente. Lo slime può sbloccare il blocco di blocco corrispondente ottenendo la chiave.",
-                "Her renkli kilit bloğunun karşılık gelen bir anahtarı vardır. Slime, anahtarı alarak karşılık gelen kilit bloğunu açabilir.",
+                "Cada bloque de candado de color tiene una llave correspondiente. El slime puede desbloquear el bloque de candado correspondiente al obtener la llave",
+                "Jeder farbige Schlossblock hat einen entsprechenden farbigen Schlüssel. Der Schleim kann den entsprechenden Schlossblock entsperren, indem er den Schlüssel erhält",
+                "Каждый цветной блок замка имеет соответствующий цветной ключ. Слизень может разблокировать соответствующий блок замка, получив ключ",
+                "Chaque bloc de verrouillage coloré a une clé correspondante. Le slime peut déverrouiller le bloc de verrouillage correspondant en obtenant la clé",
+                "Cada bloco de trava colorido tem uma chave correspondente. O slime pode desbloquear o bloco de trava correspondente ao obter a chave",
+                "各色のロックブロックには対応する色の鍵があります。スライムは鍵を取得することで対応するロックブロックを解除できます",
+                "각 색상의 잠금 블록에는 해당 색상의 열쇠가 있습니다. 슬라임은 열쇠를 얻어 해당 잠금 블록을 해제할 수 있습니다",
+                "كل لون من كتل القفل له مفتاح مطابق. يمكن للسلايم فتح كتلة القفل المقابلة عن طريق الحصول على المفتاح",
+                "Ogni blocco di blocco colorato ha una chiave corrispondente. Lo slime può sbloccare il blocco di blocco corrispondente ottenendo la chiave",
+                "Her renkli kilit bloğunun karşılık gelen bir anahtarı vardır. Slime, anahtarı alarak karşılık gelen kilit bloğunu açabilir",
                 "每個顏色的鎖方塊，都有對應顏色的鑰匙，史萊姆獲得鑰匙可以解鎖對應的鎖方塊"
             ]
-
         }
     ]
 }
