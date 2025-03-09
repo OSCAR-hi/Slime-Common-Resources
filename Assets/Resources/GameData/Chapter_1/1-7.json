@@ -84,8 +84,8 @@
             "itemID": 10
         },
         {
-            "x": 13.0,
-            "y": 6.0,
+            "x": 3.0,
+            "y": 7.0,
             "itemID": 39
         },
         {
@@ -321,10 +321,8 @@
     ],
     "floatingTexts": [
         {
-            "x": 13.0,
-            "y": 6.0,
-            "x_end": -1.0,
-            "y_end": 1.0,
+            "x": 3.0,
+            "y": 7.0,
             "languages": [
                 0,
                 1,
@@ -341,19 +339,19 @@
                 12
             ],
             "values": [
-                "Each colored lock block has a corresponding colored key. The slime can unlock the corresponding lock block by obtaining the key",
-                "每个颜色的锁方块，都有对应颜色的钥匙，史莱姆获得钥匙可以解锁对应的锁方块",
-                "Cada bloque de candado de color tiene una llave correspondiente. El slime puede desbloquear el bloque de candado correspondiente al obtener la llave",
-                "Jeder farbige Schlossblock hat einen entsprechenden farbigen Schlüssel. Der Schleim kann den entsprechenden Schlossblock entsperren, indem er den Schlüssel erhält",
-                "Каждый цветной блок замка имеет соответствующий цветной ключ. Слизень может разблокировать соответствующий блок замка, получив ключ",
-                "Chaque bloc de verrouillage coloré a une clé correspondante. Le slime peut déverrouiller le bloc de verrouillage correspondant en obtenant la clé",
-                "Cada bloco de trava colorido tem uma chave correspondente. O slime pode desbloquear o bloco de trava correspondente ao obter a chave",
-                "各色のロックブロックには対応する色の鍵があります。スライムは鍵を取得することで対応するロックブロックを解除できます",
-                "각 색상의 잠금 블록에는 해당 색상의 열쇠가 있습니다. 슬라임은 열쇠를 얻어 해당 잠금 블록을 해제할 수 있습니다",
-                "كل لون من كتل القفل له مفتاح مطابق. يمكن للسلايم فتح كتلة القفل المقابلة عن طريق الحصول على المفتاح",
-                "Ogni blocco di blocco colorato ha una chiave corrispondente. Lo slime può sbloccare il blocco di blocco corrispondente ottenendo la chiave",
-                "Her renkli kilit bloğunun karşılık gelen bir anahtarı vardır. Slime, anahtarı alarak karşılık gelen kilit bloğunu açabilir",
-                "每個顏色的鎖方塊，都有對應顏色的鑰匙，史萊姆獲得鑰匙可以解鎖對應的鎖方塊"
+                "<size=65>    Each colored lock block has a corresponding colored key.\n    The slime can unlock the corresponding lock block by\n    obtaining the key</size>",
+                "          每个颜色的锁方块，都有对应颜色的钥匙，\n          史莱姆获得钥匙可以解锁对应的锁方块",
+                "<size=65>Cada bloque de candado de color tiene una llave correspondiente.\nEl slime puede desbloquear el bloque de candado correspondiente \nal obtener la llave</size>",
+                "<size=65>Jeder farbige Schlossblock hat einen entsprechenden farbigen Schlüssel.\nDer Schleim kann den entsprechenden Schlossblock entsperren,\nindem er den Schlüssel erhält</size>",
+                "<size=65>Каждый цветной блок замка имеет соответствующий цветной ключ.\nСлизень может разблокировать соответствующий блок замка, \nполучив ключ</size>",
+                "<size=65>Chaque bloc de verrouillage coloré a une clé correspondante.\nLe slime peut déverrouiller le bloc de verrouillage\ncorrespondant en obtenant la clé</size>",
+                "<size=65>Cada bloco de trava colorido tem uma chave correspondente.\nO slime pode desbloquear o bloco de trava correspondente\nao obter a chave</size>",
+                "     各色のロックブロックには対応する色の鍵があります。\n     スライムは鍵を取得することで対応するロックブロックを解除できます",
+                "  각 색상의 잠금 블록에는 해당 색상의 열쇠가 있습니다.\n  슬라임은 열쇠를 얻어 해당 잠금 블록을 해제할 수 있습니다",
+                " كل لون من كتل القفل له مفتاح مطابق. يمكن للسلايم\n فتح كتلة القفل المقابلة عن طريق الحصول على المفتاح",
+                "<size=65>Ogni blocco di blocco colorato ha una chiave corrispondente.\nLo slime può sbloccare il blocco di blocco corrispondente\nottenendo la chiave</size>",
+                "<size=65>Her renkli kilit bloğunun karşılık gelen bir anahtarı vardır.\nSlime, anahtarı alarak karşılık gelen kilit bloğunu açabilir</size>",
+                "          每個顏色的鎖方塊，都有對應顏色的鑰匙，\n          史萊姆獲得鑰匙可以解鎖對應的鎖方塊"
             ]
         }
     ]

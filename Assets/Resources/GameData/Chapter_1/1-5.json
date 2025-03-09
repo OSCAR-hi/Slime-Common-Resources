@@ -9,529 +9,14 @@
     "numOfColumns": 30,
     "items": [
         {
-            "x": 24.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 23.0,
-            "y": 5.0,
-            "itemID": 3
-        },
-        {
-            "x": 9.0,
-            "y": 5.0,
-            "itemID": 39
-        },
-        {
-            "x": 0.0,
-            "y": 17.0,
-            "itemID": 39
-        },
-        {
-            "x": 24.0,
-            "y": 5.0,
-            "itemID": 1
-        },
-        {
             "x": 27.0,
-            "y": 8.0,
-            "itemID": 11
-        },
-        {
-            "x": 27.0,
-            "y": 9.0,
+            "y": 11.0,
             "itemID": 10
         },
         {
             "x": 27.0,
-            "y": 10.0,
-            "itemID": 10
-        },
-        {
-            "x": 26.0,
-            "y": 9.0,
-            "itemID": 34
-        },
-        {
-            "x": 25.0,
-            "y": 6.0,
-            "itemID": 4
-        },
-        {
-            "x": 23.0,
-            "y": 6.0,
-            "itemID": 2
-        },
-        {
-            "x": 22.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 21.0,
-            "y": 7.0,
-            "itemID": 4
-        },
-        {
-            "x": 21.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 20.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 19.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 18.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 17.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 16.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 15.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 26.0,
-            "y": 8.0,
-            "itemID": 7
-        },
-        {
-            "x": 14.0,
-            "y": 7.0,
-            "itemID": 4
-        },
-        {
-            "x": 14.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 25.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 11.0,
-            "y": 10.0,
-            "itemID": 35
-        },
-        {
-            "x": 23.0,
-            "y": 12.0,
-            "itemID": 4
-        },
-        {
-            "x": 23.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 25.0,
-            "y": 9.0,
-            "itemID": 4
-        },
-        {
-            "x": 25.0,
-            "y": 10.0,
-            "itemID": 4
-        },
-        {
-            "x": 25.0,
-            "y": 11.0,
-            "itemID": 4
-        },
-        {
-            "x": 26.0,
-            "y": 13.0,
-            "itemID": 7
-        },
-        {
-            "x": 22.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 21.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 20.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 19.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 18.0,
-            "y": 12.0,
-            "itemID": 4
-        },
-        {
-            "x": 18.0,
-            "y": 13.0,
-            "itemID": 4
-        },
-        {
-            "x": 18.0,
-            "y": 14.0,
-            "itemID": 2
-        },
-        {
-            "x": 17.0,
-            "y": 14.0,
-            "itemID": 1
-        },
-        {
-            "x": 16.0,
-            "y": 14.0,
-            "itemID": 1
-        },
-        {
-            "x": 15.0,
-            "y": 14.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 14.0,
-            "itemID": 0
-        },
-        {
-            "x": 14.0,
-            "y": 13.0,
-            "itemID": 4
-        },
-        {
-            "x": 13.0,
-            "y": 6.0,
-            "itemID": 7
-        },
-        {
-            "x": 12.0,
-            "y": 6.0,
-            "itemID": 7
-        },
-        {
-            "x": 11.0,
-            "y": 6.0,
-            "itemID": 7
-        },
-        {
-            "x": 11.0,
-            "y": 13.0,
-            "itemID": 7
-        },
-        {
-            "x": 10.0,
-            "y": 13.0,
-            "itemID": 7
-        },
-        {
-            "x": 9.0,
-            "y": 13.0,
-            "itemID": 7
-        },
-        {
-            "x": 10.0,
-            "y": 11.0,
-            "itemID": 10
-        },
-        {
-            "x": 10.0,
-            "y": 10.0,
-            "itemID": 10
-        },
-        {
-            "x": 10.0,
-            "y": 9.0,
-            "itemID": 10
-        },
-        {
-            "x": 10.0,
-            "y": 8.0,
-            "itemID": 10
-        },
-        {
-            "x": 10.0,
-            "y": 7.0,
-            "itemID": 10
-        },
-        {
-            "x": 10.0,
-            "y": 6.0,
-            "itemID": 7
-        },
-        {
-            "x": 9.0,
-            "y": 6.0,
-            "itemID": 7
-        },
-        {
-            "x": 8.0,
-            "y": 6.0,
-            "itemID": 7
-        },
-        {
-            "x": 7.0,
-            "y": 6.0,
-            "itemID": 7
-        },
-        {
-            "x": 8.0,
-            "y": 8.0,
-            "itemID": 10
-        },
-        {
-            "x": 8.0,
-            "y": 9.0,
-            "itemID": 10
-        },
-        {
-            "x": 8.0,
-            "y": 10.0,
-            "itemID": 10
-        },
-        {
-            "x": 8.0,
-            "y": 11.0,
-            "itemID": 10
-        },
-        {
-            "x": 8.0,
             "y": 12.0,
             "itemID": 10
-        },
-        {
-            "x": 8.0,
-            "y": 13.0,
-            "itemID": 7
-        },
-        {
-            "x": 7.0,
-            "y": 13.0,
-            "itemID": 7
-        },
-        {
-            "x": 6.0,
-            "y": 13.0,
-            "itemID": 7
-        },
-        {
-            "x": 5.0,
-            "y": 13.0,
-            "itemID": 7
-        },
-        {
-            "x": 6.0,
-            "y": 11.0,
-            "itemID": 10
-        },
-        {
-            "x": 4.0,
-            "y": 8.0,
-            "itemID": 10
-        },
-        {
-            "x": 4.0,
-            "y": 9.0,
-            "itemID": 10
-        },
-        {
-            "x": 4.0,
-            "y": 10.0,
-            "itemID": 10
-        },
-        {
-            "x": 4.0,
-            "y": 11.0,
-            "itemID": 10
-        },
-        {
-            "x": 4.0,
-            "y": 12.0,
-            "itemID": 10
-        },
-        {
-            "x": 6.0,
-            "y": 10.0,
-            "itemID": 10
-        },
-        {
-            "x": 6.0,
-            "y": 9.0,
-            "itemID": 10
-        },
-        {
-            "x": 6.0,
-            "y": 8.0,
-            "itemID": 10
-        },
-        {
-            "x": 6.0,
-            "y": 7.0,
-            "itemID": 10
-        },
-        {
-            "x": 6.0,
-            "y": 6.0,
-            "itemID": 7
-        },
-        {
-            "x": 5.0,
-            "y": 6.0,
-            "itemID": 7
-        },
-        {
-            "x": 4.0,
-            "y": 6.0,
-            "itemID": 7
-        },
-        {
-            "x": 3.0,
-            "y": 6.0,
-            "itemID": 7
-        },
-        {
-            "x": 2.0,
-            "y": 6.0,
-            "itemID": 9
-        },
-        {
-            "x": 2.0,
-            "y": 7.0,
-            "itemID": 10
-        },
-        {
-            "x": 2.0,
-            "y": 8.0,
-            "itemID": 10
-        },
-        {
-            "x": 2.0,
-            "y": 9.0,
-            "itemID": 10
-        },
-        {
-            "x": 2.0,
-            "y": 10.0,
-            "itemID": 10
-        },
-        {
-            "x": 2.0,
-            "y": 11.0,
-            "itemID": 10
-        },
-        {
-            "x": 2.0,
-            "y": 12.0,
-            "itemID": 10
-        },
-        {
-            "x": 4.0,
-            "y": 13.0,
-            "itemID": 7
-        },
-        {
-            "x": 3.0,
-            "y": 13.0,
-            "itemID": 7
-        },
-        {
-            "x": 2.0,
-            "y": 13.0,
-            "itemID": 6
-        },
-        {
-            "x": 25.0,
-            "y": 5.0,
-            "itemID": 5
-        },
-        {
-            "x": 3.0,
-            "y": 12.0,
-            "itemID": 38
-        },
-        {
-            "x": 26.0,
-            "y": 12.0,
-            "itemID": 19
-        },
-        {
-            "x": 18.0,
-            "y": 7.0,
-            "itemID": 18
-        },
-        {
-            "x": 13.0,
-            "y": 12.0,
-            "itemID": 7
-        },
-        {
-            "x": 23.0,
-            "y": 9.0,
-            "itemID": 35
-        },
-        {
-            "x": 5.0,
-            "y": 12.0,
-            "itemID": 31
-        },
-        {
-            "x": 9.0,
-            "y": 7.0,
-            "itemID": 30
-        },
-        {
-            "x": 12.0,
-            "y": 11.0,
-            "itemID": 39
-        },
-        {
-            "x": 25.0,
-            "y": 8.0,
-            "itemID": 3
-        },
-        {
-            "x": 7.0,
-            "y": 7.0,
-            "itemID": 31
-        },
-        {
-            "x": 5.0,
-            "y": 7.0,
-            "itemID": 30
-        },
-        {
-            "x": 9.0,
-            "y": 12.0,
-            "itemID": 31
-        },
-        {
-            "x": 7.0,
-            "y": 12.0,
-            "itemID": 32
         },
         {
             "x": 27.0,
@@ -539,54 +24,537 @@
             "itemID": 8
         },
         {
-            "x": 27.0,
+            "x": 7.0,
+            "y": 12.0,
+            "itemID": 32
+        },
+        {
+            "x": 9.0,
+            "y": 12.0,
+            "itemID": 31
+        },
+        {
+            "x": 5.0,
+            "y": 7.0,
+            "itemID": 30
+        },
+        {
+            "x": 7.0,
+            "y": 7.0,
+            "itemID": 31
+        },
+        {
+            "x": 25.0,
+            "y": 8.0,
+            "itemID": 3
+        },
+        {
+            "x": 12.0,
+            "y": 11.0,
+            "itemID": 39
+        },
+        {
+            "x": 9.0,
+            "y": 7.0,
+            "itemID": 30
+        },
+        {
+            "x": 5.0,
+            "y": 12.0,
+            "itemID": 31
+        },
+        {
+            "x": 23.0,
+            "y": 9.0,
+            "itemID": 35
+        },
+        {
+            "x": 13.0,
+            "y": 12.0,
+            "itemID": 7
+        },
+        {
+            "x": 18.0,
+            "y": 7.0,
+            "itemID": 18
+        },
+        {
+            "x": 26.0,
+            "y": 12.0,
+            "itemID": 19
+        },
+        {
+            "x": 3.0,
+            "y": 12.0,
+            "itemID": 38
+        },
+        {
+            "x": 25.0,
+            "y": 5.0,
+            "itemID": 5
+        },
+        {
+            "x": 2.0,
+            "y": 13.0,
+            "itemID": 6
+        },
+        {
+            "x": 3.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 4.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 2.0,
             "y": 12.0,
             "itemID": 10
         },
         {
-            "x": 27.0,
+            "x": 2.0,
             "y": 11.0,
             "itemID": 10
-        }
-    ],
-    "floatingTexts": [
+        },
+        {
+            "x": 2.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 2.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 2.0,
+            "y": 8.0,
+            "itemID": 10
+        },
+        {
+            "x": 2.0,
+            "y": 7.0,
+            "itemID": 10
+        },
+        {
+            "x": 2.0,
+            "y": 6.0,
+            "itemID": 9
+        },
+        {
+            "x": 3.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 4.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 5.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 6.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 6.0,
+            "y": 7.0,
+            "itemID": 10
+        },
+        {
+            "x": 6.0,
+            "y": 8.0,
+            "itemID": 10
+        },
+        {
+            "x": 6.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 6.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 4.0,
+            "y": 12.0,
+            "itemID": 10
+        },
+        {
+            "x": 4.0,
+            "y": 11.0,
+            "itemID": 10
+        },
+        {
+            "x": 4.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 4.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 4.0,
+            "y": 8.0,
+            "itemID": 10
+        },
+        {
+            "x": 6.0,
+            "y": 11.0,
+            "itemID": 10
+        },
+        {
+            "x": 5.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 6.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 7.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 8.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 8.0,
+            "y": 12.0,
+            "itemID": 10
+        },
+        {
+            "x": 8.0,
+            "y": 11.0,
+            "itemID": 10
+        },
+        {
+            "x": 8.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 8.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 8.0,
+            "y": 8.0,
+            "itemID": 10
+        },
+        {
+            "x": 7.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 8.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 9.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 10.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 10.0,
+            "y": 7.0,
+            "itemID": 10
+        },
+        {
+            "x": 10.0,
+            "y": 8.0,
+            "itemID": 10
+        },
+        {
+            "x": 10.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 10.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 10.0,
+            "y": 11.0,
+            "itemID": 10
+        },
+        {
+            "x": 9.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 10.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 11.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 11.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 12.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 13.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 14.0,
+            "y": 13.0,
+            "itemID": 4
+        },
+        {
+            "x": 14.0,
+            "y": 14.0,
+            "itemID": 0
+        },
+        {
+            "x": 15.0,
+            "y": 14.0,
+            "itemID": 1
+        },
+        {
+            "x": 16.0,
+            "y": 14.0,
+            "itemID": 1
+        },
+        {
+            "x": 17.0,
+            "y": 14.0,
+            "itemID": 1
+        },
+        {
+            "x": 18.0,
+            "y": 14.0,
+            "itemID": 2
+        },
+        {
+            "x": 18.0,
+            "y": 13.0,
+            "itemID": 4
+        },
+        {
+            "x": 18.0,
+            "y": 12.0,
+            "itemID": 4
+        },
+        {
+            "x": 19.0,
+            "y": 13.0,
+            "itemID": 1
+        },
+        {
+            "x": 20.0,
+            "y": 13.0,
+            "itemID": 1
+        },
+        {
+            "x": 21.0,
+            "y": 13.0,
+            "itemID": 1
+        },
+        {
+            "x": 22.0,
+            "y": 13.0,
+            "itemID": 1
+        },
+        {
+            "x": 26.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 25.0,
+            "y": 11.0,
+            "itemID": 4
+        },
+        {
+            "x": 25.0,
+            "y": 10.0,
+            "itemID": 4
+        },
+        {
+            "x": 25.0,
+            "y": 9.0,
+            "itemID": 4
+        },
+        {
+            "x": 23.0,
+            "y": 13.0,
+            "itemID": 1
+        },
+        {
+            "x": 23.0,
+            "y": 12.0,
+            "itemID": 4
+        },
+        {
+            "x": 11.0,
+            "y": 10.0,
+            "itemID": 35
+        },
+        {
+            "x": 25.0,
+            "y": 13.0,
+            "itemID": 1
+        },
+        {
+            "x": 14.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 14.0,
+            "y": 7.0,
+            "itemID": 4
+        },
+        {
+            "x": 26.0,
+            "y": 8.0,
+            "itemID": 7
+        },
+        {
+            "x": 15.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 16.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 17.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 18.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 19.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 20.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 21.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 21.0,
+            "y": 7.0,
+            "itemID": 4
+        },
+        {
+            "x": 22.0,
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 23.0,
+            "y": 6.0,
+            "itemID": 2
+        },
+        {
+            "x": 25.0,
+            "y": 6.0,
+            "itemID": 4
+        },
+        {
+            "x": 26.0,
+            "y": 9.0,
+            "itemID": 34
+        },
+        {
+            "x": 27.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 27.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 27.0,
+            "y": 8.0,
+            "itemID": 11
+        },
+        {
+            "x": 24.0,
+            "y": 5.0,
+            "itemID": 1
+        },
         {
             "x": 0.0,
             "y": 17.0,
-            "languages": [
-                0,
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
-            ],
-            "values": [
-                "<size=60>\n\n\n\n\n   The slime is currently under non-gravity\n</size>",
-                "\n\n  \n\n  史莱姆当前处于无重力状态",
-                "<size=60>\n\n\n\n    El slime está actualmente \n    en un estado de gravedad cero\n</size>",
-                "<size=60>\n\n\n\n   Der Schleim befindet sich derzeit \n   im Zustand der Schwerelosigkeit\n</size>",
-                "<size=60>\n\n\n\n    Слизень в настоящее время\n    находится в состоянии невесомости\n</size>",
-                "<size=60>\n\n\n\n   Le slime est actuellement \n   en état d'apesanteur\n</size>",
-                "<size=60>\n\n\n\n   O slime está atualmente em um \n   estado de gravidade zero\n</size>",
-                "\n\n\n\n  スライムは現在無重力状態にあります",
-                "\n\n  \n\n  슬라임은 현재 무중력 상태에 있습니다",
-                "\n\n\n\n  السلايم في حالةانعدام الوزن حاليًا",
-                "<size=60>\n\n\n\n   Il slime è attualmente in uno \n   stato di gravità zero\n</size>",
-                "<size=60>\n\n\n\n   Sümüklü böcek şu anda sıfır \n   yerçekimi durumunda\n</size>",
-                "\n\n\n\n  史萊姆目前處於無重力狀態"
-            ]
+            "itemID": 39
         },
         {
             "x": 9.0,
             "y": 5.0,
+            "itemID": 39
+        },
+        {
+            "x": 23.0,
+            "y": 5.0,
+            "itemID": 3
+        },
+        {
+            "x": 24.0,
+            "y": 13.0,
+            "itemID": 1
+        }
+    ],
+    "floatingTexts": [
+        {
+            "x": 9.0,
+            "y": 5.0,
+            "x_end": -1.0,
+            "y_end": 1.0,
             "languages": [
                 0,
                 1,
@@ -603,24 +571,26 @@
                 12
             ],
             "values": [
-                "<size=60>The slime is now affected by gravity. \nYou can move it freely like in a 2D\nplatformer. But be careful, each gravity capsule \ncan only be picked up once unless you restart</size>",
-                "现在史莱姆受重力影响,\n你可以像在2D平台游戏中一样自由移动它，\n但要注意，除非重新开始，\n否则每个重力胶囊只能被拾取一次",
-                "<size=60>    El slime ahora tiene gravedad.\n    Muévelo libremente como en un juego de\n    plataformas 2D. Pero cuidado,\n    cada cápsula de gravedad solo se recoge una vez, \n    a menos que reinicies.\n</size>",
-                "<size=60>  Der Schleim unterliegt jetzt der\n  Schwerkraft. Du kannst ihn wie in einem\n  2D-Plattformer bewegen. \n  Aber Achtung: Jede Schwerkraftkapsel \n  kann nur einmal aufgenommen werden, \n  es sei denn, du startest neu.\n</size>",
-                "<size=60>  Теперь слизень подвержен гравитации. \n  Управляй им, как в 2D-платформере.\n  Но будь внимателен: \n  каждую капсулу гравитации можно\n  взять только раз, если не перезапускать.\n</size>",
-                "<size=60>Le slime est maintenant soumis à la \ngravité. Déplace-le librement comme \ndans un jeu de plateforme 2D. \nAttention, chaque capsule de gravité ne\npeut être prise qu’une seule fois, \nsauf si tu recommences.\n</size>",
-                "<size=60>O slime agora tem gravidade.\nMovimente-o livremente como \nem um jogo de plataforma 2D. \nMas cuidado, cada cápsula de \ngravidade só pode ser coletada uma vez,\na menos que reinicie.\n</size>",
-                "スライムは重力の影響を受けています。\n2Dプラットフォーマーのように自由に動かせます。\nただし、再スタートしない限り、\n重力カプセルは一度しか取れません。",
-                "슬라임이 이제 중력의 영향을 받습니다. \n2D 플랫폼 게임처럼 자유롭게 움직일 수\n있습니다. 하지만 재시작하지 않으면 중력 \n캡슐은 한 번만 획득할 수 있습니다.",
-                "السلايم الآن يتأثر بالجاذبية. يمكنك\nتحريكه بحرية كما في لعبة منصات 2D. \nلكن انتبه، لا يمكن التقاط كل كبسولة جاذبية \nإلا مرة واحدة إلا إذا أعدت البدء.",
-                "<size=60>Lo slime ora è soggetto alla gravità. \nPuoi muoverlo liberamente come in \nun platform 2D. Ma attenzione, \nogni capsula di gravità può essere \nraccolta solo una volta, a meno che non riavvii.\n</size>",
-                "<size=60>Slime artık yerçekiminden etkileniyor. \nOnu 2D platform oyunlarında olduğu \ngibi özgürce hareket ettirebilirsin. \nAma dikkat, her yerçekimi kapsülü yalnızca \nbir kez alınabilir, yeniden başlatmadıkça.\n</size>",
-                "史萊姆現在受到重力影響，\n你可以像2D平台遊戲一樣自由移動它。\n但要注意，除非重新開始，\n否則每個重力膠囊只能拾取一次。"
+                "<size=60>The slime is now affected by gravity.\nYou can move it freely and jump like\nin a 2D platformer, but be careful, \neach gravity capsule can only be\npicked up once unless you restart</size>",
+                "史莱姆现在会受到重力影响，\n你可以像在2D平台游戏中一样自由移动并跳跃，\n但要注意，除非重新开始，\n否则每个重力胶囊只能被拾取一次",
+                "<size=60>El slime ahora tiene gravedad.\nMuévelo libremente y salta como\nen un juego de plataformas 2D.\nPero cuidado, cada cápsula de\ngravedad solo se recoge una vez,\na menos que reinicies</size>",
+                "<size=60>Der Schleim unterliegt jetzt der\nSchwerkraft. Du kannst ihn wie in\neinem 2D-Plattformer bewegen und\nspringen,aber Achtung: Jede Schwerkraftkapsel\nkann nur einmal aufgenommen werden,\nes sei denn, du startest neu</size>",
+                "<size=60>Теперь слизень подвержен гравитации.\nТы можешь свободно перемещать его и прыгать,\nкак в 2D-платформере. Но будь внимателен: \nкаждую капсулу гравитации можно взять только\nодин раз, если не перезапускать</size>",
+                "<size=60>Le slime est maintenant soumis à\nla gravité. Déplace-le librement et saute\ncomme dans un jeu de plateforme 2D.\nAttention, chaque capsule de gravité ne\npeut être prise qu’une seule fois,\nsauf si tu recommences</size>",
+                "<size=60>O slime agora tem gravidade. Movimente-o\nlivremente e pule como em um jogo de\nplataforma 2D. Mas cuidado, cada cápsula de\ngravidade só pode ser coletada uma vez,\na menos que reinicie</size>",
+                "スライムは重力の影響を受けています。\n2Dプラットフォーマーのように自由に動かし、\nジャンプもできます。ただし、再スタートしない限り、\n重力カプセルは一度しか取れません",
+                "슬라임이 이제 중력의 영향을 받습니다.\n2D 플랫폼 게임처럼 자유롭게 움직이고\n점프할 수 있습니다. 하지만 재시작하지 않으면\n중력 캡슐은 한 번만 획득할 수 있습니다",
+                "السلايم الآن يتأثر بالجاذبية.\nيمكنك تحريكه بحرية والقفز كما في \nلعبة منصات 2D. لكن انتبه، لا يمكن \nالتقاط كل كبسولة جاذبية إلا مرة واحدة \nإلا إذا أعدت البدء",
+                "<size=60>Lo slime ora è soggetto alla gravità.\nPuoi muoverlo liberamente e saltare\ncomo in un platform 2D. Ma attenzione,\nogni capsula di gravità può essere raccolta\nsolo una volta, a meno che non riavvii</size>",
+                "<size=60>Slime artık yerçekiminden etkileniyor.\nOnu 2D platform oyunlarında olduğu gibi\nözgürce hareket ettirip zıplayabilirsin.\nAma dikkat, her yerçekimi kapsülü yalnızca\nbir kez alınabilir, yeniden başlatmadıkça</size>",
+                "史萊姆現在受到重力影響，\n你可以像2D平台遊戲一樣自由移動並跳躍它。\n但要注意，除非重新開始，\n否則每個重力膠囊只能拾取一次"
             ]
         },
         {
             "x": 12.0,
             "y": 11.0,
+            "x_end": -1.0,
+            "y_end": 1.0,
             "languages": [
                 0,
                 1,
@@ -650,6 +620,42 @@
                 "<size=60>  \n  Ogni volta che tocchi una \n  capsula di gravità inverterà \n  l'effetto della gravità \n  sullo slime\n</size>",
                 "<size=60>\n  Her seferinde yerçekimi kapsülüne \n  dokunduğunda bu, yerçekiminin \n  sümükli böceğe etkisini tersine \n  çevirecektir\n</size>",
                 "\n  每次觸碰重力膠囊\n  會扭轉重力對史萊姆的影響"
+            ]
+        },
+        {
+            "x": 0.0,
+            "y": 17.0,
+            "x_end": -1.0,
+            "y_end": 1.0,
+            "languages": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "values": [
+                "<size=60>\n\n\n\n\n   The slime is currently under non-gravity\n</size>",
+                "\n\n  \n\n  史莱姆当前处于无重力状态",
+                "<size=60>\n\n\n\n    El slime está actualmente \n    en un estado de gravedad cero\n</size>",
+                "<size=60>\n\n\n\n   Der Schleim befindet sich derzeit \n   im Zustand der Schwerelosigkeit\n</size>",
+                "<size=60>\n\n\n\n    Слизень в настоящее время\n    находится в состоянии невесомости\n</size>",
+                "<size=60>\n\n\n\n   Le slime est actuellement \n   en état d'apesanteur\n</size>",
+                "<size=60>\n\n\n\n   O slime está atualmente em um \n   estado de gravidade zero\n</size>",
+                "\n\n\n\n  スライムは現在無重力状態にあります",
+                "\n\n  \n\n  슬라임은 현재 무중력 상태에 있습니다",
+                "\n\n\n\n  السلايم في حالةانعدام الوزن حاليًا",
+                "<size=60>\n\n\n\n   Il slime è attualmente in uno \n   stato di gravità zero\n</size>",
+                "<size=60>\n\n\n\n   Sümüklü böcek şu anda sıfır \n   yerçekimi durumunda\n</size>",
+                "\n\n\n\n  史萊姆目前處於無重力狀態"
             ]
         }
     ]
