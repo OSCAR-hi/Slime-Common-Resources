@@ -1,7 +1,7 @@
 {
     "chapterID": 3,
     "levelID": 3,
-    "isUnlockedInitially": true,
+    "isUnlockedInitially": false,
     "nextLevelChapterID": 3,
     "nextLevelID": 4,
     "whetherReturnToLevelSelectionPageAfterPass": false,
@@ -101,7 +101,7 @@
         {
             "x": 15.0,
             "y": 4.0,
-            "itemID": 16
+            "itemID": 4
         },
         {
             "x": 15.0,
