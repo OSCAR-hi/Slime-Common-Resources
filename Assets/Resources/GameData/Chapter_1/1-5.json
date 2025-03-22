@@ -9,103 +9,353 @@
     "numOfColumns": 30,
     "items": [
         {
-            "x": 27.0,
-            "y": 11.0,
-            "itemID": 10
+            "x": 22.0,
+            "y": 6.0,
+            "itemID": 1
         },
         {
-            "x": 27.0,
-            "y": 12.0,
-            "itemID": 10
-        },
-        {
-            "x": 27.0,
-            "y": 13.0,
-            "itemID": 8
-        },
-        {
-            "x": 7.0,
-            "y": 12.0,
-            "itemID": 32
-        },
-        {
-            "x": 9.0,
-            "y": 12.0,
-            "itemID": 31
-        },
-        {
-            "x": 5.0,
+            "x": 21.0,
             "y": 7.0,
-            "itemID": 30
+            "itemID": 4
         },
         {
-            "x": 7.0,
-            "y": 7.0,
-            "itemID": 31
+            "x": 21.0,
+            "y": 6.0,
+            "itemID": 1
         },
         {
-            "x": 25.0,
-            "y": 8.0,
-            "itemID": 3
+            "x": 20.0,
+            "y": 6.0,
+            "itemID": 1
         },
         {
-            "x": 12.0,
-            "y": 11.0,
-            "itemID": 39
+            "x": 19.0,
+            "y": 6.0,
+            "itemID": 1
         },
         {
-            "x": 9.0,
-            "y": 7.0,
-            "itemID": 30
+            "x": 18.0,
+            "y": 6.0,
+            "itemID": 1
         },
         {
-            "x": 5.0,
-            "y": 12.0,
-            "itemID": 31
-        },
-        {
-            "x": 23.0,
-            "y": 9.0,
-            "itemID": 35
-        },
-        {
-            "x": 13.0,
-            "y": 12.0,
-            "itemID": 7
+            "x": 17.0,
+            "y": 6.0,
+            "itemID": 1
         },
         {
             "x": 16.0,
-            "y": 8.0,
-            "itemID": 18
+            "y": 6.0,
+            "itemID": 1
+        },
+        {
+            "x": 15.0,
+            "y": 6.0,
+            "itemID": 1
         },
         {
             "x": 26.0,
-            "y": 12.0,
-            "itemID": 19
+            "y": 8.0,
+            "itemID": 7
         },
         {
-            "x": 3.0,
-            "y": 12.0,
-            "itemID": 38
+            "x": 14.0,
+            "y": 7.0,
+            "itemID": 4
+        },
+        {
+            "x": 14.0,
+            "y": 6.0,
+            "itemID": 1
         },
         {
             "x": 25.0,
-            "y": 5.0,
-            "itemID": 5
+            "y": 13.0,
+            "itemID": 1
         },
         {
-            "x": 2.0,
-            "y": 13.0,
-            "itemID": 6
+            "x": 11.0,
+            "y": 10.0,
+            "itemID": 35
         },
         {
-            "x": 3.0,
+            "x": 23.0,
+            "y": 12.0,
+            "itemID": 4
+        },
+        {
+            "x": 23.0,
             "y": 13.0,
+            "itemID": 1
+        },
+        {
+            "x": 25.0,
+            "y": 9.0,
+            "itemID": 4
+        },
+        {
+            "x": 25.0,
+            "y": 10.0,
+            "itemID": 4
+        },
+        {
+            "x": 25.0,
+            "y": 11.0,
+            "itemID": 4
+        },
+        {
+            "x": 26.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 22.0,
+            "y": 13.0,
+            "itemID": 1
+        },
+        {
+            "x": 21.0,
+            "y": 13.0,
+            "itemID": 1
+        },
+        {
+            "x": 20.0,
+            "y": 13.0,
+            "itemID": 1
+        },
+        {
+            "x": 19.0,
+            "y": 13.0,
+            "itemID": 1
+        },
+        {
+            "x": 18.0,
+            "y": 12.0,
+            "itemID": 4
+        },
+        {
+            "x": 18.0,
+            "y": 13.0,
+            "itemID": 4
+        },
+        {
+            "x": 18.0,
+            "y": 14.0,
+            "itemID": 2
+        },
+        {
+            "x": 17.0,
+            "y": 14.0,
+            "itemID": 1
+        },
+        {
+            "x": 16.0,
+            "y": 14.0,
+            "itemID": 1
+        },
+        {
+            "x": 15.0,
+            "y": 14.0,
+            "itemID": 1
+        },
+        {
+            "x": 14.0,
+            "y": 14.0,
+            "itemID": 0
+        },
+        {
+            "x": 14.0,
+            "y": 13.0,
+            "itemID": 4
+        },
+        {
+            "x": 13.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 12.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 11.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 11.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 10.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 9.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 10.0,
+            "y": 11.0,
+            "itemID": 10
+        },
+        {
+            "x": 10.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 10.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 10.0,
+            "y": 8.0,
+            "itemID": 10
+        },
+        {
+            "x": 10.0,
+            "y": 7.0,
+            "itemID": 10
+        },
+        {
+            "x": 10.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 9.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 8.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 7.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 8.0,
+            "y": 8.0,
+            "itemID": 10
+        },
+        {
+            "x": 8.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 8.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 8.0,
+            "y": 11.0,
+            "itemID": 10
+        },
+        {
+            "x": 8.0,
+            "y": 12.0,
+            "itemID": 10
+        },
+        {
+            "x": 8.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 7.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 6.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 5.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
+            "x": 6.0,
+            "y": 11.0,
+            "itemID": 10
+        },
+        {
+            "x": 4.0,
+            "y": 8.0,
+            "itemID": 10
+        },
+        {
+            "x": 4.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 4.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 4.0,
+            "y": 11.0,
+            "itemID": 10
+        },
+        {
+            "x": 4.0,
+            "y": 12.0,
+            "itemID": 10
+        },
+        {
+            "x": 6.0,
+            "y": 10.0,
+            "itemID": 10
+        },
+        {
+            "x": 6.0,
+            "y": 9.0,
+            "itemID": 10
+        },
+        {
+            "x": 6.0,
+            "y": 8.0,
+            "itemID": 10
+        },
+        {
+            "x": 6.0,
+            "y": 7.0,
+            "itemID": 10
+        },
+        {
+            "x": 6.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 5.0,
+            "y": 6.0,
             "itemID": 7
         },
         {
             "x": 4.0,
-            "y": 13.0,
+            "y": 6.0,
+            "itemID": 7
+        },
+        {
+            "x": 3.0,
+            "y": 6.0,
             "itemID": 7
         },
         {
@@ -114,354 +364,104 @@
             "itemID": 9
         },
         {
+            "x": 4.0,
+            "y": 13.0,
+            "itemID": 7
+        },
+        {
             "x": 3.0,
-            "y": 6.0,
+            "y": 13.0,
             "itemID": 7
         },
         {
-            "x": 4.0,
-            "y": 6.0,
-            "itemID": 7
+            "x": 2.0,
+            "y": 13.0,
+            "itemID": 6
         },
         {
-            "x": 5.0,
-            "y": 6.0,
-            "itemID": 7
+            "x": 25.0,
+            "y": 5.0,
+            "itemID": 5
         },
         {
-            "x": 6.0,
-            "y": 6.0,
-            "itemID": 7
-        },
-        {
-            "x": 6.0,
-            "y": 7.0,
-            "itemID": 10
-        },
-        {
-            "x": 6.0,
-            "y": 8.0,
-            "itemID": 10
-        },
-        {
-            "x": 6.0,
-            "y": 9.0,
-            "itemID": 10
-        },
-        {
-            "x": 6.0,
-            "y": 10.0,
-            "itemID": 10
-        },
-        {
-            "x": 4.0,
+            "x": 3.0,
             "y": 12.0,
-            "itemID": 10
+            "itemID": 38
         },
         {
-            "x": 4.0,
-            "y": 11.0,
-            "itemID": 10
-        },
-        {
-            "x": 4.0,
-            "y": 10.0,
-            "itemID": 10
-        },
-        {
-            "x": 4.0,
-            "y": 9.0,
-            "itemID": 10
-        },
-        {
-            "x": 4.0,
-            "y": 8.0,
-            "itemID": 10
-        },
-        {
-            "x": 6.0,
-            "y": 11.0,
-            "itemID": 10
-        },
-        {
-            "x": 5.0,
-            "y": 13.0,
-            "itemID": 7
-        },
-        {
-            "x": 6.0,
-            "y": 13.0,
-            "itemID": 7
-        },
-        {
-            "x": 7.0,
-            "y": 13.0,
-            "itemID": 7
-        },
-        {
-            "x": 8.0,
-            "y": 13.0,
-            "itemID": 7
-        },
-        {
-            "x": 8.0,
+            "x": 26.0,
             "y": 12.0,
-            "itemID": 10
+            "itemID": 19
         },
         {
-            "x": 8.0,
-            "y": 11.0,
-            "itemID": 10
-        },
-        {
-            "x": 8.0,
-            "y": 10.0,
-            "itemID": 10
-        },
-        {
-            "x": 8.0,
-            "y": 9.0,
-            "itemID": 10
-        },
-        {
-            "x": 8.0,
+            "x": 16.0,
             "y": 8.0,
-            "itemID": 10
-        },
-        {
-            "x": 7.0,
-            "y": 6.0,
-            "itemID": 7
-        },
-        {
-            "x": 8.0,
-            "y": 6.0,
-            "itemID": 7
-        },
-        {
-            "x": 9.0,
-            "y": 6.0,
-            "itemID": 7
-        },
-        {
-            "x": 10.0,
-            "y": 6.0,
-            "itemID": 7
-        },
-        {
-            "x": 10.0,
-            "y": 7.0,
-            "itemID": 10
-        },
-        {
-            "x": 10.0,
-            "y": 8.0,
-            "itemID": 10
-        },
-        {
-            "x": 10.0,
-            "y": 9.0,
-            "itemID": 10
-        },
-        {
-            "x": 10.0,
-            "y": 10.0,
-            "itemID": 10
-        },
-        {
-            "x": 10.0,
-            "y": 11.0,
-            "itemID": 10
-        },
-        {
-            "x": 9.0,
-            "y": 13.0,
-            "itemID": 7
-        },
-        {
-            "x": 10.0,
-            "y": 13.0,
-            "itemID": 7
-        },
-        {
-            "x": 11.0,
-            "y": 13.0,
-            "itemID": 7
-        },
-        {
-            "x": 11.0,
-            "y": 6.0,
-            "itemID": 7
-        },
-        {
-            "x": 12.0,
-            "y": 6.0,
-            "itemID": 7
+            "itemID": 18
         },
         {
             "x": 13.0,
-            "y": 6.0,
-            "itemID": 7
-        },
-        {
-            "x": 14.0,
-            "y": 13.0,
-            "itemID": 4
-        },
-        {
-            "x": 14.0,
-            "y": 14.0,
-            "itemID": 0
-        },
-        {
-            "x": 15.0,
-            "y": 14.0,
-            "itemID": 1
-        },
-        {
-            "x": 16.0,
-            "y": 14.0,
-            "itemID": 1
-        },
-        {
-            "x": 17.0,
-            "y": 14.0,
-            "itemID": 1
-        },
-        {
-            "x": 18.0,
-            "y": 14.0,
-            "itemID": 2
-        },
-        {
-            "x": 18.0,
-            "y": 13.0,
-            "itemID": 4
-        },
-        {
-            "x": 18.0,
             "y": 12.0,
-            "itemID": 4
-        },
-        {
-            "x": 19.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 20.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 21.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 22.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 26.0,
-            "y": 13.0,
             "itemID": 7
         },
         {
-            "x": 25.0,
-            "y": 11.0,
-            "itemID": 4
-        },
-        {
-            "x": 25.0,
-            "y": 10.0,
-            "itemID": 4
-        },
-        {
-            "x": 25.0,
+            "x": 23.0,
             "y": 9.0,
-            "itemID": 4
-        },
-        {
-            "x": 23.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 23.0,
-            "y": 12.0,
-            "itemID": 4
-        },
-        {
-            "x": 11.0,
-            "y": 10.0,
             "itemID": 35
         },
         {
+            "x": 5.0,
+            "y": 12.0,
+            "itemID": 31
+        },
+        {
+            "x": 9.0,
+            "y": 7.0,
+            "itemID": 30
+        },
+        {
+            "x": 12.0,
+            "y": 11.0,
+            "itemID": 39
+        },
+        {
             "x": 25.0,
-            "y": 13.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 14.0,
-            "y": 7.0,
-            "itemID": 4
-        },
-        {
-            "x": 26.0,
             "y": 8.0,
-            "itemID": 7
+            "itemID": 3
         },
         {
-            "x": 15.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 16.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 17.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 18.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 19.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 20.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 21.0,
-            "y": 6.0,
-            "itemID": 1
-        },
-        {
-            "x": 21.0,
+            "x": 7.0,
             "y": 7.0,
-            "itemID": 4
+            "itemID": 31
         },
         {
-            "x": 22.0,
-            "y": 6.0,
-            "itemID": 1
+            "x": 5.0,
+            "y": 7.0,
+            "itemID": 30
+        },
+        {
+            "x": 9.0,
+            "y": 12.0,
+            "itemID": 31
+        },
+        {
+            "x": 7.0,
+            "y": 12.0,
+            "itemID": 32
+        },
+        {
+            "x": 27.0,
+            "y": 13.0,
+            "itemID": 8
+        },
+        {
+            "x": 27.0,
+            "y": 12.0,
+            "itemID": 10
+        },
+        {
+            "x": 27.0,
+            "y": 11.0,
+            "itemID": 10
         },
         {
             "x": 23.0,
@@ -547,45 +547,14 @@
             "x": 2.0,
             "y": 12.0,
             "itemID": 10
+        },
+        {
+            "x": 1.0,
+            "y": 16.0,
+            "itemID": 39
         }
     ],
     "floatingTexts": [
-        {
-            "x": 9.0,
-            "y": 5.0,
-            "x_end": -1.0,
-            "y_end": 1.0,
-            "languages": [
-                0,
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
-            ],
-            "values": [
-                "<size=60>The slime is now affected by gravity.\nYou can move it freely and jump like\nin a 2D platformer, but be careful, \neach gravity capsule can only be\npicked up once unless you restart</size>",
-                "史莱姆现在会受到重力影响，\n你可以像在2D平台游戏中一样自由移动并跳跃，\n但要注意，除非重新开始，\n否则每个重力胶囊只能被拾取一次",
-                "<size=60>El slime ahora tiene gravedad.\nMuévelo libremente y salta como\nen un juego de plataformas 2D.\nPero cuidado, cada cápsula de\ngravedad solo se recoge una vez,\na menos que reinicies</size>",
-                "<size=60>Der Schleim unterliegt jetzt der\nSchwerkraft. Du kannst ihn wie in\neinem 2D-Plattformer bewegen und\nspringen,aber Achtung: Jede Schwerkraftkapsel\nkann nur einmal aufgenommen werden,\nes sei denn, du startest neu</size>",
-                "<size=60>Теперь слизень подвержен гравитации.\nТы можешь свободно перемещать его и прыгать,\nкак в 2D-платформере. Но будь внимателен: \nкаждую капсулу гравитации можно взять только\nодин раз, если не перезапускать</size>",
-                "<size=60>Le slime est maintenant soumis à\nla gravité. Déplace-le librement et saute\ncomme dans un jeu de plateforme 2D.\nAttention, chaque capsule de gravité ne\npeut être prise qu’une seule fois,\nsauf si tu recommences</size>",
-                "<size=60>O slime agora tem gravidade. Movimente-o\nlivremente e pule como em um jogo de\nplataforma 2D. Mas cuidado, cada cápsula de\ngravidade só pode ser coletada uma vez,\na menos que reinicie</size>",
-                "スライムは重力の影響を受けています。\n2Dプラットフォーマーのように自由に動かし、\nジャンプもできます。ただし、再スタートしない限り、\n重力カプセルは一度しか取れません",
-                "슬라임이 이제 중력의 영향을 받습니다.\n2D 플랫폼 게임처럼 자유롭게 움직이고\n점프할 수 있습니다. 하지만 재시작하지 않으면\n중력 캡슐은 한 번만 획득할 수 있습니다",
-                "السلايم الآن يتأثر بالجاذبية.\nيمكنك تحريكه بحرية والقفز كما في \nلعبة منصات 2D. لكن انتبه، لا يمكن \nالتقاط كل كبسولة جاذبية إلا مرة واحدة \nإلا إذا أعدت البدء",
-                "<size=60>Lo slime ora è soggetto alla gravità.\nPuoi muoverlo liberamente e saltare\ncomo in un platform 2D. Ma attenzione,\nogni capsula di gravità può essere raccolta\nsolo una volta, a meno che non riavvii</size>",
-                "<size=60>Slime artık yerçekiminden etkileniyor.\nOnu 2D platform oyunlarında olduğu gibi\nözgürce hareket ettirip zıplayabilirsin.\nAma dikkat, her yerçekimi kapsülü yalnızca\nbir kez alınabilir, yeniden başlatmadıkça</size>",
-                "史萊姆現在受到重力影響，\n你可以像2D平台遊戲一樣自由移動並跳躍它。\n但要注意，除非重新開始，\n否則每個重力膠囊只能拾取一次"
-            ]
-        },
         {
             "x": 12.0,
             "y": 11.0,
@@ -623,6 +592,42 @@
             ]
         },
         {
+            "x": 9.0,
+            "y": 5.0,
+            "x_end": -1.0,
+            "y_end": 1.0,
+            "languages": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "values": [
+                "<size=60>The slime is now affected by gravity.\nYou can move it freely and jump like\nin a 2D platformer, but be careful, \neach gravity capsule can only be\npicked up once unless you restart</size>",
+                "史莱姆现在会受到重力影响，\n你可以像在2D平台游戏中一样自由移动并跳跃，\n但要注意，除非重新开始，\n否则每个重力胶囊只能被拾取一次",
+                "<size=60>El slime ahora tiene gravedad.\nMuévelo libremente y salta como\nen un juego de plataformas 2D.\nPero cuidado, cada cápsula de\ngravedad solo se recoge una vez,\na menos que reinicies</size>",
+                "<size=60>Der Schleim unterliegt jetzt der\nSchwerkraft. Du kannst ihn wie in\neinem 2D-Plattformer bewegen und\nspringen,aber Achtung: Jede Schwerkraftkapsel\nkann nur einmal aufgenommen werden,\nes sei denn, du startest neu</size>",
+                "<size=60>Теперь слизень подвержен гравитации.\nТы можешь свободно перемещать его и прыгать,\nкак в 2D-платформере. Но будь внимателен: \nкаждую капсулу гравитации можно взять только\nодин раз, если не перезапускать</size>",
+                "<size=60>Le slime est maintenant soumis à\nla gravité. Déplace-le librement et saute\ncomme dans un jeu de plateforme 2D.\nAttention, chaque capsule de gravité ne\npeut être prise qu’une seule fois,\nsauf si tu recommences</size>",
+                "<size=60>O slime agora tem gravidade. Movimente-o\nlivremente e pule como em um jogo de\nplataforma 2D. Mas cuidado, cada cápsula de\ngravidade só pode ser coletada uma vez,\na menos que reinicie</size>",
+                "スライムは重力の影響を受けています。\n2Dプラットフォーマーのように自由に動かし、\nジャンプもできます。ただし、再スタートしない限り、\n重力カプセルは一度しか取れません",
+                "슬라임이 이제 중력의 영향을 받습니다.\n2D 플랫폼 게임처럼 자유롭게 움직이고\n점프할 수 있습니다. 하지만 재시작하지 않으면\n중력 캡슐은 한 번만 획득할 수 있습니다",
+                "السلايم الآن يتأثر بالجاذبية.\nيمكنك تحريكه بحرية والقفز كما في \nلعبة منصات 2D. لكن انتبه، لا يمكن \nالتقاط كل كبسولة جاذبية إلا مرة واحدة \nإلا إذا أعدت البدء",
+                "<size=60>Lo slime ora è soggetto alla gravità.\nPuoi muoverlo liberamente e saltare\ncomo in un platform 2D. Ma attenzione,\nogni capsula di gravità può essere raccolta\nsolo una volta, a meno che non riavvii</size>",
+                "<size=60>Slime artık yerçekiminden etkileniyor.\nOnu 2D platform oyunlarında olduğu gibi\nözgürce hareket ettirip zıplayabilirsin.\nAma dikkat, her yerçekimi kapsülü yalnızca\nbir kez alınabilir, yeniden başlatmadıkça</size>",
+                "史萊姆現在受到重力影響，\n你可以像2D平台遊戲一樣自由移動並跳躍它。\n但要注意，除非重新開始，\n否則每個重力膠囊只能拾取一次"
+            ]
+        },
+        {
             "x": 0.0,
             "y": 17.0,
             "x_end": -1.0,
@@ -656,6 +661,42 @@
                 "<size=60>\n\n\n\n   Il slime è attualmente in uno \n   stato di gravità zero\n</size>",
                 "<size=60>\n\n\n\n   Sümüklü böcek şu anda sıfır \n   yerçekimi durumunda\n</size>",
                 "\n\n\n\n  史萊姆目前處於無重力狀態"
+            ]
+        },
+        {
+            "x": 1.0,
+            "y": 16.0,
+            "x_end": -1.0,
+            "y_end": 1.0,
+            "languages": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "values": [
+                "<size=60>\nPress 'R' can immediately restart the current level</size>",
+                "\n按下'R'可以立刻重新开始当前关卡",
+                "<size=60>\n Presione 'R' para reiniciar el nivel actual</size>",
+                "<size=60>\nDrücke 'R', um den aktuellen Level neu zu starten</size>",
+                "<size=60>\n Нажмите 'R', чтобы начать уровень заново</size>",
+                "<size=60>\nAppuyez sur 'R' pour redémarrer le niveau actuel</size>",
+                "<size=60>\nPressione 'R' para reiniciar o nível atual</size>",
+                "\n'R'キーを押すと現在のレベルを再開できます",
+                "\n'R' 키를 누르면 현재 레벨을 다시 시작할 수 있습니다",
+                "\nاضغط على 'R' لإعادة بدء المستوى الحالي فورًا",
+                "<size=60>\nPremere 'R' per riavviare il livello corrente</size>",
+                "<size=60>\n'R' tuşuna basarak mevcut seviyeyi yeniden başlatabilirsiniz</size>",
+                "\n按下'R'可以立刻重新開始當前關卡"
             ]
         }
     ]

@@ -362,12 +362,19 @@
             "x": 26.0,
             "y": 10.0,
             "itemID": 4
+        },
+        {
+            "x": 3.0,
+            "y": 16.0,
+            "itemID": 39
         }
     ],
     "floatingTexts": [
         {
             "x": 20.0,
             "y": 7.0,
+            "x_end": -1.0,
+            "y_end": 1.0,
             "languages": [
                 0,
                 1,
@@ -402,6 +409,8 @@
         {
             "x": 3.0,
             "y": 15.0,
+            "x_end": -1.0,
+            "y_end": 1.0,
             "languages": [
                 0,
                 1,
@@ -431,6 +440,42 @@
                 "Usa WASD o ↑↓←→ per muoverti",
                 "WASD veya ↑↓←→ tuşlarını kullanarak hareket et",
                 "使用WASD或↑↓←→進行移動"
+            ]
+        },
+        {
+            "x": 3.0,
+            "y": 16.0,
+            "x_end": -1.0,
+            "y_end": 1.0,
+            "languages": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "values": [
+                "Press 'R' can immediately restart the current level",
+                "按下'R'可以立刻重新开始当前关卡",
+                "Presione 'R' para reiniciar el nivel actual",
+                "Drücke 'R', um den aktuellen Level neu zu starten",
+                "Нажмите 'R', чтобы начать уровень заново",
+                "Appuyez sur 'R' pour redémarrer le niveau actuel",
+                "Pressione 'R' para reiniciar o nível atual",
+                "'R'キーを押すと現在のレベルを再開できます",
+                "'R' 키를 누르면 현재 레벨을 다시 시작할 수 있습니다",
+                "اضغط على 'R' لإعادة بدء المستوى الحالي فورًا",
+                "Premere 'R' per riavviare il livello corrente",
+                "'R' tuşuna basarak mevcut seviyeyi yeniden başlatabilirsiniz",
+                "按下'R'可以立刻重新開始當前關卡"
             ]
         }
     ]
